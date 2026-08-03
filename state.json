@@ -903,6 +903,538 @@
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30ans-collection-illustration-premiers-partenaires-serie-1-fr",
       "cat": "set_other"
+    },
+    "SkySpell::15614698815865": {
+      "title": "Pokémon 30th Anniversary First Partner Special Illustration Holo Set Vol. 2 | Simplified Chinese",
+      "available": true,
+      "lang": "?",
+      "url": "https://skyspell.ch/products/pokemon-30th-anniversary-first-partner-special-illustration-holo-set-vol-2-simplified-chinese",
+      "cat": "set_other"
+    },
+    "SkySpell::15365708448121": {
+      "title": "Pokémon 30-jähriges Jubiläum Partner Special Illustration Flashcard Set Vol. 1 | Simplified Chinese",
+      "available": true,
+      "lang": "?",
+      "url": "https://skyspell.ch/products/pokemon-30-jahriges-jubilaum-partner-special-illustration-flashcard-set-vol-1-simplified-chinese",
+      "cat": "set_other"
+    },
+    "PikaStore::15828690600310": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - ETB Coffret Dresseur d'Élite - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-etb-coffret-dresseur-delite-me05-5-30e-anniversaire",
+      "cat": "target_etb"
+    },
+    "PikaStore::15828690436470": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - ETB Coffret Dresseur d'Élite - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-etb-coffret-dresseur-delite-me05-5-30e-anniversaire",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15038250746232": {
+      "title": "Pokémon - 30th Celebration - EX Tin Box EN (1 Stk. zufällige Auswahl)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-en-1-stk-zufallige-auswahl-1",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038250058104": {
+      "title": "Pokémon - 30 Jahre - EX Tin Box DE (1 Stk. zufällige Auswahl)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-en-1-stk-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038249927032": {
+      "title": "Pokémon - 30th Celebration - Binder Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-binder-collection-en",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038249730424": {
+      "title": "Pokémon - 30 Jahre - Ordner Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ordner-kollektion-de",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038249632120": {
+      "title": "Pokémon - 30 Jahre - Tech Sticker Kollektion DE (1 St. zufällige Auswahl)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-tech-sticker-kollektion-de-1-st-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038249140600": {
+      "title": "Pokémon - 30th Celebration - Tech Sticker Collection EN (1 St. zufällige Auswahl)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-tech-sticker-collection-en-1-st-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038247862648": {
+      "title": "Pokémon - 30th Celebration - Elite Trainer Box ETB EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15038247076216": {
+      "title": "Pokémon - 30 Jahre - Top-Trainer Box TTB DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-top-trainer-box-ttb-de",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15038203330936": {
+      "title": "Pokémon - 30 Jahre - Poster Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-poster-kollektion-de",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038203199864": {
+      "title": "Pokémon - 30th Celebration - Poster Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-poster-collection-en",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038202937720": {
+      "title": "Pokémon - 30th Celebration - EX Box EN (1 Stk. zufällige Auswahl)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-box-en-1-stk-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038202511736": {
+      "title": "Pokémon - 30 Jahre - EX Kollektion DE (1 Stk. zufällige Auswahl)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ex-kollektion-de-1-stk-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038201659768": {
+      "title": "Pokémon - 30th Celebration - 2-Pack Blister EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-2-pack-blister-en",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038201004408": {
+      "title": "Pokémon - 30 Jahre - 2-Pack Blister DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-2-pack-blister-de",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038200217976": {
+      "title": "Pokémon - 30 Jahre - Mini Tin DE (1 Stk. zufällige Auswahl)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-mini-tin-de",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038199890296": {
+      "title": "Pokémon - 30th Celebration - Mini Tin EN (1 Stk. zufällige Auswahl)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-mini-tin-en",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038199562616": {
+      "title": "Pokémon - 30th Celebration - Booster Bundle EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-booster-bundle-en",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15038199529848": {
+      "title": "Pokémon - 30 Jahre - Booster Bundle DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-booster-bundle-de",
+      "cat": "set_other"
+    },
+    "Detsuki::15877189468504": {
+      "title": "Pokémon 30th Anniversary First Partner Special Illustration Card Set Vol. 2",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-30th-anniversary-first-partner-special-illustration-card-set-vol-2",
+      "cat": "set_other"
+    },
+    "Detsuki::15798741565784": {
+      "title": "Pokémon 30th Anniversary First Partner Special Illustration Card Set Vol. 1",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-30th-anniversary-first-partner-special-illustration-card-set-vol-1",
+      "cat": "set_other"
+    },
+    "Pikaversum::15790417707382": {
+      "title": "Pokémon 30th Celebration First Partner Special Illustration Card Set Vol.2 (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-30th-celebration-first-partner-special-illustration-card-set-vol-2-cn",
+      "cat": "set_other"
+    },
+    "Pikaversum::15738205438326": {
+      "title": "Pokémon TCG - 30th Anniversary First Partner Special Illustration Card Set Vol. 1 (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-anniversary-first-partner-special-illustration-card-set-vol-1-cn",
+      "cat": "set_other"
+    },
+    "Zadoys::15813215486335": {
+      "title": "30th Celebration Deck Combat FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-deck-combat-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813206638975": {
+      "title": "30th Celebration Kampfdeck DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-kampfdeck-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813195137407": {
+      "title": "30th Celebration Battle Deck EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-battle-deck-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813132812671": {
+      "title": "30th Celebration Mewtwo Collection avec Figurine FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtwo-collection-avec-figurine-franzosisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813126816127": {
+      "title": "30th Celebration Mewtwo Figure Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtwo-figure-collection-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813128683903": {
+      "title": "30th Celebration Mewtu Figuren Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtu-figuren-kollektion-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813123735935": {
+      "title": "30th Celebration Mew Figure Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mew-figure-collection-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813106762111": {
+      "title": "30th Celebration Métamorph Premium Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-metamorph-premium-collection-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813100306815": {
+      "title": "30th Celebration Ditto Premium Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ditto-premium-collection-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813091557759": {
+      "title": "30th Celebtration Ditto Premium Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebtration-ditto-premium-kollektion-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15802853654911": {
+      "title": "30th Celebration Ultra Premium Collection Soirée FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch",
+      "cat": "target_upc"
+    },
+    "Zadoys::15802848838015": {
+      "title": "30th Celebration Ultra Premium Collection Journée FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
+      "cat": "target_upc"
+    },
+    "Zadoys::15802844610943": {
+      "title": "30th Celebration Ultra Premium Collection Night EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch",
+      "cat": "target_upc"
+    },
+    "Zadoys::15802683228543": {
+      "title": "30th Celebration Ultra Premium Collection Day EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-day-englisch",
+      "cat": "target_upc"
+    },
+    "Zadoys::15802673987967": {
+      "title": "30th Celebration Ultra Premium Kollektion Nacht DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-nacht-deutsch",
+      "cat": "target_upc"
+    },
+    "Zadoys::15802658849151": {
+      "title": "30th Celebration Ultra Premium Kollektion Tag DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch",
+      "cat": "target_upc"
+    },
+    "Zadoys::15777811005823": {
+      "title": "30th Celebration 2-Pack Blister FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-2-pack-blister-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15777810022783": {
+      "title": "30th Celebration 2-Pack Blister DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-2-pack-blister-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15777808286079": {
+      "title": "30th Celebration 2-Pack Blister EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-2-pack-blister-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15775156371839": {
+      "title": "30th Celebration Coffret Dresseur d'Elite FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-coffret-dresseur-delite-franzoesisch",
+      "cat": "target_etb"
+    },
+    "Zadoys::15775153455487": {
+      "title": "30th Celebration Top Trainer Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch",
+      "cat": "target_etb"
+    },
+    "Zadoys::15775145132415": {
+      "title": "30th Celebration Elite Trainer Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch",
+      "cat": "target_etb"
+    },
+    "Zadoys::15775117214079": {
+      "title": "30th Celebration Tech Sticker Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-tech-sticker-collection-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15775098077567": {
+      "title": "30th Celebration Tech Sticker Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-tech-sticker-kollektion-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15775082774911": {
+      "title": "30th Celebration Tech Sticker Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-tech-sticker-collection-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15775047385471": {
+      "title": "30th Celebration Classeur Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-classeur-collection-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15775041356159": {
+      "title": "30th Celebration Ordner Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ordner-kollektion-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15775035654527": {
+      "title": "30th Celebration Binder Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-binder-collection-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773658579327": {
+      "title": "30th Celebration Sylveon ex Tin EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-sylveon-ex-tin-englsich",
+      "cat": "set_other"
+    },
+    "Zadoys::15773649863039": {
+      "title": "30th Celebration Greninja ex Tin EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-greninja-ex-tin-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773647733119": {
+      "title": "30th Celebration Feelinara ex Tin DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-feelinara-ex-tin-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773646029183": {
+      "title": "30th Celebration Quajutsu ex Tin DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-quajutsu-ex-tin-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773643309439": {
+      "title": "30th Celebration Sylveon ex Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-sylveon-ex-box-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773641605503": {
+      "title": "30th Celebration Greninja ex Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-greninja-ex-box-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773636952447": {
+      "title": "30th Celebration Nymphali ex Box FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-nymphali-ex-box-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773633577343": {
+      "title": "30th Celebration Feelinara ex Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-feelinara-ex-box-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773621518719": {
+      "title": "30th Celebration Quajutsu ex Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/mega-series-30th-celebration-quajutsu-ex-box-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773608575359": {
+      "title": "30th Celebration Poster Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-poster-collection-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773603594623": {
+      "title": "30th Celebration Poster Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-poster-kollektion-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773597139327": {
+      "title": "30th Celebration Poster Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-poster-collection-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773584163199": {
+      "title": "30th Celebration Booster Bundle FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-booster-bundle-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773580689791": {
+      "title": "30th Celebration Booster Bundle DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-booster-bundle-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773575643519": {
+      "title": "30th Celebration Booster Bundle EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-booster-bundle-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773565387135": {
+      "title": "30th Celebration Mini Tin FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mini-tin-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773556113791": {
+      "title": "30th Celebration Mini Tin DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mini-tin-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15773516988799": {
+      "title": "30th Celebration Mini Tin EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mini-tin-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15776025510271": {
+      "title": "30th Celebration First Partner Special Illustration Holo Set Vol.2 CHE",
+      "available": false,
+      "lang": "?",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-first-partner-special-illustration-holo-set-vol-2-che",
+      "cat": "set_other"
+    },
+    "Pokereaves::10618874233179": {
+      "title": "Pre-order Pokemon 30th anniversary Booster Bundle - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-pokemon-30th-anniversary-booster-bundle-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10617207947611": {
+      "title": "Pre-order 1x Pokemon Mewtwo and Mew collection COLLECTION BOX 30th anniversary - ENGLISH",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mewtwo-and-mew-collection-collection-box-30th-anniversary-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10617136185691": {
+      "title": "Pre-order 1x Pokemon BINDER COLLECTION BOX 30th anniversary - ENGLISH",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-ditto-premium-collection-30th-anniversary-english-copia",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -911,9 +1443,17 @@
     "The Mana Shop::https://themanashop.ch/search?q=30th+celebration": true,
     "Miixy's Cards::https://miixyscards.ch/recherche?controller=search&s=30th%20celebration": false,
     "World of Games::https://www.wog.ch/en/index.cfm/promotion/type/Games/title/2558-Pokemon-30th-Anniversary": true,
-    "Manor::https://www.manor.ch/fr/search?q=30th+celebration": true,
+    "Manor::https://www.manor.ch/fr/search?q=30th+celebration": false,
     "Migros::https://www.migros.ch/fr/search?query=30th%20celebration": false,
-    "Smyths Toys CH::https://www.smythstoys.com/ch/fr-ch/search/?text=30th+celebration": false
+    "Smyths Toys CH::https://www.smythstoys.com/ch/fr-ch/search/?text=30th+celebration": false,
+    "The Uncommon Shop::https://theuncommonshop.ch/?s=30th+celebration&post_type=product": false,
+    "Draft Arena::https://www.draftarena.ch/sitemap.xml": false,
+    "Softridge::https://www.softridge.ch/en/tcg/pokemon": false,
+    "Amazing Toys::https://amazingtoys.ch/search?search=30th%20celebration": false,
+    "Amazing Toys::https://amazingtoys.ch/Pre-Order/?immediately-available=1": false,
+    "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": false,
+    "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": false,
+    "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": false
   },
   "hb": {}
 }
