@@ -250,10 +250,12 @@ def process_shopify(site, products, state, alerts, other_by_site, seed):
 
 
 def process_html(site, state, alerts, seed):
+    got = False   # True si au moins une page a pu être lue (sinon on ne "valide" pas le site)
     for url in site.get("search_urls", [site["base"]]):
         html = fetch_html(url)
         if html is None:
             continue
+        got = True
         # tripwire : un vrai produit ETB/UPC « 30 ans » apparaît-il sur la page ?
         t, ta = _prep(html)
         present = _html_hit(t, ta)
@@ -265,6 +267,7 @@ def process_html(site, state, alerts, seed):
                            "price": "", "currency": "", "lang": "?", "available": True, "url": url,
                            "safety": site.get("safety")})
         state["html"][key] = present
+    return got
 
 
 # ─────────────────────────── Mise en forme des messages ───────────────────────────
@@ -391,19 +394,23 @@ def main():
         # amorçage silencieux : 1er démarrage global OU boutique tout juste ajoutée
         seed = first_run or (site["name"] not in state["seeded_sites"])
         print(f"→ {site['name']} ({site['type']}){' [amorçage silencieux]' if seed else ''}")
+        processed = False
         try:
             products = None
             if site["type"] in ("shopify", "auto"):
                 products = fetch_shopify(site["base"])
             if products is not None:
                 process_shopify(site, products, state, alerts, other_by_site, seed)
+                processed = True
             elif site["type"] in ("html", "auto"):
-                process_html(site, state, alerts, seed)
+                processed = bool(process_html(site, state, alerts, seed))
             else:
                 print(f"    [!] Shopify indisponible et pas de repli HTML pour {site['name']}")
         except Exception as e:
             print(f"    [!] erreur sur {site['name']} : {e}")
-        if site["name"] not in state["seeded_sites"]:
+        # ne marquer « déjà vu » QUE si la lecture a réussi (sinon un site rate-limité re-déclencherait
+        # tous ses produits en « NOUVEAU » au passage suivant) -> on ré-essaiera l'amorçage plus tard
+        if processed and site["name"] not in state["seeded_sites"]:
             state["seeded_sites"].append(site["name"])
 
     # Envoi
