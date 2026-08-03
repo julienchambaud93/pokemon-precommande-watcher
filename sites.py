@@ -44,6 +44,13 @@ SITES = [
      "search_urls": ["https://www.wog.ch/en/index.cfm/promotion/type/Games/title/2558-Pokemon-30th-Anniversary"]},
     {"name": "Philibert",       "base": "https://www.philibertnet.com","type": "html",    "currency": "EUR",
      "search_urls": ["https://www.philibertnet.com/en/recherche?controller=search&s=30th%20celebration"]},
+    # The Uncommon Shop = WooCommerce (texte lisible) -> surveillance fiable par recherche
+    {"name": "The Uncommon Shop","base": "https://theuncommonshop.ch", "type": "html",    "currency": "CHF",
+     "search_urls": ["https://theuncommonshop.ch/?s=30th+celebration&post_type=product"]},
+    # Draft Arena = site JavaScript -> best-effort via son sitemap (les pages 30 ans existent déjà,
+    # capte surtout de NOUVELLES références ; leur propre Telegram reste le vrai filet de sécurité)
+    {"name": "Draft Arena",     "base": "https://www.draftarena.ch",   "type": "html",    "currency": "CHF", "best_effort": True,
+     "search_urls": ["https://www.draftarena.ch/sitemap.xml"]},
 
     # ─────────── Gros généralistes (best-effort : peuvent bloquer les robots) ───────────
     {"name": "Coop",     "base": "https://www.coop.ch",   "type": "html", "currency": "CHF", "best_effort": True,

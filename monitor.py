@@ -101,6 +101,29 @@ def classify(text):
     return None
 
 
+def _html_hit(t, ta):
+    """
+    Tripwire pour les sites NON-Shopify (surveillés par page de recherche).
+    On exige l'anniversaire ET un vrai signe de produit ETB/UPC — sinon une page de recherche
+    qui ne fait que RÉAFFICHER le terme cherché (« 30th celebration ») déclencherait à tort.
+    """
+    if _is_japanese(ta):
+        return False
+    tn = re.sub(r"[-_/]+", " ", ta)      # « 30th-celebration-etb » (URL/slug) -> « 30th celebration etb »
+    if not _is_anniversary(tn, tn):
+        return False
+    has_type = ("elite trainer" in tn or "ultra premium" in tn or "top trainer" in tn
+                or ("dresseur" in tn and "elite" in tn)
+                or re.search(r"\betb\b", tn) is not None or re.search(r"\bupc\b", tn) is not None)
+    if not has_type:
+        return False
+    # page « aucun résultat » -> pas un vrai hit
+    if ("aucun resultat" in ta or "no result" in ta or "0 result" in ta
+            or "no products" in ta or "did not match" in ta or "keine ergebnisse" in ta):
+        return False
+    return True
+
+
 def guess_language(text):
     _, ta = _prep(text)
     if re.search(r"\ben\b", ta) or "english" in ta or "anglais" in ta or "englisch" in ta or "-en-" in ta or "(en)" in ta:
@@ -227,9 +250,9 @@ def process_html(site, state, alerts, first_run):
         html = fetch_html(url)
         if html is None:
             continue
-        # tripwire : le set 30 ans (n'importe quelle écriture) apparaît-il sur la page ?
+        # tripwire : un vrai produit ETB/UPC « 30 ans » apparaît-il sur la page ?
         t, ta = _prep(html)
-        present = _is_anniversary(t, ta) and not _is_japanese(ta)
+        present = _html_hit(t, ta)
         key = f"{site['name']}::{url}"
         was = state["html"].get(key, False)
         if present and not was and not first_run:
