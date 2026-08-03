@@ -38,7 +38,7 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
-      - name: Lancer la surveillance
+      - name: Surveillance (boucle ~50 min) ou action ponctuelle
         env:
           MODE: ${{ github.event.inputs.mode }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
@@ -50,19 +50,32 @@ jobs:
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           TEST_ALERT: ${{ secrets.TEST_ALERT }}
-        run: python monitor.py
-
-      - name: Sauvegarder l'état + battement de cœur quotidien
         run: |
-          # heartbeat.txt = date du jour : change 1x/jour -> au moins 1 commit/jour
-          # (empêche GitHub de mettre le cron en pause après 60 jours d'inactivité).
-          date -u +%Y-%m-%d > heartbeat.txt
-          if [ -n "$(git status --porcelain state.json heartbeat.txt)" ]; then
-            git config user.name "pokemon-bot"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add state.json heartbeat.txt
-            git commit -m "maj état surveillance + heartbeat"
-            git push
+          git config user.name "pokemon-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Sauvegarde l'état + heartbeat quotidien (commit seulement si changement)
+          sauver_etat () {
+            date -u +%Y-%m-%d > heartbeat.txt
+            if [ -n "$(git status --porcelain state.json heartbeat.txt)" ]; then
+              git add state.json heartbeat.txt
+              git commit -q -m "maj état surveillance"
+              git pull -q --rebase 2>/dev/null || true
+              git push -q 2>/dev/null || true
+            fi
+          }
+
+          if [ "$MODE" = "rapport" ] || [ "$MODE" = "test" ]; then
+            # Action ponctuelle (déclenchement manuel) : une seule exécution
+            python monitor.py
           else
-            echo "Aucun changement (déjà à jour aujourd'hui)."
+            # Surveillance : boucle ~50 min, vérification toutes les 2 min.
+            # Contourne le throttling des crons GitHub gratuits (qui ne respectent PAS "toutes les 5 min") :
+            # même si GitHub ne démarre le job qu'une fois par heure, on vérifie en continu toutes les 2 min.
+            fin=$((SECONDS + 3000))
+            while [ $SECONDS -lt $fin ]; do
+              python monitor.py || true
+              sauver_etat
+              [ $SECONDS -lt $fin ] && sleep 120
+            done
           fi
