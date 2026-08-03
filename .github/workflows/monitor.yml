@@ -3,7 +3,16 @@ name: Surveillance précommandes Pokémon
 on:
   schedule:
     - cron: "*/5 * * * *"     # toutes les 5 minutes (minimum autorisé par GitHub)
-  workflow_dispatch:           # bouton "Run workflow" pour un lancement manuel / test
+  workflow_dispatch:           # bouton "Run workflow" pour un lancement manuel
+    inputs:
+      mode:
+        description: "Mode d'exécution"
+        type: choice
+        default: surveillance
+        options:
+          - surveillance       # normal : n'alerte que sur du nouveau / retour en stock
+          - rapport            # envoie un compte-rendu immédiat sur Telegram
+          - test               # envoie un simple message de test Telegram
 
 # Autorise le job à ré-écrire state.json dans le dépôt
 permissions:
@@ -31,6 +40,7 @@ jobs:
 
       - name: Lancer la surveillance
         env:
+          MODE: ${{ github.event.inputs.mode }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           # Email (phase 2) — laisser vide tant que non configuré :

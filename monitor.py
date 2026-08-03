@@ -34,6 +34,7 @@ HEADERS = {
     "Accept-Language": "fr-CH,fr;q=0.9,en;q=0.8",
 }
 TIMEOUT = 25
+SITE_SAFETY = {s["name"]: s.get("safety") for s in SITES}   # nom -> note de sûreté /10
 
 
 # ─────────────────────────── Détection (LARGE, tolérante aux variantes d'écriture) ───────────────────────────
@@ -233,14 +234,16 @@ def process_shopify(site, products, state, alerts, other_by_site, first_run):
             if not first_run:
                 alerts.append({"kind": "NOUVEAU", "label": label, "site": site["name"],
                                "title": title, "price": price, "currency": site.get("currency", ""),
-                               "lang": lang, "available": available, "url": url})
+                               "lang": lang, "available": available, "url": url,
+                               "safety": site.get("safety")})
             state["seen"][key] = {"title": title, "available": available, "lang": lang, "url": url, "cat": kind}
         else:
             was = state["seen"][key].get("available", False)
             if available and not was and not first_run:
                 alerts.append({"kind": "EN STOCK", "label": label, "site": site["name"],
                                "title": title, "price": price, "currency": site.get("currency", ""),
-                               "lang": lang, "available": available, "url": url})
+                               "lang": lang, "available": available, "url": url,
+                               "safety": site.get("safety")})
             state["seen"][key]["available"] = available
             state["seen"][key]["title"] = title
 
@@ -258,7 +261,8 @@ def process_html(site, state, alerts, first_run):
         if present and not was and not first_run:
             alerts.append({"kind": "À VÉRIFIER", "label": "PAGE", "site": site["name"],
                            "title": "Un produit '30 ans' est apparu sur la page surveillée",
-                           "price": "", "currency": "", "lang": "?", "available": True, "url": url})
+                           "price": "", "currency": "", "lang": "?", "available": True, "url": url,
+                           "safety": site.get("safety")})
         state["html"][key] = present
 
 
@@ -268,8 +272,9 @@ def format_alert(a):
     icon = {"NOUVEAU": "🚨", "EN STOCK": "🟢", "À VÉRIFIER": "👀"}.get(a["kind"], "🔔")
     price = f"\nPrix : {a['price']} {a['currency']}".rstrip() if a.get("price") else ""
     lang = f"\nLangue probable : {a['lang']}" if a.get("lang") and a["lang"] != "?" else "\nLangue : à vérifier"
+    safety = f" (🛡️ sûreté {a['safety']}/10)" if a.get("safety") is not None else ""
     return (f"{icon} {a['kind']} — {a['label']} 30 ans\n"
-            f"Boutique : {a['site']}\n"
+            f"Boutique : {a['site']}{safety}\n"
             f"Produit : {a['title']}"
             f"{price}{lang}\n"
             f"➡️ {a['url']}")
@@ -313,12 +318,67 @@ def daily_heartbeat(state, first_run):
     hb[slot] = today
 
 
+# ─────────────────────────── Mode RAPPORT (compte-rendu immédiat sur Telegram) ───────────────────────────
+
+def run_report():
+    header = [
+        "📋 COMPTE-RENDU IMMÉDIAT — ETB / UPC « 30 ans » détectés maintenant",
+        "🟢 = commandable   🔴 = rupture (souvent : précommande pas encore ouverte, ou déjà partie)",
+        "",
+    ]
+    blocks = []
+    for site in SITES:
+        if site["type"] not in ("shopify", "auto"):
+            continue
+        try:
+            products = fetch_shopify(site["base"])
+        except Exception:
+            products = None
+        if not products:
+            continue
+        targets, others = [], 0
+        for p in products:
+            blob = " ".join(str(p.get(k, "")) for k in ("title", "handle", "product_type", "tags", "vendor"))
+            kind = classify(blob)
+            if not kind:
+                continue
+            if kind == "set_other":
+                others += 1
+                continue
+            variants = p.get("variants") or []
+            available = any(v.get("available") for v in variants)
+            price = variants[0].get("price", "") if variants else ""
+            lab = "UPC" if kind == "target_upc" else "ETB"
+            dot = "🟢" if available else "🔴"
+            url = f"{site['base']}/products/{p.get('handle', '')}"
+            targets.append(f"  {dot} [{lab}] {p.get('title', '').strip()} — {price} {site.get('currency', '')}\n     {url}")
+        if targets or others:
+            head = f"🏬 {site['name']} — 🛡️ sûreté {site.get('safety', '?')}/10"
+            body = "\n".join(targets) if targets else "  (aucun ETB/UPC listé)"
+            extra = f"\n  (+{others} autre(s) produit 30 ans)" if others else ""
+            blocks.append(head + "\n" + body + extra)
+    if not blocks:
+        blocks = ["Aucun ETB/UPC « 30 ans » détecté sur les boutiques lisibles pour l'instant."]
+    footer = [
+        "",
+        "ℹ️ Les sites non lisibles à distance (Coop, Manor, Draft Arena, Amazing Toys, WooCommerce…) "
+        "sont surveillés « par page » — non listés ici.",
+        "🗓️ ETB : 16.09.2026 · UPC : 06.11.2026.",
+    ]
+    send_telegram("\n".join(header + blocks + footer))
+    print(f"Rapport envoyé ({len(blocks)} boutique(s) avec produits).")
+
+
 # ─────────────────────────── Programme principal ───────────────────────────
 
 def main():
-    if os.environ.get("TEST_ALERT"):
+    mode = os.environ.get("MODE", "").strip().lower()
+    if os.environ.get("TEST_ALERT") or mode == "test":
         send_telegram("✅ Test du robot Pokémon : si tu lis ce message, les alertes Telegram fonctionnent !")
         print("Message de test envoyé.")
+        return
+    if mode == "rapport":
+        run_report()
         return
 
     state = load_state()
@@ -362,10 +422,12 @@ def main():
             notify(f"Pokémon 30 ans — {a['kind']} {a['label']} ({a['site']})", format_alert(a))
         # note groupée pour les autres produits du set (boosters, blisters...)
         for site_name, titles in other_by_site.items():
+            note = SITE_SAFETY.get(site_name)
+            note_txt = f" (🛡️ sûreté {note}/10)" if note is not None else ""
             notify(
                 f"Pokémon 30 ans — nouveautés chez {site_name}",
-                "👀 D'autres produits '30 ans' viennent d'apparaître chez "
-                f"{site_name} ({len(titles)}) — va vérifier s'il y a l'ETB/UPC :\n- "
+                f"👀 D'autres produits '30 ans' viennent d'apparaître chez {site_name}{note_txt} "
+                f"({len(titles)}) — va vérifier s'il y a l'ETB/UPC :\n- "
                 + "\n- ".join(titles[:20]),
             )
         print(f"{len(alerts)} alerte(s) cible + {len(other_by_site)} site(s) avec autres nouveautés.")
