@@ -145,9 +145,10 @@ def load_state():
     except Exception:
         s = {}
     s.setdefault("initialized", False)
-    s.setdefault("seen", {})   # "site::id" -> {"title","available","lang","url"}
-    s.setdefault("html", {})   # "site::url" -> bool (mot-clé présent au dernier passage)
-    s.setdefault("hb", {})     # "midi"/"minuit" -> date du dernier message de veille envoyé
+    s.setdefault("seen", {})           # "site::id" -> {"title","available","lang","url"}
+    s.setdefault("html", {})           # "site::url" -> bool (mot-clé présent au dernier passage)
+    s.setdefault("hb", {})             # "midi"/"minuit" -> date du dernier message de veille envoyé
+    s.setdefault("seeded_sites", [])   # boutiques déjà "amorcées" en silence (évite le flot à l'ajout)
     return s
 
 
@@ -199,7 +200,7 @@ def fetch_html(url):
 
 # ─────────────────────────── Traitement d'un site ───────────────────────────
 
-def process_shopify(site, products, state, alerts, other_by_site, first_run):
+def process_shopify(site, products, state, alerts, other_by_site, seed):
     base = site["base"]
     for p in products:
         blob = " ".join(str(p.get(k, "")) for k in ("title", "handle", "product_type", "tags", "vendor"))
@@ -219,10 +220,10 @@ def process_shopify(site, products, state, alerts, other_by_site, first_run):
         key = f"{site['name']}::{pid}"
 
         if kind == "set_other":
-            # produit du set mais pas ETB/UPC -> juste signaler l'apparition, groupé
+            # produit du set mais pas ETB/UPC -> juste signaler l'apparition, groupé (avec lien)
             if key not in state["seen"]:
-                if not first_run:
-                    other_by_site.setdefault(site["name"], []).append(title)
+                if not seed:
+                    other_by_site.setdefault(site["name"], []).append((title, url))
                 state["seen"][key] = {"title": title, "available": available, "lang": lang, "url": url, "cat": kind}
             else:
                 state["seen"][key]["available"] = available
@@ -231,7 +232,7 @@ def process_shopify(site, products, state, alerts, other_by_site, first_run):
         # produit CIBLE (ETB / UPC)
         label = "UPC" if kind == "target_upc" else "ETB"
         if key not in state["seen"]:
-            if not first_run:
+            if not seed:
                 alerts.append({"kind": "NOUVEAU", "label": label, "site": site["name"],
                                "title": title, "price": price, "currency": site.get("currency", ""),
                                "lang": lang, "available": available, "url": url,
@@ -239,7 +240,7 @@ def process_shopify(site, products, state, alerts, other_by_site, first_run):
             state["seen"][key] = {"title": title, "available": available, "lang": lang, "url": url, "cat": kind}
         else:
             was = state["seen"][key].get("available", False)
-            if available and not was and not first_run:
+            if available and not was and not seed:
                 alerts.append({"kind": "EN STOCK", "label": label, "site": site["name"],
                                "title": title, "price": price, "currency": site.get("currency", ""),
                                "lang": lang, "available": available, "url": url,
@@ -248,7 +249,7 @@ def process_shopify(site, products, state, alerts, other_by_site, first_run):
             state["seen"][key]["title"] = title
 
 
-def process_html(site, state, alerts, first_run):
+def process_html(site, state, alerts, seed):
     for url in site.get("search_urls", [site["base"]]):
         html = fetch_html(url)
         if html is None:
@@ -258,7 +259,7 @@ def process_html(site, state, alerts, first_run):
         present = _html_hit(t, ta)
         key = f"{site['name']}::{url}"
         was = state["html"].get(key, False)
-        if present and not was and not first_run:
+        if present and not was and not seed:
             alerts.append({"kind": "À VÉRIFIER", "label": "PAGE", "site": site["name"],
                            "title": "Un produit '30 ans' est apparu sur la page surveillée",
                            "price": "", "currency": "", "lang": "?", "available": True, "url": url,
@@ -387,19 +388,23 @@ def main():
     other_by_site = {}
 
     for site in SITES:
-        print(f"→ {site['name']} ({site['type']})")
+        # amorçage silencieux : 1er démarrage global OU boutique tout juste ajoutée
+        seed = first_run or (site["name"] not in state["seeded_sites"])
+        print(f"→ {site['name']} ({site['type']}){' [amorçage silencieux]' if seed else ''}")
         try:
             products = None
             if site["type"] in ("shopify", "auto"):
                 products = fetch_shopify(site["base"])
             if products is not None:
-                process_shopify(site, products, state, alerts, other_by_site, first_run)
+                process_shopify(site, products, state, alerts, other_by_site, seed)
             elif site["type"] in ("html", "auto"):
-                process_html(site, state, alerts, first_run)
+                process_html(site, state, alerts, seed)
             else:
                 print(f"    [!] Shopify indisponible et pas de repli HTML pour {site['name']}")
         except Exception as e:
             print(f"    [!] erreur sur {site['name']} : {e}")
+        if site["name"] not in state["seeded_sites"]:
+            state["seeded_sites"].append(site["name"])
 
     # Envoi
     if first_run:
@@ -421,14 +426,14 @@ def main():
         for a in alerts:
             notify(f"Pokémon 30 ans — {a['kind']} {a['label']} ({a['site']})", format_alert(a))
         # note groupée pour les autres produits du set (boosters, blisters...)
-        for site_name, titles in other_by_site.items():
+        for site_name, items in other_by_site.items():
             note = SITE_SAFETY.get(site_name)
             note_txt = f" (🛡️ sûreté {note}/10)" if note is not None else ""
+            lignes = "\n".join(f"• {t}\n➡️ {u}" for t, u in items[:15])
             notify(
                 f"Pokémon 30 ans — nouveautés chez {site_name}",
                 f"👀 D'autres produits '30 ans' viennent d'apparaître chez {site_name}{note_txt} "
-                f"({len(titles)}) — va vérifier s'il y a l'ETB/UPC :\n- "
-                + "\n- ".join(titles[:20]),
+                f"({len(items)}) — va vérifier s'il y a l'ETB/UPC :\n" + lignes,
             )
         print(f"{len(alerts)} alerte(s) cible + {len(other_by_site)} site(s) avec autres nouveautés.")
 
