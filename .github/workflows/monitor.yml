@@ -1,0 +1,58 @@
+name: Surveillance précommandes Pokémon
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"     # toutes les 5 minutes (minimum autorisé par GitHub)
+  workflow_dispatch:           # bouton "Run workflow" pour un lancement manuel / test
+
+# Autorise le job à ré-écrire state.json dans le dépôt
+permissions:
+  contents: write
+
+# Empêche deux exécutions de se chevaucher
+concurrency:
+  group: pokemon-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer la surveillance
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Email (phase 2) — laisser vide tant que non configuré :
+          EMAIL_HOST: ${{ secrets.EMAIL_HOST }}
+          EMAIL_PORT: ${{ secrets.EMAIL_PORT }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          TEST_ALERT: ${{ secrets.TEST_ALERT }}
+        run: python monitor.py
+
+      - name: Sauvegarder l'état + battement de cœur quotidien
+        run: |
+          # heartbeat.txt = date du jour : change 1x/jour -> au moins 1 commit/jour
+          # (empêche GitHub de mettre le cron en pause après 60 jours d'inactivité).
+          date -u +%Y-%m-%d > heartbeat.txt
+          if [ -n "$(git status --porcelain state.json heartbeat.txt)" ]; then
+            git config user.name "pokemon-bot"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add state.json heartbeat.txt
+            git commit -m "maj état surveillance + heartbeat"
+            git push
+          else
+            echo "Aucun changement (déjà à jour aujourd'hui)."
+          fi
