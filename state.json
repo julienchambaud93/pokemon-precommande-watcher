@@ -914,5 +914,6 @@
     "Manor::https://www.manor.ch/fr/search?q=30th+celebration": true,
     "Migros::https://www.migros.ch/fr/search?query=30th%20celebration": false,
     "Smyths Toys CH::https://www.smythstoys.com/ch/fr-ch/search/?text=30th+celebration": false
-  }
+  },
+  "hb": {}
 }
