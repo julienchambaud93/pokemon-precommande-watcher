@@ -19,6 +19,8 @@ import os
 import re
 import sys
 import unicodedata
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import requests
 
@@ -81,6 +83,8 @@ def classify(text):
     t, ta = _prep(text)
     if _is_japanese(ta):
         return None
+    if "pokemon day" in ta:      # exclut l'ancien « Pokémon Day 30th Anniversary Collection Box »
+        return None
     if not _is_anniversary(t, ta):
         return None
     # CIBLES ETB/UPC : noms propres à Pokémon -> on N'EXIGE PAS le mot « pokémon »
@@ -119,6 +123,7 @@ def load_state():
     s.setdefault("initialized", False)
     s.setdefault("seen", {})   # "site::id" -> {"title","available","lang","url"}
     s.setdefault("html", {})   # "site::url" -> bool (mot-clé présent au dernier passage)
+    s.setdefault("hb", {})     # "midi"/"minuit" -> date du dernier message de veille envoyé
     return s
 
 
@@ -247,6 +252,26 @@ def format_alert(a):
             f"➡️ {a['url']}")
 
 
+# ─────────────────────────── Message de veille (midi & minuit, heure suisse) ───────────────────────────
+
+def daily_heartbeat(state, first_run):
+    if first_run:
+        return
+    now = datetime.now(ZoneInfo("Europe/Zurich"))   # gère l'heure d'été/hiver automatiquement
+    today = now.strftime("%Y-%m-%d")
+    slot = "midi" if now.hour == 12 else ("minuit" if now.hour == 0 else None)
+    if not slot:
+        return
+    hb = state.setdefault("hb", {})
+    if hb.get(slot) == today:          # déjà envoyé pour ce créneau aujourd'hui
+        return
+    send_telegram(
+        f"✅ Robot toujours en veille ({slot}) — {len(SITES)} boutiques surveillées, "
+        "rien manqué. Tu seras prévenu dès qu'un ETB/UPC apparaît ou revient en stock."
+    )
+    hb[slot] = today
+
+
 # ─────────────────────────── Programme principal ───────────────────────────
 
 def main():
@@ -304,6 +329,7 @@ def main():
             )
         print(f"{len(alerts)} alerte(s) cible + {len(other_by_site)} site(s) avec autres nouveautés.")
 
+    daily_heartbeat(state, first_run)
     save_state(state)
     print("Terminé.")
 
