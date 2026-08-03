@@ -908,7 +908,7 @@
   "html": {
     "Coffre à Dom::https://www.coffreadom.ch/?s=30th+celebration&post_type=product": false,
     "Coffre à Dom::https://www.coffreadom.ch/boutique/": false,
-    "The Mana Shop::https://themanashop.ch/search?q=30th+celebration": false,
+    "The Mana Shop::https://themanashop.ch/search?q=30th+celebration": true,
     "Miixy's Cards::https://miixyscards.ch/recherche?controller=search&s=30th%20celebration": false,
     "World of Games::https://www.wog.ch/en/index.cfm/promotion/type/Games/title/2558-Pokemon-30th-Anniversary": true,
     "Manor::https://www.manor.ch/fr/search?q=30th+celebration": true,
