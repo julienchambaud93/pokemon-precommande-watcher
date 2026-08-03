@@ -19,7 +19,7 @@ import os
 import re
 import sys
 import unicodedata
-from datetime import datetime
+from datetime import date, datetime
 from zoneinfo import ZoneInfo
 
 import requests
@@ -254,6 +254,23 @@ def format_alert(a):
 
 # ─────────────────────────── Message de veille (midi & minuit, heure suisse) ───────────────────────────
 
+# Dates de sortie officielles (version anglaise)
+RELEASES = [("ETB", date(2026, 9, 16)), ("UPC (Day & Night)", date(2026, 11, 6))]
+
+
+def _countdown(today):
+    lines = []
+    for label, d in RELEASES:
+        j = (d - today).days
+        if j > 0:
+            lines.append(f"• {label} : J-{j}  (sortie {d.strftime('%d.%m.%Y')})")
+        elif j == 0:
+            lines.append(f"• {label} : 🎉 C'EST AUJOURD'HUI ! ({d.strftime('%d.%m.%Y')})")
+        else:
+            lines.append(f"• {label} : déjà sortie le {d.strftime('%d.%m.%Y')}")
+    return "\n".join(lines)
+
+
 def daily_heartbeat(state, first_run):
     if first_run:
         return
@@ -265,10 +282,11 @@ def daily_heartbeat(state, first_run):
     hb = state.setdefault("hb", {})
     if hb.get(slot) == today:          # déjà envoyé pour ce créneau aujourd'hui
         return
-    send_telegram(
-        f"✅ Robot toujours en veille ({slot}) — {len(SITES)} boutiques surveillées, "
-        "rien manqué. Tu seras prévenu dès qu'un ETB/UPC apparaît ou revient en stock."
-    )
+    msg = (f"✅ Robot toujours en veille ({slot}) — {len(SITES)} boutiques surveillées, "
+           "rien manqué. Tu seras prévenu dès qu'un ETB/UPC apparaît ou revient en stock.")
+    if slot == "midi":                 # compte à rebours dans le message de midi
+        msg += "\n\n⏳ Compte à rebours jusqu'à la sortie :\n" + _countdown(now.date())
+    send_telegram(msg)
     hb[slot] = today
 
 
