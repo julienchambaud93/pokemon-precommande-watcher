@@ -74,8 +74,12 @@ jobs:
             # même si GitHub ne démarre le job qu'une fois par heure, on vérifie en continu toutes les 2 min.
             fin=$((SECONDS + 3000))
             while [ $SECONDS -lt $fin ]; do
+              t0=$SECONDS
               python monitor.py || true
               sauver_etat
-              [ $SECONDS -lt $fin ] && sleep 120
+              # viser un cycle total de ~120 s : on retire le temps déjà passé à scanner
+              reste=$((120 - (SECONDS - t0)))
+              [ $reste -lt 15 ] && reste=15          # au moins 15 s de pause (poli avec les serveurs)
+              [ $SECONDS -lt $fin ] && sleep $reste
             done
           fi

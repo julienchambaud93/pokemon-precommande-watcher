@@ -33,7 +33,7 @@ HEADERS = {
                   "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
     "Accept-Language": "fr-CH,fr;q=0.9,en;q=0.8",
 }
-TIMEOUT = 25
+TIMEOUT = 15   # délai max par site (un site lent ne doit pas ralentir tout le cycle)
 SITE_SAFETY = {s["name"]: s.get("safety") for s in SITES}   # nom -> note de sûreté /10
 
 
