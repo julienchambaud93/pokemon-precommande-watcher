@@ -117,6 +117,49 @@ def _html_hits(html):
     return set(re.sub(r"\s+", " ", m.group(0)).strip() for m in _HTML_PAT.finditer(tn))
 
 
+# Lecture "manuelle" du stock sur les sites NON-Shopify : on ouvre chaque fiche produit 30 ans
+# et on lit si c'est en rupture ou achetable. La rupture est prioritaire (badge plus explicite).
+_STOCK_OUT = ("sold out", "sold-out", "soldout", "out of stock", "rupture", "epuise", "epuisee",
+              "indisponible", "non disponible", "plus disponible", "ausverkauft", "vergriffen",
+              "nicht verfugbar", "nicht mehr verfugbar", "coming soon", "bientot disponible",
+              "notify me", "benachrichtige", "me prevenir")
+_STOCK_IN = ("add to cart", "ajouter au panier", "in den warenkorb", "aggiungi al carrello",
+             "add-to-cart", "addtocart", "buy now", "acheter", "kaufen", "precommander",
+             "pre-order", "preorder", "vorbestellen", "in stock", "en stock", "disponible")
+
+
+def _stock_state(html):
+    """"out" (rupture / pas encore ouvert), "in" (achetable) ou "unknown"."""
+    _, ta = _prep(html)
+    if any(tok in ta for tok in _STOCK_OUT):
+        return "out"
+    if any(tok in ta for tok in _STOCK_IN):
+        return "in"
+    return "unknown"
+
+
+def _extract_product_urls(base, html):
+    """URLs de fiches produit dont l'adresse contient « 30 ans + ETB/UPC » (liens href ou <loc> de sitemap)."""
+    urls = set()
+    for m in re.finditer(r'(?:href=["\']|<loc>)\s*([^"\'<>\s]+)', html):
+        u = m.group(1)
+        if _HTML_PAT.search(re.sub(r"[-_/]+", " ", u.lower())):
+            if u.startswith("http"):
+                full = u
+            elif u.startswith("//"):
+                full = "https:" + u
+            else:
+                full = base.rstrip("/") + "/" + u.lstrip("/")
+            urls.add(full.split("?")[0].split("#")[0])
+    return urls
+
+
+def _label_from_url(u):
+    slug = re.sub(r"[-_]+", " ", u.rstrip("/").split("/")[-1])
+    slug = re.sub(r"\b\d{2,}\b", "", slug).strip()
+    return slug[:80] or u
+
+
 def guess_language(text):
     _, ta = _prep(text)
     if re.search(r"\ben\b", ta) or "english" in ta or "anglais" in ta or "englisch" in ta or "-en-" in ta or "(en)" in ta:
@@ -141,6 +184,7 @@ def load_state():
     s.setdefault("html", {})           # "site::url" -> bool (mot-clé présent au dernier passage)
     s.setdefault("hb", {})             # "midi"/"minuit" -> date du dernier message de veille envoyé
     s.setdefault("seeded_sites", [])   # boutiques déjà "amorcées" en silence (évite le flot à l'ajout)
+    s.setdefault("stock", {})          # (sites non-Shopify) url fiche produit -> "in"/"out" lu sur la page
     return s
 
 
@@ -242,26 +286,44 @@ def process_shopify(site, products, state, alerts, other_by_site, seed):
 
 
 def process_html(site, state, alerts, seed):
-    got = False   # True si au moins une page a pu être lue (sinon on ne "valide" pas le site)
+    got = False           # True si au moins une page a pu être lue (sinon on ne "valide" pas le site)
+    product_urls = set()  # fiches produit 30 ans repérées, dont on ira lire le stock
     for url in site.get("search_urls", [site["base"]]):
         html = fetch_html(url)
         if html is None:
             continue
         got = True
-        # liste des produits ETB/UPC « 30 ans » réellement présents sur la page (par proximité)
+        # (1) APPARITION : nouveau libellé « 30 ans + ETB/UPC » sur la page (proximité)
         hits = _html_hits(html)
         key = f"{site['name']}::{url}"
         prev = state["html"].get(key)
         prev_set = set(prev) if isinstance(prev, list) else set()
         nouveaux = sorted(h for h in hits if h not in prev_set)
-        # alerte uniquement sur les NOUVEAUX libellés (pas de masquage), hors amorçage,
-        # et seulement si on a déjà un historique en liste (migration douce depuis l'ancien oui/non)
         if nouveaux and not seed and isinstance(prev, list):
             alerts.append({"kind": "À VÉRIFIER", "label": "PAGE", "site": site["name"],
                            "title": "Produit(s) 30 ans détecté(s) : " + ", ".join(nouveaux[:5]),
                            "price": "", "currency": "", "lang": "?", "available": True, "url": url,
                            "safety": site.get("safety")})
         state["html"][key] = sorted(prev_set | hits)
+        # (2) collecte des URLs de fiches produit 30 ans
+        product_urls |= _extract_product_urls(site["base"], html)
+
+    # (3) STOCK : on ouvre chaque fiche et on alerte sur rupture -> achetable
+    for purl in sorted(product_urls)[:8]:
+        phtml = fetch_html(purl)
+        if phtml is None:
+            continue
+        st = _stock_state(phtml)
+        if st == "unknown":
+            continue
+        skey = f"{site['name']}::{purl}"
+        prevst = state["stock"].get(skey)
+        # alerte uniquement sur une VRAIE transition (déjà connu non-achetable) -> achetable
+        if prevst is not None and prevst != "in" and st == "in" and not seed:
+            alerts.append({"kind": "EN STOCK", "label": "ETB/UPC", "site": site["name"],
+                           "title": _label_from_url(purl), "price": "", "currency": site.get("currency", ""),
+                           "lang": "?", "available": True, "url": purl, "safety": site.get("safety")})
+        state["stock"][skey] = st
     return got
 
 
