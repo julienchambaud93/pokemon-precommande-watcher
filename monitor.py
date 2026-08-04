@@ -102,27 +102,19 @@ def classify(text):
     return None
 
 
-def _html_hit(t, ta):
-    """
-    Tripwire pour les sites NON-Shopify (surveillés par page de recherche).
-    On exige l'anniversaire ET un vrai signe de produit ETB/UPC — sinon une page de recherche
-    qui ne fait que RÉAFFICHER le terme cherché (« 30th celebration ») déclencherait à tort.
-    """
-    if _is_japanese(ta):
-        return False
-    tn = re.sub(r"[-_/]+", " ", ta)      # « 30th-celebration-etb » (URL/slug) -> « 30th celebration etb »
-    if not _is_anniversary(tn, tn):
-        return False
-    has_type = ("elite trainer" in tn or "ultra premium" in tn or "top trainer" in tn
-                or ("dresseur" in tn and "elite" in tn)
-                or re.search(r"\betb\b", tn) is not None or re.search(r"\bupc\b", tn) is not None)
-    if not has_type:
-        return False
-    # page « aucun résultat » -> pas un vrai hit
-    if ("aucun resultat" in ta or "no result" in ta or "0 result" in ta
-            or "no products" in ta or "did not match" in ta or "keine ergebnisse" in ta):
-        return False
-    return True
+# Motif « produit 30 ans » pour les sites NON-Shopify : anniversaire ET type ETB/UPC COLLÉS dans le
+# MÊME texte (sans balise < > entre eux) = un vrai titre de produit. Évite les faux positifs (terme de
+# recherche réaffiché, liens de langue, entrées de menu éparpillées sur la page).
+_ANNIV = r"(?:30th|30 ?e |30 ?eme |30 ?ans|30 ?jahre|30 ?anniversa|jubil|trenti)"
+_TYP = r"(?:elite trainer|ultra premium|top ?trainer|dresseur[^<>]{0,6}elite|\betb\b|\bupc\b)"
+_HTML_PAT = re.compile(_ANNIV + r"[^<>]{0,45}" + _TYP + r"|" + _TYP + r"[^<>]{0,45}" + _ANNIV)
+
+
+def _html_hits(html):
+    """Ensemble des libellés « 30 ans + ETB/UPC » réellement présents sur la page (vide si aucun)."""
+    _, ta = _prep(html)
+    tn = re.sub(r"[-_/]+", " ", ta)
+    return set(re.sub(r"\s+", " ", m.group(0)).strip() for m in _HTML_PAT.finditer(tn))
 
 
 def guess_language(text):
@@ -256,17 +248,20 @@ def process_html(site, state, alerts, seed):
         if html is None:
             continue
         got = True
-        # tripwire : un vrai produit ETB/UPC « 30 ans » apparaît-il sur la page ?
-        t, ta = _prep(html)
-        present = _html_hit(t, ta)
+        # liste des produits ETB/UPC « 30 ans » réellement présents sur la page (par proximité)
+        hits = _html_hits(html)
         key = f"{site['name']}::{url}"
-        was = state["html"].get(key, False)
-        if present and not was and not seed:
+        prev = state["html"].get(key)
+        prev_set = set(prev) if isinstance(prev, list) else set()
+        nouveaux = sorted(h for h in hits if h not in prev_set)
+        # alerte uniquement sur les NOUVEAUX libellés (pas de masquage), hors amorçage,
+        # et seulement si on a déjà un historique en liste (migration douce depuis l'ancien oui/non)
+        if nouveaux and not seed and isinstance(prev, list):
             alerts.append({"kind": "À VÉRIFIER", "label": "PAGE", "site": site["name"],
-                           "title": "Un produit '30 ans' est apparu sur la page surveillée",
+                           "title": "Produit(s) 30 ans détecté(s) : " + ", ".join(nouveaux[:5]),
                            "price": "", "currency": "", "lang": "?", "available": True, "url": url,
                            "safety": site.get("safety")})
-        state["html"][key] = present
+        state["html"][key] = sorted(prev_set | hits)
     return got
 
 
