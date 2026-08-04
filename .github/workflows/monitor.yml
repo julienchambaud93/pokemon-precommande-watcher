@@ -51,6 +51,7 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           TEST_ALERT: ${{ secrets.TEST_ALERT }}
         run: |
+          set +e   # NE JAMAIS tuer la boucle sur un code de retour anodin (git / réseau / etc.)
           git config user.name "pokemon-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -70,9 +71,10 @@ jobs:
             python monitor.py
           else
             # Surveillance : boucle LONGUE (~5 h 50, le max GitHub est 6 h), vérification toutes les 2 min.
-            # Une seule exécution couvre ~6 h en continu ; pendant ce temps le planificateur GitHub met la
+            # Une seule exécution couvre ~5 h 30 en continu ; pendant ce temps le planificateur GitHub met la
             # suivante « en attente » (concurrency), qui prend le relais instantanément à la fin -> zéro trou.
-            fin=$((SECONDS + 21000))
+            # (5 h 30 = marge de sécurité sous la limite dure de 6 h des jobs GitHub, pour ne pas être coupé.)
+            fin=$((SECONDS + 19800))
             while [ $SECONDS -lt $fin ]; do
               t0=$SECONDS
               python monitor.py || true
