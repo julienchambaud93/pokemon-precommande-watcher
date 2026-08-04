@@ -17,7 +17,7 @@
     },
     "Tamori Cards::16028191097157": {
       "title": "Pokémon 30TH Anniversary (CHN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tamoricards.ch/products/display-terastal-festival-ex-jap-copie-2",
       "cat": "set_other"
@@ -1435,6 +1435,13 @@
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-ditto-premium-collection-30th-anniversary-english-copia",
       "cat": "set_other"
+    },
+    "PocketDex::16281533940061": {
+      "title": "Journée 30 ans - Pokémon - Coffret - FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/journee-30-ans-pokemon-coffret-fr",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -1479,7 +1486,8 @@
     "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": [],
     "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [],
     "SkySpell::https://skyspell.ch/search?q=30th%20celebration": [],
-    "Collectors Deal::https://collectorsdeal.ch/search?q=30th%20celebration": []
+    "Collectors Deal::https://collectorsdeal.ch/search?q=30th%20celebration": [],
+    "La Taverne du Jeu::https://latavernedujeu.ch/?s=30th+celebration&post_type=product": []
   },
   "hb": {
     "minuit": "2026-08-04",
@@ -1527,7 +1535,11 @@
     "Manor",
     "Galaxus",
     "Migros",
-    "Smyths Toys CH"
+    "Smyths Toys CH",
+    "Cardmaniac",
+    "La Taverne du Jeu",
+    "PocketDex",
+    "TMS Bricks Shop"
   ],
   "stock": {
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
@@ -1539,8 +1551,8 @@
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box-EN": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection-EN": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection-EN": "out",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box": "out",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "out",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "out"
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box": "in",
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "in",
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "in"
   }
 }
