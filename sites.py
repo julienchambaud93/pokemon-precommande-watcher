@@ -88,6 +88,15 @@ SITES = [
      "search_urls": ["https://trainer-zentrale.ch/search?q=30th%20celebration"]},
     {"name": "Collectors Deal", "base": "https://collectorsdeal.ch",   "type": "auto",    "currency": "CHF", "safety": 6,
      "search_urls": ["https://collectorsdeal.ch/search?q=30th%20celebration"]},
+    {"name": "Cardmaniac",      "base": "https://cardmaniac.ch",       "type": "auto",    "currency": "CHF", "safety": 9,
+     "search_urls": ["https://cardmaniac.ch/search?q=30th%20celebration"]},
+    {"name": "La Taverne du Jeu","base": "https://latavernedujeu.ch",  "type": "auto",    "currency": "CHF", "safety": 7,
+     "search_urls": ["https://latavernedujeu.ch/?s=30th+celebration&post_type=product",
+                     "https://latavernedujeu.ch/search?q=30th%20celebration"]},
+    {"name": "PocketDex",       "base": "https://pocketdex.ch",        "type": "auto",    "currency": "CHF", "safety": 7,
+     "search_urls": ["https://pocketdex.ch/search?q=30th%20celebration"]},
+    {"name": "TMS Bricks Shop", "base": "https://tmsbricksshop.ch",    "type": "auto",    "currency": "CHF", "safety": 7,
+     "search_urls": ["https://tmsbricksshop.ch/search?q=30th%20celebration"]},
 
     # ─────────── Gros généralistes (best-effort : peuvent bloquer les robots) ───────────
     {"name": "Coop",     "base": "https://www.coop.ch",   "type": "html", "currency": "CHF", "safety": 10, "best_effort": True,

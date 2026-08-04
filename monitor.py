@@ -129,8 +129,20 @@ _STOCK_IN = ("add to cart", "ajouter au panier", "in den warenkorb", "aggiungi a
 
 
 def _stock_state(html):
-    """"out" (rupture / pas encore ouvert), "in" (achetable) ou "unknown"."""
+    """"out" (rupture / pas encore ouvert), "in" (achetable) ou "unknown".
+
+    On lit EN PRIORITÉ le balisage standard schema.org (itemprop availability) : c'est le vrai
+    statut, présent côté serveur même sur les sites JavaScript type Odoo (ex. Draft Arena) où le
+    texte « Ajouter au panier » est statique et trompeur. À défaut, on retombe sur les mots-clés.
+    """
     _, ta = _prep(html)
+    # 1) schema.org — le plus fiable
+    if any(s in ta for s in ("schema.org/outofstock", "schema.org/soldout", "schema.org/discontinued")):
+        return "out"
+    if any(s in ta for s in ("schema.org/instock", "schema.org/limitedavailability",
+                             "schema.org/onlineonly", "schema.org/preorder", "schema.org/backorder")):
+        return "in"
+    # 2) sinon, mots-clés visibles
     if any(tok in ta for tok in _STOCK_OUT):
         return "out"
     if any(tok in ta for tok in _STOCK_IN):
