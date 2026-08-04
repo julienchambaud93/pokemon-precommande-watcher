@@ -1543,7 +1543,7 @@
   ],
   "stock": {
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
-    "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-ultra-premium-collection/": "out",
+    "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-ultra-premium-collection/": "in",
     "World of Games::https://www.wog.ch/en/index.cfm/details/product/253434%2DPokemon%2D30th%2DCelebration%2DElite%2DTrainer%2DBox%2DEN": "out",
     "Draft Arena::https://www.draftarena.ch/shop/pokemon-30th-celebration-etb-3204": "out",
     "Draft Arena::https://www.draftarena.ch/shop/pokemon-30th-celebration-ultra-premium-collection-soiree-noctali-3205": "out",
@@ -1551,8 +1551,8 @@
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box-EN": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection-EN": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection-EN": "out",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box": "in",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "in",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "in"
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box": "out",
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "out",
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "out"
   }
 }
