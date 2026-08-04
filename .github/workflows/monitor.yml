@@ -69,10 +69,10 @@ jobs:
             # Action ponctuelle (déclenchement manuel) : une seule exécution
             python monitor.py
           else
-            # Surveillance : boucle ~50 min, vérification toutes les 2 min.
-            # Contourne le throttling des crons GitHub gratuits (qui ne respectent PAS "toutes les 5 min") :
-            # même si GitHub ne démarre le job qu'une fois par heure, on vérifie en continu toutes les 2 min.
-            fin=$((SECONDS + 3000))
+            # Surveillance : boucle LONGUE (~5 h 50, le max GitHub est 6 h), vérification toutes les 2 min.
+            # Une seule exécution couvre ~6 h en continu ; pendant ce temps le planificateur GitHub met la
+            # suivante « en attente » (concurrency), qui prend le relais instantanément à la fin -> zéro trou.
+            fin=$((SECONDS + 21000))
             while [ $SECONDS -lt $fin ]; do
               t0=$SECONDS
               python monitor.py || true
