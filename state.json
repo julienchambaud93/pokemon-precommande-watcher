@@ -1475,7 +1475,8 @@
     "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
     "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [],
     "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
-    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": false
+    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": false,
+    "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": []
   },
   "hb": {
     "minuit": "2026-08-04"
