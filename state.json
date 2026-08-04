@@ -1438,23 +1438,45 @@
     }
   },
   "html": {
-    "Coffre à Dom::https://www.coffreadom.ch/?s=30th+celebration&post_type=product": false,
-    "Coffre à Dom::https://www.coffreadom.ch/boutique/": false,
-    "The Mana Shop::https://themanashop.ch/search?q=30th+celebration": false,
-    "Miixy's Cards::https://miixyscards.ch/recherche?controller=search&s=30th%20celebration": false,
-    "World of Games::https://www.wog.ch/en/index.cfm/promotion/type/Games/title/2558-Pokemon-30th-Anniversary": true,
-    "Manor::https://www.manor.ch/fr/search?q=30th+celebration": false,
-    "Migros::https://www.migros.ch/fr/search?query=30th%20celebration": false,
-    "Smyths Toys CH::https://www.smythstoys.com/ch/fr-ch/search/?text=30th+celebration": false,
-    "The Uncommon Shop::https://theuncommonshop.ch/?s=30th+celebration&post_type=product": false,
-    "Draft Arena::https://www.draftarena.ch/sitemap.xml": false,
-    "Softridge::https://www.softridge.ch/en/tcg/pokemon": false,
-    "Amazing Toys::https://amazingtoys.ch/search?search=30th%20celebration": false,
-    "Amazing Toys::https://amazingtoys.ch/Pre-Order/?immediately-available=1": false,
-    "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": false,
-    "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": false,
-    "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": false,
-    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": false
+    "Coffre à Dom::https://www.coffreadom.ch/?s=30th+celebration&post_type=product": [
+      "30th celebration elite trainer"
+    ],
+    "Coffre à Dom::https://www.coffreadom.ch/boutique/": [
+      "30th celebration elite trainer"
+    ],
+    "The Mana Shop::https://themanashop.ch/search?q=30th+celebration": [],
+    "Miixy's Cards::https://miixyscards.ch/recherche?controller=search&s=30th%20celebration": [],
+    "World of Games::https://www.wog.ch/en/index.cfm/promotion/type/Games/title/2558-Pokemon-30th-Anniversary": [
+      "30th anniversary pokemon 30th celebration elite trainer",
+      "30th celebration elite trainer"
+    ],
+    "Manor::https://www.manor.ch/fr/search?q=30th+celebration": [],
+    "Migros::https://www.migros.ch/fr/search?query=30th%20celebration": [],
+    "Smyths Toys CH::https://www.smythstoys.com/ch/fr-ch/search/?text=30th+celebration": [],
+    "The Uncommon Shop::https://theuncommonshop.ch/?s=30th+celebration&post_type=product": [
+      "30th celebration &#8211; ultra premium",
+      "30th celebration (me5.5) &#8211; elite trainer",
+      "30th celebration (me5.5) elite trainer",
+      "30th celebration me5 5 elite trainer",
+      "30th celebration ultra premium"
+    ],
+    "Draft Arena::https://www.draftarena.ch/sitemap.xml": [
+      "30th celebration etb",
+      "30th celebration ultra premium",
+      "30th celebration ultra premium collection upc"
+    ],
+    "Softridge::https://www.softridge.ch/en/tcg/pokemon": [],
+    "Amazing Toys::https://amazingtoys.ch/search?search=30th%20celebration": [
+      "30th celebration 3d upc",
+      "30th celebration elite trainer",
+      "30th celebration ultra premium"
+    ],
+    "Amazing Toys::https://amazingtoys.ch/Pre-Order/?immediately-available=1": [],
+    "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
+    "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [],
+    "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
+    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": false,
+    "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": []
   },
   "hb": {
     "minuit": "2026-08-04"
