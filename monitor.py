@@ -372,7 +372,7 @@ def _countdown(today):
     return "\n".join(lines)
 
 
-def daily_heartbeat(state, first_run):
+def daily_heartbeat(state, first_run, lus_ok=0, lus_ko=None):
     if first_run:
         return
     now = datetime.now(ZoneInfo("Europe/Zurich"))   # gère l'heure d'été/hiver automatiquement
@@ -383,8 +383,14 @@ def daily_heartbeat(state, first_run):
     hb = state.setdefault("hb", {})
     if hb.get(slot) == today:          # déjà envoyé pour ce créneau aujourd'hui
         return
+    lus_ko = lus_ko or []
     msg = (f"✅ Robot toujours en veille ({slot}) — {len(SITES)} boutiques surveillées, "
            "rien manqué. Tu seras prévenu dès qu'un ETB/UPC apparaît ou revient en stock.")
+    # auto-contrôle : combien de boutiques ont pu être lues à ce passage
+    msg += f"\n\n📡 Lecture : {lus_ok}/{len(SITES)} boutiques OK ce cycle."
+    if lus_ko:
+        apercu = ", ".join(lus_ko[:8]) + ("…" if len(lus_ko) > 8 else "")
+        msg += f"\n⚠️ Non lues ({len(lus_ko)}) : {apercu}\n(souvent temporaire — à signaler si toujours là demain)"
     if slot == "midi":                 # compte à rebours dans le message de midi
         msg += "\n\n⏳ Compte à rebours jusqu'à la sortie :\n" + _countdown(now.date())
     send_telegram(msg)
@@ -458,6 +464,8 @@ def main():
     first_run = not state["initialized"]
     alerts = []
     other_by_site = {}
+    lus_ok = 0        # nb de boutiques lues avec succès (auto-contrôle)
+    lus_ko = []       # noms des boutiques injoignables ce passage
 
     for site in SITES:
         # amorçage silencieux : 1er démarrage global OU boutique tout juste ajoutée
@@ -481,6 +489,10 @@ def main():
         # tous ses produits en « NOUVEAU » au passage suivant) -> on ré-essaiera l'amorçage plus tard
         if processed and site["name"] not in state["seeded_sites"]:
             state["seeded_sites"].append(site["name"])
+        if processed:
+            lus_ok += 1
+        else:
+            lus_ko.append(site["name"])
 
     # Envoi
     if first_run:
@@ -513,7 +525,7 @@ def main():
             )
         print(f"{len(alerts)} alerte(s) cible + {len(other_by_site)} site(s) avec autres nouveautés.")
 
-    daily_heartbeat(state, first_run)
+    daily_heartbeat(state, first_run, lus_ok, lus_ko)
     save_state(state)
     print("Terminé.")
 
