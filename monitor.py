@@ -135,18 +135,29 @@ def _stock_state(html):
     statut, présent côté serveur même sur les sites JavaScript type Odoo (ex. Draft Arena) où le
     texte « Ajouter au panier » est statique et trompeur. À défaut, on retombe sur les mots-clés.
     """
+    hl = html.lower()
+    # (0) WooCommerce : conteneur du produit PRINCIPAL <div id="product-XXX" class="... instock|outofstock">
+    #     (le 1er match = produit principal ; les produits liés viennent après). Fiable même SANS schema.org.
+    m = re.search(r'id="product-\d+"[^>]*class="([^"]*)"', hl)
+    if m:
+        if "outofstock" in m.group(1):
+            return "out"
+        if "instock" in m.group(1):
+            return "in"
     _, ta = _prep(html)
-    # 1) schema.org — le plus fiable
+    # ACHETABLE (signaux FORTS du produit principal) — en priorité pour ne pas rater le passage en dispo :
+    #   - schema.org/InStock (standard : Odoo, PrestaShop, WooCommerce avec schema)
+    #   - delivery-available (classe Shopware du produit principal ; opposée de delivery-soldout)
+    if "schema.org/instock" in ta or "delivery-available" in ta:
+        return "in"
+    # RUPTURE (fiable) : schema OutOfStock/SoldOut, classe Shopware delivery-soldout, ou mots explicites.
+    # On IGNORE « LimitedAvailability » et les boutons « add to cart » de cross-sell (faux positifs Shopware).
     if any(s in ta for s in ("schema.org/outofstock", "schema.org/soldout", "schema.org/discontinued")):
         return "out"
-    if any(s in ta for s in ("schema.org/instock", "schema.org/limitedavailability",
-                             "schema.org/onlineonly", "schema.org/preorder", "schema.org/backorder")):
-        return "in"
-    # 2) sinon, mots-clés visibles
+    if "delivery-soldout" in ta:
+        return "out"
     if any(tok in ta for tok in _STOCK_OUT):
         return "out"
-    if any(tok in ta for tok in _STOCK_IN):
-        return "in"
     return "unknown"
 
 
@@ -313,7 +324,8 @@ def process_html(site, state, alerts, seed):
         nouveaux = sorted(h for h in hits if h not in prev_set)
         if nouveaux and not seed and isinstance(prev, list):
             alerts.append({"kind": "À VÉRIFIER", "label": "PAGE", "site": site["name"],
-                           "title": "Produit(s) 30 ans détecté(s) : " + ", ".join(nouveaux[:5]),
+                           "title": "Produit(s) 30 ans APPARU(S) — peut déjà être en rupture, à vérifier : "
+                                    + ", ".join(nouveaux[:5]),
                            "price": "", "currency": "", "lang": "?", "available": True, "url": url,
                            "safety": site.get("safety")})
         state["html"][key] = sorted(prev_set | hits)
