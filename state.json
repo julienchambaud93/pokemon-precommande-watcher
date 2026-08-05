@@ -1518,7 +1518,10 @@
     "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
     "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [],
     "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
-    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": false,
+    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": [
+      "30 jahre top trainer",
+      "30th celebration elite trainer box etb"
+    ],
     "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": [],
     "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [],
     "SkySpell::https://skyspell.ch/search?q=30th%20celebration": [],
@@ -1592,6 +1595,8 @@
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection-EN": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "out",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "out"
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "out",
+    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30-jahre-top-trainer-box-ttb-de": "out",
+    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en": "out"
   }
 }
