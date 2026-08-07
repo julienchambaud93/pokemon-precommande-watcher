@@ -836,7 +836,7 @@
     },
     "Outpost Brussels::15904437305678": {
       "title": "Pokémon · 30e Anniversaire - Coffret Dresseur d'Élite - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-dresseur-delite-fr-s",
       "cat": "target_etb"
@@ -1494,7 +1494,7 @@
     },
     "PikaStore::15833998164342": {
       "title": "🟣[PRÉCO] Pokémon (EN) - Coffret Collection poster - ME05.5 30e Anniversaire",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pikastore.ch/products/preco-pokemon-en-coffret-collection-poster-me05-5-30e-anniversaire",
       "cat": "set_other"
