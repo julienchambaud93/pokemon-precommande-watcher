@@ -1592,7 +1592,7 @@
     },
     "Collectors Deal::15600860823876": {
       "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Box DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-box-de",
       "cat": "set_other"
@@ -1606,14 +1606,14 @@
     },
     "Collectors Deal::15600860332356": {
       "title": "Pokémon 30th Celebration ME5.5 Greninja EX Box DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-box-de",
       "cat": "set_other"
     },
     "Collectors Deal::15600858202436": {
       "title": "Pokémon 30th Celebration ME5.5 Poster Collection FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-poster-collection-fr",
       "cat": "set_other"
