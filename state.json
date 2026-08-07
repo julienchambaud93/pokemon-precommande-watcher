@@ -654,7 +654,7 @@
     },
     "Outpost Brussels::15945848947022": {
       "title": "Pokémon - 30 Ans - Collection Illustration Premiers Partenaires - Série 3 - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30-ans-collection-illustration-premiers-partenaires-serie-3-fr",
       "cat": "set_other"
@@ -1445,7 +1445,7 @@
     },
     "SkySpell::15685593104761": {
       "title": "Pokémon 30th Anniversary First Partner Special Illustration Holo Set Vol.3 | Simplified Chinese",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-first-partner-special-illustration-holo-set-vol-3-simplified-chinese",
       "cat": "set_other"
