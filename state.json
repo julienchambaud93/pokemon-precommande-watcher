@@ -1578,7 +1578,7 @@
     },
     "Collectors Deal::15600861446468": {
       "title": "Pokémon 30th Celebration ME5.5 2-Pack Blister Eevee DE",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-2-pack-blister-eevee-de",
       "cat": "set_other"
@@ -1599,7 +1599,7 @@
     },
     "Collectors Deal::15600860528964": {
       "title": "Pokémon 30th Celebration ME5.5 Greninja EX Box FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-box-fr",
       "cat": "set_other"
@@ -1627,21 +1627,21 @@
     },
     "Collectors Deal::15600726704452": {
       "title": "Pokémon 30th Celebration ME5.5 2-Pack Blister Eevee EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-2-pack-blister-eevee-en",
       "cat": "set_other"
     },
     "Collectors Deal::15600609362244": {
       "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-box-en",
       "cat": "set_other"
     },
     "Collectors Deal::15600597926212": {
       "title": "Pokémon 30th Celebration ME5.5 Greninja EX Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-box-en",
       "cat": "set_other"
@@ -1655,14 +1655,14 @@
     },
     "Collectors Deal::15595593466180": {
       "title": "Pokémon 30th Celebration ME5.5 Elite Trainer Box FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-fr",
       "cat": "target_etb"
     },
     "Collectors Deal::15595593007428": {
       "title": "Pokémon 30th Celebration ME5.5 Elite Trainer Box DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-de",
       "cat": "target_etb"
