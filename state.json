@@ -1757,7 +1757,12 @@
     "PocketDex::https://pocketdex.ch/search?q=30th%20celebration": [],
     "Pokereaves::https://www.pokereaves.ch/search?q=30th%20celebration": [],
     "Pikaversum::https://pikaversum.ch/search?q=30th%20celebration": [],
-    "Detsuki::https://detsuki.ch/search?q=30th%20celebration": []
+    "Detsuki::https://detsuki.ch/search?q=30th%20celebration": [],
+    "PikaStore::https://www.pikastore.ch/search?q=30th%20celebration": [
+      "etb coffret dresseur d&#39;elite me05.5 30e",
+      "etb coffret dresseur d'elite me05.5 30e",
+      "etb coffret dresseur delite me05 5 30e"
+    ]
   },
   "hb": {
     "minuit": "2026-08-10",
@@ -1825,6 +1830,7 @@
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "out",
     "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30-jahre-top-trainer-box-ttb-de": "out",
-    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en": "out"
+    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en": "out",
+    "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-etb-coffret-dresseur-delite-me05-5-30e-anniversaire": "out"
   }
 }
