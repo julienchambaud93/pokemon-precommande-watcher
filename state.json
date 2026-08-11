@@ -1756,7 +1756,11 @@
     "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": [],
     "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [],
     "SkySpell::https://skyspell.ch/search?q=30th%20celebration": [],
-    "Collectors Deal::https://collectorsdeal.ch/search?q=30th%20celebration": [],
+    "Collectors Deal::https://collectorsdeal.ch/search?q=30th%20celebration": [
+      "30th celebration me5 5 elite trainer",
+      "30th celebration me5.5 elite trainer",
+      "elite trainer box\",\"handle\":\"pokemon 30th"
+    ],
     "La Taverne du Jeu::https://latavernedujeu.ch/?s=30th+celebration&post_type=product": [],
     "Cardmaniac::https://cardmaniac.ch/search?q=30th%20celebration": [],
     "PokeFaust::https://pokefaust.com/search?q=30th%20celebration": [],
@@ -1838,6 +1842,8 @@
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "out",
     "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30-jahre-top-trainer-box-ttb-de": "out",
     "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en": "out",
-    "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-etb-coffret-dresseur-delite-me05-5-30e-anniversaire": "out"
+    "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-etb-coffret-dresseur-delite-me05-5-30e-anniversaire": "out",
+    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-en": "out",
+    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-fr": "out"
   }
 }
