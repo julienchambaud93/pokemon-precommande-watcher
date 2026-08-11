@@ -1778,6 +1778,118 @@
       "lang": "EN",
       "url": "https://swiss-pokeshop.ch/products/booster-bundle-pokemon-30th-anniversary-en",
       "cat": "set_other"
+    },
+    "PokeFaust::15528578515319": {
+      "title": "Pokémon TCG 30th Celebration Elite Trainer Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+      "cat": "target_etb"
+    },
+    "PokeFaust::15528542732663": {
+      "title": "Pokémon TCG 30th Celebration Poster Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-poster-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528541323639": {
+      "title": "Pokémon TCG 30th Celebration Sylveon ex Tin",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528535982455": {
+      "title": "Pokémon TCG 30th Celebration Greninja ex Tin",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528533164407": {
+      "title": "Pokémon TCG 30th Celebration Sylveon ex Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-sylveon-ex-box",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528528347511": {
+      "title": "Pokémon TCG 30th Celebration Greninja ex Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-greninja-ex-box",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528521498999": {
+      "title": "Pokémon TCG 30th Celebration Mini Tin Display (10 Tins)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-mini-tin-display-10-tins",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528019296631": {
+      "title": "Pokémon TCG 30th Celebration Booster Bundle",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-booster-bundle",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528015233399": {
+      "title": "Pokémon TCG 30th Celebration Binder Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-binder-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528009204087": {
+      "title": "Pokémon TCG 30th Celebration Tech Sticker Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-tech-sticker-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528008253815": {
+      "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Day Edition",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-edition",
+      "cat": "target_upc"
+    },
+    "PokeFaust::15528001896823": {
+      "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Night Edition",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition",
+      "cat": "target_upc"
+    },
+    "PokeFaust::15527993114999": {
+      "title": "Pokémon TCG 30th Celebration Mew Premium Figure Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-mew-premium-figure-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15527988396407": {
+      "title": "Pokémon TCG 30th Celebration Mewtwo Premium Figure Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-mewtwo-premium-figure-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15527984267639": {
+      "title": "Pokémon TCG 30th Celebration Ditto Premium Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15510924591479": {
+      "title": "Pokémon TCG 30th Anniversary 2 Pack Blister",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-anniversary-2-pack-blister",
+      "cat": "set_other"
     }
   },
   "html": {
