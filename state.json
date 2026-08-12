@@ -192,7 +192,7 @@
     },
     "Pokécado::11073390739798": {
       "title": "Pokémon 30th Celebration ex Box - Greninja (DE)",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-box-greninja-de",
       "cat": "set_other"
@@ -206,7 +206,7 @@
     },
     "Pokécado::11073232306518": {
       "title": "Pokémon 30th Celebration ex Box - Sylveon (DE)",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-box-sylveon-de",
       "cat": "set_other"
@@ -311,7 +311,7 @@
     },
     "Pokécado::11065181012310": {
       "title": "Pokémon 30th Celebration ex Box - Sylveon (EN)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-box-sylveon-en",
       "cat": "set_other"
@@ -409,14 +409,14 @@
     },
     "Pokécado::10939292549462": {
       "title": "Pokémon 30th Celebration 2-Pack Blister (FR)",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-2-pack-blister-fr",
       "cat": "set_other"
     },
     "Pokécado::10939290616150": {
       "title": "Pokémon 30th Celebration 2-Pack Blister (DE)",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-2-pack-blister-de",
       "cat": "set_other"
@@ -472,7 +472,7 @@
     },
     "Pokécado::10939223834966": {
       "title": "Pokémon 30th Celebration ex Box - Greninja (EN)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-box-greninja-en",
       "cat": "set_other"
@@ -486,21 +486,21 @@
     },
     "Pokécado::10939201913174": {
       "title": "Pokémon 30th Celebration Poster Collection (FR)",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-poster-collection-fr",
       "cat": "set_other"
     },
     "Pokécado::10939200700758": {
       "title": "Pokémon 30th Celebration Poster Collection (DE)",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-poster-collection-de",
       "cat": "set_other"
     },
     "Pokécado::10939198800214": {
       "title": "Pokémon 30th Celebration Poster Collection (EN)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-poster-collection-en",
       "cat": "set_other"
