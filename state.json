@@ -696,7 +696,7 @@
     },
     "Outpost Brussels::15904440549710": {
       "title": "Pokémon · 30e Anniversaire - Collection Classeur - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-classeur-fr-s",
       "cat": "set_other"
@@ -822,21 +822,21 @@
     },
     "Outpost Brussels::15904437829966": {
       "title": "Pokémon · 30e Anniversaire - Pack Autocollant Réajustable Lucario - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-autocollant-reajustable-lucario-fr-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904437567822": {
       "title": "Pokémon · 30th Celebration - Elite Trainer Box - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-elite-trainer-box-en-s",
       "cat": "target_etb"
     },
     "Outpost Brussels::15904437305678": {
       "title": "Pokémon · 30e Anniversaire - Coffret Dresseur d'Élite - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-dresseur-delite-fr-s",
       "cat": "target_etb"
@@ -850,7 +850,7 @@
     },
     "Outpost Brussels::15904438911310": {
       "title": "Pokémon · 30e Anniversaire - Pack 2 Boosters Évoli - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-2-boosters-evoli-fr-s",
       "cat": "set_other"
@@ -864,7 +864,7 @@
     },
     "Outpost Brussels::15904438419790": {
       "title": "Pokémon · 30e Anniversaire - Pack Autocollant Réajustable Noadkoko d'Alola - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-autocollant-reajustable-noadkoko-dalola-fr-s",
       "cat": "set_other"
@@ -1452,7 +1452,7 @@
     },
     "Outpost Brussels::15979925012814": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Greninja ex - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-greninja-ex-en",
       "cat": "set_other"
