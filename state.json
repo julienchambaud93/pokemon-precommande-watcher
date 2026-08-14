@@ -829,21 +829,21 @@
     },
     "Outpost Brussels::15904437567822": {
       "title": "Pokémon · 30th Celebration - Elite Trainer Box - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-elite-trainer-box-en-s",
       "cat": "target_etb"
     },
     "Outpost Brussels::15904437305678": {
       "title": "Pokémon · 30e Anniversaire - Coffret Dresseur d'Élite - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-dresseur-delite-fr-s",
       "cat": "target_etb"
     },
     "Outpost Brussels::15904439140686": {
       "title": "Pokémon · 30th Celebration - 2-Pack Blister Eevee - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-2-pack-blister-eevee-en-s",
       "cat": "set_other"
