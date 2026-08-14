@@ -2076,7 +2076,12 @@
       "30th celebration elite trainer box etb"
     ],
     "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": [],
-    "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [],
+    "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [
+      "30th celebration elite trainer",
+      "30th celebration elite trainer box en pokemon elite trainer",
+      "30th celebration elite trainer box en\", \"type\":\"elite trainer",
+      "elite trainer box\",\"handle\":\"pokemon mega series 30th"
+    ],
     "SkySpell::https://skyspell.ch/search?q=30th%20celebration": [],
     "Collectors Deal::https://collectorsdeal.ch/search?q=30th%20celebration": [
       "30th celebration me5 5 elite trainer",
@@ -2166,6 +2171,7 @@
     "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en": "out",
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-etb-coffret-dresseur-delite-me05-5-30e-anniversaire": "out",
     "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-en": "out",
-    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-fr": "out"
+    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-fr": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch": "in"
   }
 }
