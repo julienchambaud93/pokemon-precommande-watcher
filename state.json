@@ -2090,11 +2090,19 @@
     ],
     "La Taverne du Jeu::https://latavernedujeu.ch/?s=30th+celebration&post_type=product": [],
     "Cardmaniac::https://cardmaniac.ch/search?q=30th%20celebration": [],
-    "PokeFaust::https://pokefaust.com/search?q=30th%20celebration": [],
+    "PokeFaust::https://pokefaust.com/search?q=30th%20celebration": [
+      "30th celebration elite trainer",
+      "30th celebration elite trainer box english elite trainer",
+      "30th celebration ultra premium",
+      "elite trainer box\",\"handle\":\"pokemon tcg 30th",
+      "ultra premium collection\",\"handle\":\"pokemon tcg 30th"
+    ],
     "TMS Bricks Shop::https://tmsbricksshop.ch/search?q=30th%20celebration": [],
     "PocketDex::https://pocketdex.ch/search?q=30th%20celebration": [],
     "Pokereaves::https://www.pokereaves.ch/search?q=30th%20celebration": [],
-    "Pikaversum::https://pikaversum.ch/search?q=30th%20celebration": [],
+    "Pikaversum::https://pikaversum.ch/search?q=30th%20celebration": [
+      "30th celebration elite trainer"
+    ],
     "Detsuki::https://detsuki.ch/search?q=30th%20celebration": [],
     "PikaStore::https://www.pikastore.ch/search?q=30th%20celebration": [
       "etb coffret dresseur d&#39;elite me05.5 30e",
@@ -2172,6 +2180,10 @@
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-etb-coffret-dresseur-delite-me05-5-30e-anniversaire": "out",
     "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-en": "out",
     "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-fr": "out",
-    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch": "in"
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch": "in",
+    "Pikaversum::https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box": "out",
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-elite-trainer-box": "out",
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-edition": "out",
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition": "out"
   }
 }
