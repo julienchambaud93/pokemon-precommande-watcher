@@ -2077,9 +2077,16 @@
     ],
     "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": [],
     "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [
+      "30th celebration deutsch mega ultra premium",
       "30th celebration elite trainer",
       "30th celebration elite trainer box en pokemon elite trainer",
       "30th celebration elite trainer box en\", \"type\":\"elite trainer",
+      "30th celebration englisch mega ultra premium",
+      "30th celebration franzosisch mega ultra premium",
+      "30th celebration ultra premium",
+      "30th celebration\",\"deutsch\",\"mega\",\"ultra premium",
+      "30th celebration\",\"englisch\",\"mega\",\"ultra premium",
+      "30th celebration\",\"franzosisch\",\"mega\",\"ultra premium",
       "elite trainer box\",\"handle\":\"pokemon mega series 30th"
     ],
     "SkySpell::https://skyspell.ch/search?q=30th%20celebration": [],
@@ -2184,6 +2191,12 @@
     "Pikaversum::https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box": "out",
     "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-elite-trainer-box": "out",
     "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-edition": "out",
-    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition": "out"
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-day-englisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-nacht-deutsch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch": "out"
   }
 }
