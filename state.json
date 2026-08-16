@@ -2030,6 +2030,139 @@
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box",
       "cat": "target_etb"
+    },
+    "LaschoCards::11507128631637": {
+      "title": "Pokémon TCG - Mega Evolution ME06: Delta Reign Booster Pack",
+      "available": false,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-mega-evolution-me06-delta-reign-booster-pack",
+      "cat": "set_other"
+    },
+    "LaschoCards::11507116900693": {
+      "title": "Pokémon TCG - Mega Evolution ME06: Delta Reign ETB Elite Trainer Box",
+      "available": false,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-mega-evolution-me06-delta-reign-etb-elite-trainer-box",
+      "cat": "target_etb"
+    },
+    "LaschoCards::11507098878293": {
+      "title": "Pokémon TCG - Mega Evolution ME06: Delta Reign Booster Box Display",
+      "available": false,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-mega-evolution-me06-delta-reign-booster-box-display",
+      "cat": "set_other"
+    },
+    "Pokécado::11142698500438": {
+      "title": "Pokémon Delta Reign Booster Display (FR)",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-booster-display-fr",
+      "cat": "set_other"
+    },
+    "Pokécado::11142696796502": {
+      "title": "Pokémon Delta Reign Booster Display (DE)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-booster-display-de",
+      "cat": "set_other"
+    },
+    "Pokécado::11142693585238": {
+      "title": "Pokémon Delta Reign Booster Display (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-booster-display-en",
+      "cat": "set_other"
+    },
+    "Pokécado::11142691750230": {
+      "title": "Pokémon Delta Reign Elite Trainer Box (FR)",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-elite-trainer-box-fr",
+      "cat": "target_etb"
+    },
+    "Pokécado::11142691127638": {
+      "title": "Pokémon Delta Reign Elite Trainer Box (DE)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-elite-trainer-box-de",
+      "cat": "target_etb"
+    },
+    "Pokécado::11142690505046": {
+      "title": "Pokémon Delta Reign Elite Trainer Box (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-elite-trainer-box-en",
+      "cat": "target_etb"
+    },
+    "Zadoys::15813179572607": {
+      "title": "Delta Herrschaft Booster DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-delta-herrschaft-me06-booster-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813176066431": {
+      "title": "Delta Reign Booster EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-me06-booster-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813172658559": {
+      "title": "Règne Delta Booster Box FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-regne-delta-me06-booster-box-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813171282303": {
+      "title": "Delta Herrschaft Booster Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-delta-herrschaft-me06-booster-box-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813169152383": {
+      "title": "Delta Reign Booster Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-me06-booster-box-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15813160272255": {
+      "title": "Règne Delta Coffret Dresseur d'Elite FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-me06-coffret-dresseur-delite-franzoesisch",
+      "cat": "target_etb"
+    },
+    "Zadoys::15813142249855": {
+      "title": "Delta Herrschaft Top Trainer Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-me06-top-trainer-box-deutsch",
+      "cat": "target_etb"
+    },
+    "Zadoys::15813139759487": {
+      "title": "Delta Reign Elite Trainer Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-me06-elite-trainer-box-englisch",
+      "cat": "target_etb"
+    },
+    "Pokereaves::10612852293979": {
+      "title": "Pre-order Pokémon ME06 Delta Reign Booster Display - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pokemon-me06-delta-reign-booster-display-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10612849082715": {
+      "title": "Pre-order Pokemon Mega Evolution Delta Reign Black ME06 Elite Trainer Box (ETB) - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-reign-black-me06-elite-trainer-box-etb-english",
+      "cat": "target_etb"
     }
   },
   "html": {
@@ -2118,7 +2251,7 @@
     ]
   },
   "hb": {
-    "minuit": "2026-08-16",
+    "minuit": "2026-08-17",
     "midi": "2026-08-16"
   },
   "seeded_sites": [
