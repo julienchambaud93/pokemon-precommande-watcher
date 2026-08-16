@@ -17,7 +17,7 @@
     },
     "Tamori Cards::16028191097157": {
       "title": "Pokémon 30TH Anniversary (CHN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://tamoricards.ch/products/display-terastal-festival-ex-jap-copie-2",
       "cat": "set_other"
@@ -30,14 +30,14 @@
       "cat": "target_etb"
     },
     "Swiss Pokéshop::10899490144583": {
-      "title": "Coffret Collection Ultra-Premium 30ᵉ Anniversaire – Version Journée",
+      "title": "Coffret Ultra-Premium Pokémon 30ᵉ Anniversaire – Version Journée FR",
       "available": false,
       "lang": "?",
       "url": "https://swiss-pokeshop.ch/products/coffret-collection-ultra-premium-30-anniversaire-version-journee",
       "cat": "target_upc"
     },
     "Swiss Pokéshop::10899490177351": {
-      "title": "Coffret Collection Ultra-Premium 30ᵉ Anniversaire – Version Soirée",
+      "title": "Coffret Ultra-Premium Pokémon 30ᵉ Anniversaire – Version Soirée FR",
       "available": false,
       "lang": "?",
       "url": "https://swiss-pokeshop.ch/products/coffret-collection-ultra-premium-30-anniversaire-version-soiree",
@@ -114,7 +114,7 @@
       "cat": "set_other"
     },
     "Swiss Pokéshop::10899490242887": {
-      "title": "Coffret Dresseur d'Élite 30ᵉ Anniversaire",
+      "title": "Elite Trainer Box Pokémon 30ᵉ Anniversaire FR",
       "available": false,
       "lang": "?",
       "url": "https://swiss-pokeshop.ch/products/coffret-dresseur-d-elite-30-anniversaire",
@@ -178,7 +178,7 @@
     },
     "LaschoCards::11337948496213": {
       "title": "Pokémon TCG - 30th Celebration Booster Pack (1. Stk)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-pack",
       "cat": "set_other"
@@ -1081,7 +1081,7 @@
     },
     "Pikaversum::15738205438326": {
       "title": "Pokémon TCG - 30th Anniversary First Partner Special Illustration Card Set Vol. 1 (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-anniversary-first-partner-special-illustration-card-set-vol-1-cn",
       "cat": "set_other"
@@ -1235,7 +1235,7 @@
     },
     "Zadoys::15775145132415": {
       "title": "30th Celebration Elite Trainer Box EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch",
       "cat": "target_etb"
@@ -1442,6 +1442,594 @@
       "lang": "FR",
       "url": "https://pocketdex.ch/products/journee-30-ans-pokemon-coffret-fr",
       "cat": "set_other"
+    },
+    "SkySpell::15685593104761": {
+      "title": "Pokémon 30th Anniversary First Partner Special Illustration Holo Set Vol.3 | Simplified Chinese",
+      "available": true,
+      "lang": "?",
+      "url": "https://skyspell.ch/products/pokemon-30th-anniversary-first-partner-special-illustration-holo-set-vol-3-simplified-chinese",
+      "cat": "set_other"
+    },
+    "Outpost Brussels::15979925012814": {
+      "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Greninja ex - EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-greninja-ex-en",
+      "cat": "set_other"
+    },
+    "Outpost Brussels::15979924980046": {
+      "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Sylveon ex - EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-sylveon-ex-en",
+      "cat": "set_other"
+    },
+    "Outpost Brussels::15979924947278": {
+      "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Amphinobi-ex - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-amphinobi-ex-fr",
+      "cat": "set_other"
+    },
+    "Outpost Brussels::15979924914510": {
+      "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Nymphali-ex - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-nymphali-ex-fr",
+      "cat": "set_other"
+    },
+    "PikaStore::15834006159734": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Coffret Nymphali‑ex et Amphinobi‑ex (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-coffret-nymphali-ex-et-amphinobi-ex-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15834005832054": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Coffret Nymphali‑ex et Amphinobi‑ex (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-coffret-nymphali-ex-et-amphinobi-ex-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15833998164342": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Coffret Collection poster - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-coffret-collection-poster-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15833997181302": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Coffret Collection poster - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-coffret-collection-poster-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15833988104566": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Pack de 2 boosters - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-pack-de-2-boosters-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15833986269558": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Pack de 2 boosters - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-pack-de-2-boosters-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600865149252": {
+      "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Tin FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-tin-fr",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16175463006595": {
+      "title": "[Précommande] Pokémon 30th Celebration Poster Collection FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-poster-collection-fr-en",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16175434858883": {
+      "title": "[Précommande] Pokémon 30th Celebration Tins FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tins-fr-en",
+      "cat": "target_etb"
+    },
+    "Poke Swiss::16175424635267": {
+      "title": "[Précommande] Pokémon 30th Celebration ex Box FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-ex-box-fr-en",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16175287861635": {
+      "title": "[Précommande] Pokémon 30th Celebration Tech Sticker Collection FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tech-sticker-collection-fr-en",
+      "cat": "target_etb"
+    },
+    "Poke Swiss::16175197684099": {
+      "title": "[Précommande] Pokémon 30th Celebration 2 Pack Blister FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-2-pack-blister-fr-en",
+      "cat": "target_etb"
+    },
+    "Poke Swiss::16174950482307": {
+      "title": "[Précommande] Pokémon 30th Celebration Elite Trainer Box FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-elite-trainer-box-fr-en",
+      "cat": "target_etb"
+    },
+    "Collectors Deal::15600862429508": {
+      "title": "Pokémon 30th Celebration ME5.5 2-Pack Blister Eevee FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-2-pack-blister-eevee-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600861446468": {
+      "title": "Pokémon 30th Celebration ME5.5 2-Pack Blister Eevee DE",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-2-pack-blister-eevee-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600861151556": {
+      "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Box FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-box-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600860823876": {
+      "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-box-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600860528964": {
+      "title": "Pokémon 30th Celebration ME5.5 Greninja EX Box FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-box-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600860332356": {
+      "title": "Pokémon 30th Celebration ME5.5 Greninja EX Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-box-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600858202436": {
+      "title": "Pokémon 30th Celebration ME5.5 Poster Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-poster-collection-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600858005828": {
+      "title": "Pokémon 30th Celebration ME5.5 Poster Collection DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-poster-collection-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600726704452": {
+      "title": "Pokémon 30th Celebration ME5.5 2-Pack Blister Eevee EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-2-pack-blister-eevee-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600609362244": {
+      "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-box-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600597926212": {
+      "title": "Pokémon 30th Celebration ME5.5 Greninja EX Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-box-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600576921924": {
+      "title": "Pokémon 30th Celebration ME5.5 Poster Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-poster-collection-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15595593466180": {
+      "title": "Pokémon 30th Celebration ME5.5 Elite Trainer Box FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-fr",
+      "cat": "target_etb"
+    },
+    "Collectors Deal::15595593007428": {
+      "title": "Pokémon 30th Celebration ME5.5 Elite Trainer Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-de",
+      "cat": "target_etb"
+    },
+    "Collectors Deal::15595584028996": {
+      "title": "Pokémon 30th Celebration ME5.5 Elite Trainer Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-en",
+      "cat": "target_etb"
+    },
+    "LaschoCards::11495143539029": {
+      "title": "Pokémon TCG - 30th Celebration ex Tin",
+      "available": false,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ex-tin",
+      "cat": "set_other"
+    },
+    "Pokereaves::10633843409243": {
+      "title": "Pre-order Pokemon 2 Pack Blister 30th anniversary - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-2-pack-blister-30th-anniversary-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10633854419291": {
+      "title": "Pre-order 1x Pokemon Tech sticker COLLECTION 30th anniversary - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-pokemon-tech-sticker-collection-30th-anniversary-english-copia",
+      "cat": "set_other"
+    },
+    "Pokereaves::10633883124059": {
+      "title": "Pre-order 1x Pokemon mini tin display 30th anniversary - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mini-tin-display-30th-anniversary-english",
+      "cat": "set_other"
+    },
+    "LaschoCards::11498603118933": {
+      "title": "Pokémon TCG - 30th Celebration ex Box",
+      "available": false,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-celebration-ex-box",
+      "cat": "set_other"
+    },
+    "Swiss Pokéshop::10982178652487": {
+      "title": "Coffret Ultra-Premium Pokémon 30th Anniversary – Day Version EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/coffret-ultra-premium-pokemon-30th-anniversary-day-version-en",
+      "cat": "target_upc"
+    },
+    "Swiss Pokéshop::10982178783559": {
+      "title": "Blister Pokémon 30th Anniversary – 2 Boosters EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/blister-pokemon-30th-anniversary-2-boosters-en",
+      "cat": "set_other"
+    },
+    "Swiss Pokéshop::10982178750791": {
+      "title": "Coffret Premium Pokémon Ditto 30th Anniversary EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/coffret-premium-pokemon-ditto-30th-anniversary-en",
+      "cat": "set_other"
+    },
+    "Swiss Pokéshop::10982178718023": {
+      "title": "Elite Trainer Box Pokémon 30th Anniversary EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/elite-trainer-box-pokemon-30th-anniversary-en",
+      "cat": "target_etb"
+    },
+    "Swiss Pokéshop::10982178685255": {
+      "title": "Coffret Ultra-Premium Pokémon 30th Anniversary – Night Version EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/coffret-ultra-premium-pokemon-30th-anniversary-night-version-en",
+      "cat": "target_upc"
+    },
+    "Swiss Pokéshop::10982178914631": {
+      "title": "Tripack Pokémon 30th Anniversary – Lucario EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/tripack-pokemon-30th-anniversary-lucario-en",
+      "cat": "set_other"
+    },
+    "Swiss Pokéshop::10982178881863": {
+      "title": "Tripack Pokémon 30th Anniversary – Exeggutor EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/tripack-pokemon-30th-anniversary-exeggutor-en",
+      "cat": "set_other"
+    },
+    "Swiss Pokéshop::10982178849095": {
+      "title": "Coffret Poster Pokémon 30th Anniversary EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/coffret-poster-pokemon-30th-anniversary-en",
+      "cat": "set_other"
+    },
+    "Swiss Pokéshop::10982178816327": {
+      "title": "Coffret Classeur Pokémon 30th Anniversary EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/coffret-classeur-pokemon-30th-anniversary-en",
+      "cat": "set_other"
+    },
+    "Swiss Pokéshop::10982178947399": {
+      "title": "Booster Bundle Pokémon 30th Anniversary – 6 Boosters EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://swiss-pokeshop.ch/products/booster-bundle-pokemon-30th-anniversary-en",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528578515319": {
+      "title": "Pokémon TCG 30th Celebration Elite Trainer Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+      "cat": "target_etb"
+    },
+    "PokeFaust::15528542732663": {
+      "title": "Pokémon TCG 30th Celebration Poster Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-poster-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528541323639": {
+      "title": "Pokémon TCG 30th Celebration Sylveon ex Tin",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-sylveon-ex-tin",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528535982455": {
+      "title": "Pokémon TCG 30th Celebration Greninja ex Tin",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-greninja-ex-tin",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528533164407": {
+      "title": "Pokémon TCG 30th Celebration Sylveon ex Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-sylveon-ex-box",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528528347511": {
+      "title": "Pokémon TCG 30th Celebration Greninja ex Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-greninja-ex-box",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528521498999": {
+      "title": "Pokémon TCG 30th Celebration Mini Tin Display (10 Tins)",
+      "available": false,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-mini-tin-display-10-tins",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528019296631": {
+      "title": "Pokémon TCG 30th Celebration Booster Bundle",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-booster-bundle",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528015233399": {
+      "title": "Pokémon TCG 30th Celebration Binder Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-binder-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528009204087": {
+      "title": "Pokémon TCG 30th Celebration Tech Sticker Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-tech-sticker-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15528008253815": {
+      "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Day Edition",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-edition",
+      "cat": "target_upc"
+    },
+    "PokeFaust::15528001896823": {
+      "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Night Edition",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition",
+      "cat": "target_upc"
+    },
+    "PokeFaust::15527993114999": {
+      "title": "Pokémon TCG 30th Celebration Mew Premium Figure Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-mew-premium-figure-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15527988396407": {
+      "title": "Pokémon TCG 30th Celebration Mewtwo Premium Figure Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-mewtwo-premium-figure-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15527984267639": {
+      "title": "Pokémon TCG 30th Celebration Ditto Premium Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15510924591479": {
+      "title": "Pokémon TCG 30th Anniversary 2 Pack Blister",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-anniversary-2-pack-blister",
+      "cat": "set_other"
+    },
+    "PikaStore::15839546147190": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Pokébox (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-pokebox-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15839535366518": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Pokébox (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-pokebox-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15839534186870": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Coffret Collection classeur - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-coffret-collection-classeur-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15839523373430": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Coffret Collection classeur - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-coffret-collection-classeur-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047247921528": {
+      "title": "Pokémon - 30th Celebration - EX Tin Box EN (1 Stk. zufällige Auswahl) (Kopie)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-en-1-stk-zufallige-auswahl-kopie",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047247954296": {
+      "title": "Pokémon - 30 Jahre - Figuren-Kollektion (Mew & Mewtu) -DE- (zufällige Auswahl)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-figuren-kollektion-mew-mewtu-de-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047247987064": {
+      "title": "Pokémon - 30 Jahre - Ditto Premium-Kollektion -DE-",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ditto-premium-kollektion-de",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047248019832": {
+      "title": "Pokémon - 30th Celebration - Ditto Premium Collection -EN-",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ditto-premium-collection-en",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047248052600": {
+      "title": "Pokémon - 30th Celebration - Ultra-Premium Collection Day -EN-",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-en",
+      "cat": "target_upc"
+    },
+    "MaRo Shop::15047248183672": {
+      "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Nacht -DE-",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ultra-premium-kollektion-nacht-de",
+      "cat": "target_upc"
+    },
+    "MaRo Shop::15047248249208": {
+      "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Tag -DE-",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ultra-premium-kollektion-tag-de",
+      "cat": "target_upc"
+    },
+    "MaRo Shop::15047248281976": {
+      "title": "Pokémon - 30th Celebration - Ultra-Premium Collection Night -EN-",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-en",
+      "cat": "target_upc"
+    },
+    "MaRo Shop::15047248314744": {
+      "title": "Pokémon - 30 Jahre - Kampf-Deck (Psiana EX, Nachtara EX) -DE- zufällige Auswahl",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-kampf-deck-psiana-ex-nachtara-ex-de-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047248380280": {
+      "title": "Pokémon - 30th Celebration - Battle Deck (Espeon EX, Umbreon EX) -EN- zufällige Auswahl",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-battle-deck-espeon-ex-umbreon-ex-en-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "Pikaversum::15841066320246": {
+      "title": "Pokémon TCG: 30th Celebration Binder Collection",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-binder-collection",
+      "cat": "set_other"
+    },
+    "Pikaversum::15840211698038": {
+      "title": "Pokémon TCG: 30th Celebration Pokémon ex Tin",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-pokemon-ex-tin",
+      "cat": "set_other"
+    },
+    "Pikaversum::15840203538806": {
+      "title": "Pokémon TCG: 30th Celebration Sylveon ex Box & Greninja ex Box",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box",
+      "cat": "set_other"
+    },
+    "Pikaversum::15840202391926": {
+      "title": "Pokémon TCG: 30th Celebration Poster Collection",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-poster-collection",
+      "cat": "set_other"
+    },
+    "Pikaversum::15840178176374": {
+      "title": "Pokémon TCG: 30th Celebration – 2-Pack Blister",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-2-pack-blister",
+      "cat": "set_other"
+    },
+    "Pikaversum::15839832637814": {
+      "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+      "cat": "target_etb"
     }
   },
   "html": {
@@ -1474,6 +2062,7 @@
     ],
     "Softridge::https://www.softridge.ch/en/tcg/pokemon": [],
     "Amazing Toys::https://amazingtoys.ch/search?search=30th%20celebration": [
+      "30th 3d upc",
       "30th celebration 3d upc",
       "30th celebration elite trainer",
       "30th celebration ultra premium"
@@ -1482,16 +2071,55 @@
     "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
     "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [],
     "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
-    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": false,
+    "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": [
+      "30 jahre top trainer",
+      "30th celebration elite trainer box etb"
+    ],
     "TCG Treasure::https://tcg-treasure.com/?s=30th+celebration&post_type=product": [],
-    "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [],
+    "Zadoys::https://zadoys.ch/search?q=30th%20celebration": [
+      "30th celebration deutsch mega ultra premium",
+      "30th celebration elite trainer",
+      "30th celebration elite trainer box en pokemon elite trainer",
+      "30th celebration elite trainer box en\", \"type\":\"elite trainer",
+      "30th celebration englisch mega ultra premium",
+      "30th celebration franzosisch mega ultra premium",
+      "30th celebration ultra premium",
+      "30th celebration\",\"deutsch\",\"mega\",\"ultra premium",
+      "30th celebration\",\"englisch\",\"mega\",\"ultra premium",
+      "30th celebration\",\"franzosisch\",\"mega\",\"ultra premium",
+      "elite trainer box\",\"handle\":\"pokemon mega series 30th"
+    ],
     "SkySpell::https://skyspell.ch/search?q=30th%20celebration": [],
-    "Collectors Deal::https://collectorsdeal.ch/search?q=30th%20celebration": [],
-    "La Taverne du Jeu::https://latavernedujeu.ch/?s=30th+celebration&post_type=product": []
+    "Collectors Deal::https://collectorsdeal.ch/search?q=30th%20celebration": [
+      "30th celebration me5 5 elite trainer",
+      "30th celebration me5.5 elite trainer",
+      "elite trainer box\",\"handle\":\"pokemon 30th"
+    ],
+    "La Taverne du Jeu::https://latavernedujeu.ch/?s=30th+celebration&post_type=product": [],
+    "Cardmaniac::https://cardmaniac.ch/search?q=30th%20celebration": [],
+    "PokeFaust::https://pokefaust.com/search?q=30th%20celebration": [
+      "30th celebration elite trainer",
+      "30th celebration elite trainer box english elite trainer",
+      "30th celebration ultra premium",
+      "elite trainer box\",\"handle\":\"pokemon tcg 30th",
+      "ultra premium collection\",\"handle\":\"pokemon tcg 30th"
+    ],
+    "TMS Bricks Shop::https://tmsbricksshop.ch/search?q=30th%20celebration": [],
+    "PocketDex::https://pocketdex.ch/search?q=30th%20celebration": [],
+    "Pokereaves::https://www.pokereaves.ch/search?q=30th%20celebration": [],
+    "Pikaversum::https://pikaversum.ch/search?q=30th%20celebration": [
+      "30th celebration elite trainer"
+    ],
+    "Detsuki::https://detsuki.ch/search?q=30th%20celebration": [],
+    "PikaStore::https://www.pikastore.ch/search?q=30th%20celebration": [
+      "etb coffret dresseur d&#39;elite me05.5 30e",
+      "etb coffret dresseur d'elite me05.5 30e",
+      "etb coffret dresseur delite me05 5 30e"
+    ]
   },
   "hb": {
-    "minuit": "2026-08-04",
-    "midi": "2026-08-04"
+    "minuit": "2026-08-16",
+    "midi": "2026-08-16"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -1551,8 +2179,24 @@
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box-EN": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection-EN": "out",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection-EN": "out",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box": "in",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "in",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "in"
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Elite-Trainer-Box": "out",
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Day-Collection": "out",
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-30th-Celebration-Ultra-Premium-Night-Collection": "out",
+    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30-jahre-top-trainer-box-ttb-de": "out",
+    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en": "out",
+    "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-etb-coffret-dresseur-delite-me05-5-30e-anniversaire": "out",
+    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-en": "out",
+    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-fr": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch": "in",
+    "Pikaversum::https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box": "out",
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-elite-trainer-box": "out",
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-edition": "out",
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-day-englisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-nacht-deutsch": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch": "out"
   }
 }
