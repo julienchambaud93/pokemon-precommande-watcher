@@ -69,6 +69,21 @@ def _is_japanese(ta):
             or re.search(r"\bjp\b", ta) is not None)
 
 
+def _is_delta(ta):
+    # Nouveau set anglais « Delta Reign » (ME06, sortie 06.11.2026). On tolère la faute « Delta Rain ».
+    return "delta reign" in ta or "delta rain" in ta
+
+
+def _set_tag(text):
+    """Étiquette courte du set pour l'affichage des alertes."""
+    t, ta = _prep(text)
+    if _is_delta(ta):
+        return "Delta Reign"
+    if _is_anniversary(t, ta):
+        return "30 ans"
+    return "Pokémon"
+
+
 def classify(text):
     """
     Retourne :
@@ -86,7 +101,7 @@ def classify(text):
         return None
     if "pokemon day" in ta:      # exclut l'ancien « Pokémon Day 30th Anniversary Collection Box »
         return None
-    if not _is_anniversary(t, ta):
+    if not (_is_anniversary(t, ta) or _is_delta(ta)):   # set « 30 ans » OU nouveau set « Delta Reign »
         return None
     # CIBLES ETB/UPC : noms propres à Pokémon -> on N'EXIGE PAS le mot « pokémon »
     # (priorité = ne JAMAIS rater le lancement, quitte à quelques fausses alertes).
@@ -105,7 +120,7 @@ def classify(text):
 # Motif « produit 30 ans » pour les sites NON-Shopify : anniversaire ET type ETB/UPC COLLÉS dans le
 # MÊME texte (sans balise < > entre eux) = un vrai titre de produit. Évite les faux positifs (terme de
 # recherche réaffiché, liens de langue, entrées de menu éparpillées sur la page).
-_ANNIV = r"(?:30th|30 ?e |30 ?eme |30 ?ans|30 ?jahre|30 ?anniversa|jubil|trenti)"
+_ANNIV = r"(?:30th|30 ?e |30 ?eme |30 ?ans|30 ?jahre|30 ?anniversa|jubil|trenti|delta reign|delta rain)"
 _TYP = r"(?:elite trainer|ultra premium|top ?trainer|dresseur[^<>]{0,6}elite|\betb\b|\bupc\b)"
 _HTML_PAT = re.compile(_ANNIV + r"[^<>]{0,45}" + _TYP + r"|" + _TYP + r"[^<>]{0,45}" + _ANNIV)
 
@@ -136,14 +151,25 @@ def _stock_state(html):
     texte « Ajouter au panier » est statique et trompeur. À défaut, on retombe sur les mots-clés.
     """
     hl = html.lower()
-    # (0) WooCommerce : conteneur du produit PRINCIPAL <div id="product-XXX" class="... instock|outofstock">
-    #     (le 1er match = produit principal ; les produits liés viennent après). Fiable même SANS schema.org.
-    m = re.search(r'id="product-\d+"[^>]*class="([^"]*)"', hl)
-    if m:
-        if "outofstock" in m.group(1):
-            return "out"
-        if "instock" in m.group(1):
-            return "in"
+    # (0) WooCommerce
+    if "product-type-variable" in hl:
+        # Produit à VARIANTES (ex. langue EN/DE) : le « instock » du parent ne garantit PAS qu'une
+        # variante soit achetable. On lit les variantes SI elles sont embarquées dans la page ;
+        # sinon (chargées en AJAX) on ne conclut rien ici -> on laisse schema/mots-clés décider plus bas.
+        if re.search(r'"is_in_stock":\s*true', hl):
+            return "in"                      # au moins une variante réellement en stock
+        if re.search(r'"is_in_stock":\s*(true|false)', hl):
+            return "out"                     # variantes présentes, aucune en stock
+        # sinon : variantes non lisibles (AJAX) -> pas de décision ici
+    else:
+        # Produit SIMPLE : la classe du conteneur principal <div id="product-XXX" class="... instock|outofstock">
+        # est fiable (1er match = produit principal ; les produits liés viennent après).
+        m = re.search(r'id="product-\d+"[^>]*class="([^"]*)"', hl)
+        if m and "product" in m.group(1):
+            if "outofstock" in m.group(1):
+                return "out"
+            if "instock" in m.group(1):
+                return "in"
     _, ta = _prep(html)
     # ACHETABLE (signaux FORTS du produit principal) — en priorité pour ne pas rater le passage en dispo :
     #   - schema.org/InStock (standard : Odoo, PrestaShop, WooCommerce avec schema)
@@ -295,7 +321,7 @@ def process_shopify(site, products, state, alerts, other_by_site, seed):
                 alerts.append({"kind": "NOUVEAU", "label": label, "site": site["name"],
                                "title": title, "price": price, "currency": site.get("currency", ""),
                                "lang": lang, "available": available, "url": url,
-                               "safety": site.get("safety")})
+                               "safety": site.get("safety"), "set": _set_tag(blob)})
             state["seen"][key] = {"title": title, "available": available, "lang": lang, "url": url, "cat": kind}
         else:
             was = state["seen"][key].get("available", False)
@@ -303,7 +329,7 @@ def process_shopify(site, products, state, alerts, other_by_site, seed):
                 alerts.append({"kind": "EN STOCK", "label": label, "site": site["name"],
                                "title": title, "price": price, "currency": site.get("currency", ""),
                                "lang": lang, "available": available, "url": url,
-                               "safety": site.get("safety")})
+                               "safety": site.get("safety"), "set": _set_tag(blob)})
             state["seen"][key]["available"] = available
             state["seen"][key]["title"] = title
 
@@ -324,10 +350,10 @@ def process_html(site, state, alerts, seed):
         nouveaux = sorted(h for h in hits if h not in prev_set)
         if nouveaux and not seed and isinstance(prev, list):
             alerts.append({"kind": "À VÉRIFIER", "label": "PAGE", "site": site["name"],
-                           "title": "Produit(s) 30 ans APPARU(S) — peut déjà être en rupture, à vérifier : "
+                           "title": "Produit(s) APPARU(S) — peut déjà être en rupture, à vérifier : "
                                     + ", ".join(nouveaux[:5]),
                            "price": "", "currency": "", "lang": "?", "available": True, "url": url,
-                           "safety": site.get("safety")})
+                           "safety": site.get("safety"), "set": _set_tag(" ".join(nouveaux))})
         state["html"][key] = sorted(prev_set | hits)
         # (2) collecte des URLs de fiches produit 30 ans
         product_urls |= _extract_product_urls(site["base"], html)
@@ -346,7 +372,8 @@ def process_html(site, state, alerts, seed):
         if prevst is not None and prevst != "in" and st == "in" and not seed:
             alerts.append({"kind": "EN STOCK", "label": "ETB/UPC", "site": site["name"],
                            "title": _label_from_url(purl), "price": "", "currency": site.get("currency", ""),
-                           "lang": "?", "available": True, "url": purl, "safety": site.get("safety")})
+                           "lang": "?", "available": True, "url": purl,
+                           "safety": site.get("safety"), "set": _set_tag(purl)})
         state["stock"][skey] = st
     return got
 
@@ -358,7 +385,9 @@ def format_alert(a):
     price = f"\nPrix : {a['price']} {a['currency']}".rstrip() if a.get("price") else ""
     lang = f"\nLangue probable : {a['lang']}" if a.get("lang") and a["lang"] != "?" else "\nLangue : à vérifier"
     safety = f" (🛡️ sûreté {a['safety']}/10)" if a.get("safety") is not None else ""
-    return (f"{icon} {a['kind']} — {a['label']} 30 ans\n"
+    stag = a.get("set") or ""
+    entete = f"{icon} {a['kind']} — {a['label']} {stag}".rstrip()
+    return (f"{entete}\n"
             f"Boutique : {a['site']}{safety}\n"
             f"Produit : {a['title']}"
             f"{price}{lang}\n"
@@ -368,7 +397,11 @@ def format_alert(a):
 # ─────────────────────────── Message de veille (midi & minuit, heure suisse) ───────────────────────────
 
 # Dates de sortie officielles (version anglaise)
-RELEASES = [("ETB", date(2026, 9, 16)), ("UPC (Day & Night)", date(2026, 11, 6))]
+RELEASES = [
+    ("ETB 30 ans", date(2026, 9, 16)),
+    ("UPC 30 ans (Day & Night)", date(2026, 11, 6)),
+    ("Delta Reign (nouveau set)", date(2026, 11, 6)),
+]
 
 
 def _countdown(today):
@@ -413,7 +446,7 @@ def daily_heartbeat(state, first_run, lus_ok=0, lus_ko=None):
 
 def run_report():
     header = [
-        "📋 COMPTE-RENDU IMMÉDIAT — ETB / UPC « 30 ans » détectés maintenant",
+        "📋 COMPTE-RENDU IMMÉDIAT — ETB / UPC (30 ans & Delta Reign) détectés maintenant",
         "🟢 = commandable   🔴 = rupture (souvent : précommande pas encore ouverte, ou déjà partie)",
         "",
     ]
@@ -454,7 +487,7 @@ def run_report():
         "",
         "ℹ️ Les sites non lisibles à distance (Coop, Manor, Draft Arena, Amazing Toys, WooCommerce…) "
         "sont surveillés « par page » — non listés ici.",
-        "🗓️ ETB : 16.09.2026 · UPC : 06.11.2026.",
+        "🗓️ ETB 30 ans : 16.09.2026 · UPC 30 ans & Delta Reign : 06.11.2026.",
     ]
     send_telegram("\n".join(header + blocks + footer))
     print(f"Rapport envoyé ({len(blocks)} boutique(s) avec produits).")
@@ -531,8 +564,8 @@ def main():
             note_txt = f" (🛡️ sûreté {note}/10)" if note is not None else ""
             lignes = "\n".join(f"• {t}\n➡️ {u}" for t, u in items[:15])
             notify(
-                f"Pokémon 30 ans — nouveautés chez {site_name}",
-                f"👀 D'autres produits '30 ans' viennent d'apparaître chez {site_name}{note_txt} "
+                f"Pokémon 30 ans / Delta Reign — nouveautés chez {site_name}",
+                f"👀 D'autres produits (30 ans / Delta Reign) viennent d'apparaître chez {site_name}{note_txt} "
                 f"({len(items)}) — va vérifier s'il y a l'ETB/UPC :\n" + lignes,
             )
         print(f"{len(alerts)} alerte(s) cible + {len(other_by_site)} site(s) avec autres nouveautés.")

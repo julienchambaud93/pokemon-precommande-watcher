@@ -27,6 +27,25 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
+      # Déclenche IMMÉDIATEMENT la prochaine exécution (mise « en attente » par concurrency, elle prendra
+      # le relais dès que celle-ci se termine — même si elle plante). Rend la surveillance indépendante du
+      # planificateur GitHub (qui laissait des trous, surtout la nuit). Nécessite le secret CHAIN_PAT.
+      - name: Auto-chaînage de la prochaine exécution
+        if: github.event.inputs.mode != 'rapport' && github.event.inputs.mode != 'test'
+        env:
+          CHAIN_PAT: ${{ secrets.CHAIN_PAT }}
+        run: |
+          set +e
+          if [ -n "$CHAIN_PAT" ]; then
+            curl -s -o /dev/null -w "auto-chaînage -> HTTP %{http_code}\n" -X POST \
+              -H "Authorization: Bearer $CHAIN_PAT" \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/monitor.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"mode":"surveillance"}}'
+          else
+            echo "CHAIN_PAT absent -> auto-chaînage désactivé (on retombe sur le planificateur GitHub)."
+          fi
+
       - name: Récupérer le code
         uses: actions/checkout@v4
 
@@ -70,11 +89,11 @@ jobs:
             # Action ponctuelle (déclenchement manuel) : une seule exécution
             python monitor.py
           else
-            # Surveillance : boucle LONGUE (~5 h 50, le max GitHub est 6 h), vérification toutes les 2 min.
-            # Une seule exécution couvre ~5 h 30 en continu ; pendant ce temps le planificateur GitHub met la
-            # suivante « en attente » (concurrency), qui prend le relais instantanément à la fin -> zéro trou.
-            # (5 h 30 = marge de sécurité sous la limite dure de 6 h des jobs GitHub, pour ne pas être coupé.)
-            fin=$((SECONDS + 19800))
+            # Surveillance : boucle ~50 min, vérification toutes les 2 min.
+            # La continuité est désormais assurée par l'AUTO-CHAÎNAGE (étape ci-dessus) : la prochaine
+            # exécution est déjà en attente et démarre dès la fin de celle-ci. Des boucles courtes = reprise
+            # rapide en cas de pépin + attente en file d'attente courte (fiable).
+            fin=$((SECONDS + 3000))
             while [ $SECONDS -lt $fin ]; do
               t0=$SECONDS
               python monitor.py || true
