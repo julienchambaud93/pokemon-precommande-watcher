@@ -2163,6 +2163,20 @@
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-reign-black-me06-elite-trainer-box-etb-english",
       "cat": "target_etb"
+    },
+    "Raystorm::11323105476949": {
+      "title": "Coffret Starter 30ans Vol. 2 [CN]",
+      "available": true,
+      "lang": "?",
+      "url": "https://raystorm.ch/products/coffret-starter-30ans-vol-2-cn",
+      "cat": "set_other"
+    },
+    "Raystorm::11322271727957": {
+      "title": "Coffret Starter 30ans Vol. 1 [CN]",
+      "available": true,
+      "lang": "?",
+      "url": "https://raystorm.ch/products/coffret-starter-30-ans-vol-1-cn",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -2248,7 +2262,23 @@
       "etb coffret dresseur d&#39;elite me05.5 30e",
       "etb coffret dresseur d'elite me05.5 30e",
       "etb coffret dresseur delite me05 5 30e"
-    ]
+    ],
+    "Mix-Image::https://mix-image.ch/?s=30th+celebration&post_type=product": [],
+    "EduJeu::https://edujeu.ch/?s=30th+celebration&post_type=product": [],
+    "Tanigami::https://tanigami.ch/?s=30th+celebration&post_type=product": [],
+    "Mighty Games::https://www.mightygames.ch/fr/recherche?controller=search&s=30th%20celebration": [],
+    "Atelier Jeu::https://www.atelier-jeu.ch/": [],
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/search?q=30th%20celebration": [
+      "etb 30th",
+      "etb&#x20;30th"
+    ],
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/?s=30th+celebration&post_type=product": [],
+    "La Guilde::https://www.la-guilde.ch/search?q=30th%20celebration": [],
+    "La Guilde::https://www.la-guilde.ch/?s=30th+celebration&post_type=product": [],
+    "Au Paradis du Jeu::https://auparadisdujeu.ch/?s=30th+celebration&post_type=product": [],
+    "Les 400 Coups::https://www.400coups.ch/?s=30th+celebration&post_type=product": [],
+    "Korner Cash::https://kornercash.ch/?s=30th+celebration&post_type=product": [],
+    "Jouets Davidson::https://www.jouetsdavidson.ch/?s=30th+celebration&post_type=product": []
   },
   "hb": {
     "minuit": "2026-08-17",
@@ -2300,7 +2330,20 @@
     "Cardmaniac",
     "La Taverne du Jeu",
     "PocketDex",
-    "TMS Bricks Shop"
+    "TMS Bricks Shop",
+    "ViviShop",
+    "Raystorm",
+    "Mix-Image",
+    "EduJeu",
+    "Tanigami",
+    "Mighty Games",
+    "Atelier Jeu",
+    "Maîtres des Arènes",
+    "La Guilde",
+    "Au Paradis du Jeu",
+    "Les 400 Coups",
+    "Korner Cash",
+    "Jouets Davidson"
   ],
   "stock": {
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
@@ -2330,6 +2373,8 @@
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch": "out",
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch": "out",
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-nacht-deutsch": "out",
-    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch": "out"
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch": "out",
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543877/pokemon-etb-30th-anniversary-celebration-fr": "in",
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543912/pokemon-etb-30th-anniversary-celebration-en": "in"
   }
 }
