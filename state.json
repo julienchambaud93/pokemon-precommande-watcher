@@ -1424,14 +1424,14 @@
     },
     "Pokereaves::10617207947611": {
       "title": "Pre-order 1x Pokemon Mewtwo and Mew collection COLLECTION BOX 30th anniversary - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mewtwo-and-mew-collection-collection-box-30th-anniversary-english",
       "cat": "set_other"
     },
     "Pokereaves::10617136185691": {
       "title": "Pre-order 1x Pokemon BINDER COLLECTION BOX 30th anniversary - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-ditto-premium-collection-30th-anniversary-english-copia",
       "cat": "set_other"
@@ -2184,6 +2184,13 @@
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-anniversary-special-art-card-set-vol-3-cn",
       "cat": "set_other"
+    },
+    "Pokereaves::10334437769563": {
+      "title": "Pre-order Pokemon Mega 30th anniversary Elite Trainer Box (ETB) - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-pokemon-mega-30th-anniversary-elite-trainer-box-etb-english",
+      "cat": "target_etb"
     }
   },
   "html": {
