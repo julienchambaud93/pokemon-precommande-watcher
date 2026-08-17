@@ -2285,7 +2285,8 @@
     "Au Paradis du Jeu::https://auparadisdujeu.ch/?s=30th+celebration&post_type=product": [],
     "Les 400 Coups::https://www.400coups.ch/?s=30th+celebration&post_type=product": [],
     "Korner Cash::https://kornercash.ch/?s=30th+celebration&post_type=product": [],
-    "Jouets Davidson::https://www.jouetsdavidson.ch/?s=30th+celebration&post_type=product": []
+    "Jouets Davidson::https://www.jouetsdavidson.ch/?s=30th+celebration&post_type=product": [],
+    "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": []
   },
   "hb": {
     "minuit": "2026-08-17",
@@ -2350,7 +2351,8 @@
     "Au Paradis du Jeu",
     "Les 400 Coups",
     "Korner Cash",
-    "Jouets Davidson"
+    "Jouets Davidson",
+    "Interdiscount"
   ],
   "stock": {
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
