@@ -2265,7 +2265,9 @@
     ],
     "Amazing Toys::https://amazingtoys.ch/Pre-Order/?immediately-available=1": [],
     "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
-    "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [],
+    "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [
+      "30th celebration elite trainer"
+    ],
     "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
     "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": [
       "30 jahre top trainer",
@@ -2426,6 +2428,7 @@
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-nacht-deutsch": "out",
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch": "out",
     "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543877/pokemon-etb-30th-anniversary-celebration-fr": "in",
-    "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543912/pokemon-etb-30th-anniversary-celebration-en": "in"
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543912/pokemon-etb-30th-anniversary-celebration-en": "in",
+    "Toytans::https://www.toytans.ch/de/pokemon-trainerboxen/2839-pokemon-me055-30th-celebration-elite-trainer-box-en-196214144828.html": "in"
   }
 }
