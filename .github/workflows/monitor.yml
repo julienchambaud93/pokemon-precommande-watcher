@@ -13,6 +13,7 @@ on:
           - surveillance       # normal : n'alerte que sur du nouveau / retour en stock
           - rapport            # envoie un compte-rendu immédiat sur Telegram
           - test               # envoie un simple message de test Telegram
+          - checkmail          # scan à la demande de tes mails de boutiques (boîte + spam, 90 j)
 
 # Autorise le job à ré-écrire state.json dans le dépôt
 permissions:
@@ -69,6 +70,9 @@ jobs:
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           TEST_ALERT: ${{ secrets.TEST_ALERT }}
+          # Lecture des mails de boutiques (redirigés Hotmail -> Gmail) :
+          GMAIL_IMAP_USER: ${{ secrets.GMAIL_IMAP_USER }}
+          GMAIL_IMAP_PASS: ${{ secrets.GMAIL_IMAP_PASS }}
         run: |
           set +e   # NE JAMAIS tuer la boucle sur un code de retour anodin (git / réseau / etc.)
           git config user.name "pokemon-bot"
@@ -100,7 +104,10 @@ jobs:
               sauver_etat
               # viser un cycle total de ~120 s : on retire le temps déjà passé à scanner
               reste=$((120 - (SECONDS - t0)))
-              [ $reste -lt 15 ] && reste=15          # au moins 15 s de pause (poli avec les serveurs)
-              [ $SECONDS -lt $fin ] && sleep $reste
+              if [ $reste -lt 15 ]; then reste=15; fi     # au moins 15 s de pause (poli avec les serveurs)
+              if [ $SECONDS -lt $fin ]; then sleep $reste; fi
             done
           fi
+          exit 0   # la boucle a tourné jusqu'au bout : on marque l'exécution « réussie »
+                   # (les pépins d'un cycle sont déjà gérés en interne) -> fini les faux « failed »
+                   # et le flot de mails d'échec GitHub.

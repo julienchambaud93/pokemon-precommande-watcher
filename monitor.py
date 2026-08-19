@@ -14,12 +14,15 @@ Le tout premier lancement enregistre l'état actuel et envoie UN récap, sans sp
 
 Test manuel : définir la variable TEST_ALERT=1 -> envoie un message de test puis s'arrête.
 """
+import email as emaillib
+import imaplib
 import json
 import os
 import re
 import sys
 import unicodedata
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
+from email.header import decode_header
 from zoneinfo import ZoneInfo
 
 import requests
@@ -35,6 +38,20 @@ HEADERS = {
 }
 TIMEOUT = 15   # délai max par site (un site lent ne doit pas ralentir tout le cycle)
 SITE_SAFETY = {s["name"]: s.get("safety") for s in SITES}   # nom -> note de sûreté /10
+
+
+def _shop_domain(base):
+    return re.sub(r"^https?://(www\.)?", "", base or "").split("/")[0].lower()
+
+
+# Domaines des boutiques (pour repérer un mail venant d'une boutique) + mots-clés de précommande.
+SHOP_DOMAINS = sorted({_shop_domain(s["base"]) for s in SITES if s.get("base")})
+MAIL_KEYWORDS = ("precommande", "précommande", "preorder", "pre-order", "pre order", "delta reign",
+                 "delta rain", "30th", "30 ans", "celebration", "célébration", "anniversa", "restock",
+                 "back in stock", "de retour", "en stock", "disponible", "vorbestell", "coming soon",
+                 "bientôt disponible", "expédiée", "confirmation de commande", "order confirm",
+                 "votre commande", "pokémon", "pokemon")
+MAIL_EXCLUDE = ("github.com", "ci_activity", "workflow run", "run failed", "jobs have failed", "google play")
 
 
 # ─────────────────────────── Détection (LARGE, tolérante aux variantes d'écriture) ───────────────────────────
@@ -493,6 +510,119 @@ def run_report():
     print(f"Rapport envoyé ({len(blocks)} boutique(s) avec produits).")
 
 
+# ─────────────────────────── Surveillance des mails de boutiques ───────────────────────────
+
+def _dec(h):
+    """Décode un en-tête MIME (From/Subject) en texte lisible."""
+    if not h:
+        return ""
+    out = []
+    for part, enc in decode_header(h):
+        if isinstance(part, bytes):
+            try:
+                out.append(part.decode(enc or "utf-8", "ignore"))
+            except Exception:
+                out.append(part.decode("utf-8", "ignore"))
+        else:
+            out.append(part)
+    return "".join(out)
+
+
+def _mail_pertinent(sender, subject):
+    hay = (sender + " " + subject).lower()
+    if any(x in hay for x in MAIL_EXCLUDE):
+        return False
+    return any(d in hay for d in SHOP_DOMAINS) or any(k in hay for k in MAIL_KEYWORDS)
+
+
+def check_mail(state, report=False):
+    """Lit le Gmail (mails de boutiques redirigés depuis Hotmail) via IMAP.
+    - normal : ping Telegram sur chaque NOUVEAU mail de boutique.
+    - report=True : scan large (90 j, boîte + spam) et renvoie un récap à la demande."""
+    user = os.environ.get("GMAIL_IMAP_USER")
+    pw = os.environ.get("GMAIL_IMAP_PASS")
+    if not (user and pw):
+        if report:
+            send_telegram("📭 Check mail impossible : l'accès à la boîte n'est pas encore configuré "
+                          "(secrets GMAIL_IMAP_USER / GMAIL_IMAP_PASS manquants).")
+        print("[mail] secrets IMAP absents -> lecture des mails ignorée")
+        return
+    seen = state.setdefault("mails_seen", [])
+    seen_set = set(seen)
+    try:
+        M = imaplib.IMAP4_SSL("imap.gmail.com", 993)
+        M.login(user, pw)
+    except Exception as e:
+        print("[mail] connexion IMAP échouée:", e)
+        if report:
+            send_telegram(f"📭 Check mail : connexion à Gmail échouée ({e}). "
+                          "Vérifie le mot de passe d'application et que l'IMAP est activé.")
+        return
+    jours = 90 if report else 4
+    since = (datetime.now() - timedelta(days=jours)).strftime("%d-%b-%Y")
+    trouves = []
+    for fol in ("INBOX", '"[Gmail]/Spam"'):
+        try:
+            if M.select(fol, readonly=True)[0] != "OK":
+                continue
+            typ, data = M.search(None, "(SINCE %s)" % since)
+        except Exception:
+            continue
+        if typ != "OK" or not data or not data[0]:
+            continue
+        for num in data[0].split()[-200:]:
+            try:
+                typ, md = M.fetch(num, "(BODY.PEEK[HEADER.FIELDS (FROM SUBJECT MESSAGE-ID DATE)])")
+            except Exception:
+                continue
+            if typ != "OK" or not md or not md[0]:
+                continue
+            msg = emaillib.message_from_bytes(md[0][1])
+            sender = _dec(msg.get("From"))
+            subject = _dec(msg.get("Subject"))
+            msgid = (msg.get("Message-ID") or (sender + "|" + subject))[:200]
+            if not _mail_pertinent(sender, subject):
+                continue
+            if not report and msgid in seen_set:
+                continue
+            trouves.append({"date": _dec(msg.get("Date")), "de": sender, "objet": subject, "id": msgid})
+    try:
+        M.logout()
+    except Exception:
+        pass
+
+    def _court(sender):
+        return (sender.split("<")[0].strip().strip('"') or sender)[:60]
+
+    if report:
+        if trouves:
+            m = f"📬 CHECK MAIL — {len(trouves)} mail(s) de boutique trouvé(s) (90 j, boîte + spam) :\n"
+            for t in trouves[:15]:
+                m += f"\n• {t['objet']}\n   de {_court(t['de'])} — {t['date']}"
+            if len(trouves) > 15:
+                m += f"\n\n… + {len(trouves) - 15} autres."
+        else:
+            m = "📭 CHECK MAIL : aucun mail de boutique détecté sur les 90 derniers jours (boîte + spam)."
+        send_telegram(m)
+    else:
+        premier = not state.get("mail_initialized")   # 1er passage : on mémorise SANS pinguer (anti-spam)
+        for t in trouves:
+            if premier:
+                continue
+            send_telegram("📧 NOUVEAU MAIL boutique\n"
+                          f"De : {_court(t['de'])}\n"
+                          f"Objet : {t['objet']}\n"
+                          f"({t['date']})\n"
+                          "👉 Va vérifier ta boîte mail (précommande / expédition ?).")
+        state["mail_initialized"] = True
+    for t in trouves:
+        if t["id"] not in seen_set:
+            seen.append(t["id"]); seen_set.add(t["id"])
+    if len(seen) > 800:
+        state["mails_seen"] = seen[-800:]
+    print(f"[mail] {len(trouves)} mail(s) de boutique {'(report)' if report else 'nouveau(x)'}")
+
+
 # ─────────────────────────── Programme principal ───────────────────────────
 
 def main():
@@ -503,6 +633,11 @@ def main():
         return
     if mode == "rapport":
         run_report()
+        return
+    if mode == "checkmail":
+        state = load_state()
+        check_mail(state, report=True)
+        save_state(state)
         return
 
     state = load_state()
@@ -571,6 +706,7 @@ def main():
         print(f"{len(alerts)} alerte(s) cible + {len(other_by_site)} site(s) avec autres nouveautés.")
 
     daily_heartbeat(state, first_run, lus_ok, lus_ko)
+    check_mail(state)      # ping Telegram sur les nouveaux mails de boutiques (redirigés vers Gmail)
     save_state(state)
     print("Terminé.")
 
