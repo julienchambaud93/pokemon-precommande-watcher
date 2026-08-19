@@ -122,7 +122,7 @@
     },
     "LaschoCards::11393561297237": {
       "title": "Pokémon TCG - 30th Celebration 2-Pack Blister",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-2-pack-blister",
       "cat": "set_other"
@@ -150,7 +150,7 @@
     },
     "LaschoCards::11348401979733": {
       "title": "Pokémon TCG - Espeon ex and Umbreon ex 30th Celebration Premium Deck Set",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-espeon-ex-and-umbreon-ex-30th-celebration-premium-deck-set",
       "cat": "set_other"
@@ -1529,42 +1529,42 @@
     },
     "Poke Swiss::16175463006595": {
       "title": "[Précommande] Pokémon 30th Celebration Poster Collection FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-poster-collection-fr-en",
       "cat": "set_other"
     },
     "Poke Swiss::16175434858883": {
       "title": "[Précommande] Pokémon 30th Celebration Tins FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tins-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16175424635267": {
       "title": "[Précommande] Pokémon 30th Celebration ex Box FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-ex-box-fr-en",
       "cat": "set_other"
     },
     "Poke Swiss::16175287861635": {
       "title": "[Précommande] Pokémon 30th Celebration Tech Sticker Collection FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tech-sticker-collection-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16175197684099": {
       "title": "[Précommande] Pokémon 30th Celebration 2 Pack Blister FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-2-pack-blister-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16174950482307": {
       "title": "[Précommande] Pokémon 30th Celebration Elite Trainer Box FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-elite-trainer-box-fr-en",
       "cat": "target_etb"
@@ -2226,6 +2226,48 @@
       "lang": "FR",
       "url": "https://www.pikastore.ch/products/preco-pokemon-fr-collection-autocollant-reajustable-set-de-2-me05-5-30e-anniversaire",
       "cat": "set_other"
+    },
+    "Pokereaves::10656732152155": {
+      "title": "Pre-order 1x Pokémon 30th Celebration Poster Collection - English",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-poster-collection-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10656734380379": {
+      "title": "Pre-order 1x Pokémon 30th Celebration ex Box - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-ex-box-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10656768590171": {
+      "title": "Pre-order 1x Pokémon 30th Celebration Sylveon ex Box - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-sylveon-ex-box-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10660722311515": {
+      "title": "Pre-order 1x Pokemon 30th anniversary Umbreon BATTLE DECK - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-anniversary-espeon-battle-deck-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10660710580571": {
+      "title": "Pre-order 1x Pokemon 30th anniversary Espeon BATTLE DECK - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-pokemon-tcg-30th-celebration-battle-deck-anniversary-english",
+      "cat": "set_other"
+    },
+    "Pokereaves::10662178619739": {
+      "title": "Pre-order 1x Pokémon – 30th Celebration: Collection Poster - English",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-collection-poster-english",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -2258,6 +2300,7 @@
     ],
     "Softridge::https://www.softridge.ch/en/tcg/pokemon": [],
     "Amazing Toys::https://amazingtoys.ch/search?search=30th%20celebration": [
+      "30eme anniversaire etb",
       "30th 3d upc",
       "30th celebration 3d upc",
       "30th celebration elite trainer",
@@ -2333,8 +2376,8 @@
     "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": []
   },
   "hb": {
-    "minuit": "2026-08-19",
-    "midi": "2026-08-18"
+    "minuit": "2026-08-20",
+    "midi": "2026-08-19"
   },
   "seeded_sites": [
     "Pokecard Store",
