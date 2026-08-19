@@ -354,12 +354,8 @@ def process_shopify(site, products, state, alerts, other_by_site, seed):
 def process_html(site, state, alerts, seed):
     got = False           # True si au moins une page a pu être lue (sinon on ne "valide" pas le site)
     product_urls = set()  # fiches produit 30 ans repérées, dont on ira lire le stock
-    for url in site.get("search_urls", [site["base"]]):
-        html = fetch_html(url)
-        if html is None:
-            continue
-        got = True
-        # (1) APPARITION : nouveau libellé « 30 ans + ETB/UPC » sur la page (proximité)
+    def _traiter(url, html):
+        """Détecte les nouveaux libellés « 30 ans / Delta Reign » sur une page, alerte, renvoie les URLs de fiches."""
         hits = _html_hits(html)
         key = f"{site['name']}::{url}"
         prev = state["html"].get(key)
@@ -372,8 +368,23 @@ def process_html(site, state, alerts, seed):
                            "price": "", "currency": "", "lang": "?", "available": True, "url": url,
                            "safety": site.get("safety"), "set": _set_tag(" ".join(nouveaux))})
         state["html"][key] = sorted(prev_set | hits)
-        # (2) collecte des URLs de fiches produit 30 ans
-        product_urls |= _extract_product_urls(site["base"], html)
+        return _extract_product_urls(site["base"], html)
+
+    for url in site.get("search_urls", [site["base"]]):
+        html = fetch_html(url)
+        if html is None:
+            continue
+        got = True
+        product_urls |= _traiter(url, html)
+
+    # Repli : si aucune page de recherche n'a répondu, on lit la PAGE D'ACCUEIL (presque toujours
+    # accessible) -> le site est au moins « lu » (plus de faux « non lue »), et un produit mis en avant
+    # sur la home est quand même détecté.
+    if not got:
+        html = fetch_html(site["base"])
+        if html is not None:
+            got = True
+            product_urls |= _traiter(site["base"], html)
 
     # (3) STOCK : on ouvre chaque fiche et on alerte sur rupture -> achetable
     for purl in sorted(product_urls)[:8]:

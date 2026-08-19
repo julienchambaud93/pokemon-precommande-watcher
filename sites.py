@@ -100,7 +100,8 @@ SITES = [
 
     # ─────────── Lausanne & environs (3e vague) ───────────
     {"name": "ViviShop",        "base": "https://vivishop.ch",         "type": "shopify", "currency": "CHF", "safety": 7},
-    {"name": "Coin-Op",         "base": "https://www.coin-op.ch",      "type": "shopify", "currency": "CHF", "safety": 8},
+    {"name": "Coin-Op",         "base": "https://www.coin-op.ch",      "type": "auto",    "currency": "CHF", "safety": 8,
+     "search_urls": ["https://www.coin-op.ch/search?q=30th%20celebration"]},
     {"name": "Raystorm",        "base": "https://raystorm.ch",         "type": "shopify", "currency": "CHF", "safety": 8},
     {"name": "Geek Place",      "base": "https://geekplace.shop",      "type": "html",    "currency": "CHF", "safety": 8,
      "search_urls": ["https://geekplace.shop/?s=30th+celebration&post_type=product"]},

@@ -90,8 +90,8 @@ jobs:
             fi
           }
 
-          if [ "$MODE" = "rapport" ] || [ "$MODE" = "test" ]; then
-            # Action ponctuelle (déclenchement manuel) : une seule exécution
+          if [ "$MODE" = "rapport" ] || [ "$MODE" = "test" ] || [ "$MODE" = "checkmail" ]; then
+            # Action ponctuelle (déclenchement manuel) : UNE SEULE exécution, pas de boucle
             python monitor.py
           else
             # Surveillance : boucle ~50 min, vérification toutes les 2 min.
