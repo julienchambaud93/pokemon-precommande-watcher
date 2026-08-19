@@ -19,9 +19,10 @@ on:
 permissions:
   contents: write
 
-# Empêche deux exécutions de se chevaucher
+# Empêche deux surveillances de se chevaucher, MAIS laisse les actions à la demande
+# (rapport / test / checkmail) tourner tout de suite dans leur propre file (pas d'attente).
 concurrency:
-  group: pokemon-monitor
+  group: pokemon-monitor-${{ github.event.inputs.mode || 'surveillance' }}
   cancel-in-progress: false
 
 jobs:
