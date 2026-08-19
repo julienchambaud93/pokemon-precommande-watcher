@@ -2373,7 +2373,11 @@
     "Les 400 Coups::https://www.400coups.ch/?s=30th+celebration&post_type=product": [],
     "Korner Cash::https://kornercash.ch/?s=30th+celebration&post_type=product": [],
     "Jouets Davidson::https://www.jouetsdavidson.ch/?s=30th+celebration&post_type=product": [],
-    "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": []
+    "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": [],
+    "Philibert::https://www.philibertnet.com": [],
+    "Kabooom::https://shop.kabooom.ch": [],
+    "Carab::https://carab.ch": [],
+    "Coin-Op::https://www.coin-op.ch": []
   },
   "hb": {
     "minuit": "2026-08-20",
@@ -2439,7 +2443,8 @@
     "Les 400 Coups",
     "Korner Cash",
     "Jouets Davidson",
-    "Interdiscount"
+    "Interdiscount",
+    "Coin-Op"
   ],
   "stock": {
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
