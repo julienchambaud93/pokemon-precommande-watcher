@@ -122,14 +122,14 @@
     },
     "LaschoCards::11393561297237": {
       "title": "Pokémon TCG - 30th Celebration 2-Pack Blister",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-2-pack-blister",
       "cat": "set_other"
     },
     "LaschoCards::11393559363925": {
       "title": "Pokémon TCG - 30th Celebration Tech Sticker Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection",
       "cat": "set_other"
@@ -1424,14 +1424,14 @@
     },
     "Pokereaves::10617207947611": {
       "title": "Pre-order 1x Pokemon Mewtwo and Mew collection COLLECTION BOX 30th anniversary - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mewtwo-and-mew-collection-collection-box-30th-anniversary-english",
       "cat": "set_other"
     },
     "Pokereaves::10617136185691": {
       "title": "Pre-order 1x Pokemon BINDER COLLECTION BOX 30th anniversary - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-ditto-premium-collection-30th-anniversary-english-copia",
       "cat": "set_other"
@@ -1529,42 +1529,42 @@
     },
     "Poke Swiss::16175463006595": {
       "title": "[Précommande] Pokémon 30th Celebration Poster Collection FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-poster-collection-fr-en",
       "cat": "set_other"
     },
     "Poke Swiss::16175434858883": {
       "title": "[Précommande] Pokémon 30th Celebration Tins FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tins-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16175424635267": {
       "title": "[Précommande] Pokémon 30th Celebration ex Box FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-ex-box-fr-en",
       "cat": "set_other"
     },
     "Poke Swiss::16175287861635": {
       "title": "[Précommande] Pokémon 30th Celebration Tech Sticker Collection FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tech-sticker-collection-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16175197684099": {
       "title": "[Précommande] Pokémon 30th Celebration 2 Pack Blister FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-2-pack-blister-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16174950482307": {
       "title": "[Précommande] Pokémon 30th Celebration Elite Trainer Box FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-elite-trainer-box-fr-en",
       "cat": "target_etb"
@@ -1704,7 +1704,7 @@
     },
     "LaschoCards::11498603118933": {
       "title": "Pokémon TCG - 30th Celebration ex Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-celebration-ex-box",
       "cat": "set_other"
@@ -2033,7 +2033,7 @@
     },
     "LaschoCards::11507128631637": {
       "title": "Pokémon TCG - Mega Evolution ME06: Delta Reign Booster Pack",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-mega-evolution-me06-delta-reign-booster-pack",
       "cat": "set_other"
@@ -2163,6 +2163,69 @@
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-reign-black-me06-elite-trainer-box-etb-english",
       "cat": "target_etb"
+    },
+    "Raystorm::11323105476949": {
+      "title": "Coffret Starter 30ans Vol. 2 [CN]",
+      "available": true,
+      "lang": "?",
+      "url": "https://raystorm.ch/products/coffret-starter-30ans-vol-2-cn",
+      "cat": "set_other"
+    },
+    "Raystorm::11322271727957": {
+      "title": "Coffret Starter 30ans Vol. 1 [CN]",
+      "available": true,
+      "lang": "?",
+      "url": "https://raystorm.ch/products/coffret-starter-30-ans-vol-1-cn",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15535190475127": {
+      "title": "Pokémon 30th Anniversary Special Art Card Set Vol. 3 (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-anniversary-special-art-card-set-vol-3-cn",
+      "cat": "set_other"
+    },
+    "Pokereaves::10334437769563": {
+      "title": "Pre-order Pokemon Mega 30th anniversary Elite Trainer Box (ETB) - ENGLISH",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-pokemon-mega-30th-anniversary-elite-trainer-box-etb-english",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15047846363512": {
+      "title": "Pokémon - 30th Anniversary Celebration: First Partner Vol. 1 - CHN",
+      "available": true,
+      "lang": "?",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-anniversary-celebration-first-partner-vol-1-chn",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047847412088": {
+      "title": "Pokémon - 30th Celebration - First Partner Vol. 2 - CHN",
+      "available": true,
+      "lang": "?",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-first-partner-vol-2-chn",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15047847739768": {
+      "title": "Pokémon - 30th Celebration - First Partner Vol. 3 - CHN",
+      "available": true,
+      "lang": "?",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-first-partner-vol-3-chn",
+      "cat": "set_other"
+    },
+    "PikaStore::15844445782390": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Collection autocollant réajustable (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-collection-autocollant-reajustable-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15844440965494": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Collection autocollant réajustable (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-collection-autocollant-reajustable-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -2202,7 +2265,9 @@
     ],
     "Amazing Toys::https://amazingtoys.ch/Pre-Order/?immediately-available=1": [],
     "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
-    "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [],
+    "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [
+      "30th celebration elite trainer"
+    ],
     "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
     "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": [
       "30 jahre top trainer",
@@ -2248,11 +2313,28 @@
       "etb coffret dresseur d&#39;elite me05.5 30e",
       "etb coffret dresseur d'elite me05.5 30e",
       "etb coffret dresseur delite me05 5 30e"
-    ]
+    ],
+    "Mix-Image::https://mix-image.ch/?s=30th+celebration&post_type=product": [],
+    "EduJeu::https://edujeu.ch/?s=30th+celebration&post_type=product": [],
+    "Tanigami::https://tanigami.ch/?s=30th+celebration&post_type=product": [],
+    "Mighty Games::https://www.mightygames.ch/fr/recherche?controller=search&s=30th%20celebration": [],
+    "Atelier Jeu::https://www.atelier-jeu.ch/": [],
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/search?q=30th%20celebration": [
+      "etb 30th",
+      "etb&#x20;30th"
+    ],
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/?s=30th+celebration&post_type=product": [],
+    "La Guilde::https://www.la-guilde.ch/search?q=30th%20celebration": [],
+    "La Guilde::https://www.la-guilde.ch/?s=30th+celebration&post_type=product": [],
+    "Au Paradis du Jeu::https://auparadisdujeu.ch/?s=30th+celebration&post_type=product": [],
+    "Les 400 Coups::https://www.400coups.ch/?s=30th+celebration&post_type=product": [],
+    "Korner Cash::https://kornercash.ch/?s=30th+celebration&post_type=product": [],
+    "Jouets Davidson::https://www.jouetsdavidson.ch/?s=30th+celebration&post_type=product": [],
+    "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": []
   },
   "hb": {
-    "minuit": "2026-08-17",
-    "midi": "2026-08-16"
+    "minuit": "2026-08-19",
+    "midi": "2026-08-18"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -2300,7 +2382,21 @@
     "Cardmaniac",
     "La Taverne du Jeu",
     "PocketDex",
-    "TMS Bricks Shop"
+    "TMS Bricks Shop",
+    "ViviShop",
+    "Raystorm",
+    "Mix-Image",
+    "EduJeu",
+    "Tanigami",
+    "Mighty Games",
+    "Atelier Jeu",
+    "Maîtres des Arènes",
+    "La Guilde",
+    "Au Paradis du Jeu",
+    "Les 400 Coups",
+    "Korner Cash",
+    "Jouets Davidson",
+    "Interdiscount"
   ],
   "stock": {
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
@@ -2330,6 +2426,9 @@
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch": "out",
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch": "out",
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-nacht-deutsch": "out",
-    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch": "out"
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-kollektion-tag-deutsch": "out",
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543877/pokemon-etb-30th-anniversary-celebration-fr": "in",
+    "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543912/pokemon-etb-30th-anniversary-celebration-en": "in",
+    "Toytans::https://www.toytans.ch/de/pokemon-trainerboxen/2839-pokemon-me055-30th-celebration-elite-trainer-box-en-196214144828.html": "in"
   }
 }
