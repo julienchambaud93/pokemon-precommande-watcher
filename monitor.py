@@ -47,10 +47,17 @@ def _shop_domain(base):
 # Domaines des boutiques (pour repérer un mail venant d'une boutique) + mots-clés de précommande.
 SHOP_DOMAINS = sorted({_shop_domain(s["base"]) for s in SITES if s.get("base")})
 # Mots SPÉCIFIQUES à Pokémon uniquement (les mots génériques comme « commande » attrapaient Audible & co.).
-MAIL_KEYWORDS = ("pokémon", "pokemon", "delta reign", "delta rain", "30th celebration",
-                 "30th anniversary", "30e anniversaire", "30ème anniversaire", "30 ans pokémon",
-                 "elite trainer", "ultra premium", "coffret dresseur", "mega evolution", "méga-évolution",
-                 "méga évolution", "prismatic", "booster box")
+MAIL_KEYWORDS = ("pokémon", "pokemon", "delta reign", "delta rain",
+                 # 30 ans (FR/EN/DE)
+                 "30th celebration", "30th anniversary", "30e anniversaire", "30ème anniversaire",
+                 "30 jahre", "jubiläum", "jubilaeum",
+                 # produits (FR/EN/DE) : ETB = « Top-Trainer-Box » en allemand
+                 "elite trainer", "elite-trainer-box", "top-trainer-box", "top trainer box", "top-trainer box",
+                 "ultra premium", "ultra-premium-kollektion", "coffret dresseur",
+                 "mega evolution", "méga-évolution", "méga évolution", "mega-entwicklung",
+                 "prismatic", "booster box",
+                 # précommande / cartes (DE)
+                 "vorbestellung", "vorbestellen", "sammelkarten")
 MAIL_EXCLUDE = ("github.com", "ci_activity", "workflow run", "run failed", "jobs have failed",
                 "google play", "audible")
 
