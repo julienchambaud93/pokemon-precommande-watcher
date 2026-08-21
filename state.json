@@ -206,7 +206,7 @@
     },
     "Pokécado::11073232306518": {
       "title": "Pokémon 30th Celebration ex Box - Sylveon (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-box-sylveon-de",
       "cat": "set_other"
@@ -220,21 +220,21 @@
     },
     "Pokécado::11073075020118": {
       "title": "Pokémon 30th Celebration ex Tin - Greninja (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-tin-greninja-de",
       "cat": "set_other"
     },
     "Pokécado::11073006305622": {
       "title": "Pokémon 30th Celebration ex Tin - Sylveon (FR)",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-tin-sylveon-fr",
       "cat": "set_other"
     },
     "Pokécado::11072931889494": {
       "title": "Pokémon 30th Celebration ex Tin - Sylveon (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ex-tin-sylveon-de",
       "cat": "set_other"
@@ -409,14 +409,14 @@
     },
     "Pokécado::10939292549462": {
       "title": "Pokémon 30th Celebration 2-Pack Blister (FR)",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-2-pack-blister-fr",
       "cat": "set_other"
     },
     "Pokécado::10939290616150": {
       "title": "Pokémon 30th Celebration 2-Pack Blister (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-2-pack-blister-de",
       "cat": "set_other"
@@ -451,21 +451,21 @@
     },
     "Pokécado::10939231895894": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (FR)",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-fr",
       "cat": "set_other"
     },
     "Pokécado::10939229307222": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-de",
       "cat": "set_other"
     },
     "Pokécado::10939227799894": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-en",
       "cat": "set_other"
@@ -486,21 +486,21 @@
     },
     "Pokécado::10939201913174": {
       "title": "Pokémon 30th Celebration Poster Collection (FR)",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-poster-collection-fr",
       "cat": "set_other"
     },
     "Pokécado::10939200700758": {
       "title": "Pokémon 30th Celebration Poster Collection (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-poster-collection-de",
       "cat": "set_other"
     },
     "Pokécado::10939198800214": {
       "title": "Pokémon 30th Celebration Poster Collection (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-poster-collection-en",
       "cat": "set_other"
@@ -2489,7 +2489,10 @@
     "<f1abeb48a4dc4acf961d56612e32140a@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<798ab187910b47f2ad37da868b88fdd3@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<65d004e89ef24825af780b6674e2adec@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<08762e6a42784d7fa5eeed83fad5f4bb@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<08762e6a42784d7fa5eeed83fad5f4bb@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<e392703dfb144953b40dc3414f9bf449@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<644abf4a9d8b4f929453375070725d57@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<ee69898c70d3435abeff4c74814de459@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
