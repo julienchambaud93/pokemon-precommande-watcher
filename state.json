@@ -2299,14 +2299,14 @@
     },
     "Pokecard Store::15512026775927": {
       "title": "Preorder 30th Anniversary Poster Collection (FR)",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-poster-collection-fr",
       "cat": "set_other"
     },
     "Pokecard Store::15512024842615": {
       "title": "Preorder 30th Anniversary Poster Collection (DE)",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-poster-collection-de",
       "cat": "set_other"
