@@ -2271,7 +2271,7 @@
     },
     "Pokecard Store::15512035098999": {
       "title": "Preorder 30th Anniversary Elite Trainer Box (IT)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-elite-trainer-box-it",
       "cat": "target_etb"
@@ -2362,7 +2362,7 @@
     },
     "Pokecard Store::15511100359031": {
       "title": "Preorder 30th Anniversary Binder Collection (DE)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-binder-collection-en-kopie",
       "cat": "set_other"
@@ -2383,7 +2383,7 @@
     },
     "Pokecard Store::15511081681271": {
       "title": "Preorder 30th Anniversary Tech Sticker Collection Bundle (DE)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-tech-sticker-collection-bundle-en-kopie",
       "cat": "set_other"
