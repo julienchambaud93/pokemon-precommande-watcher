@@ -2568,7 +2568,12 @@
     "Maîtres des Arènes::https://www.maitresdesarenes.com": [],
     "Softridge::https://www.softridge.ch": [],
     "The Mana Shop::https://themanashop.ch": [],
-    "World of Games::https://www.wog.ch": []
+    "World of Games::https://www.wog.ch": [],
+    "Pikaversum::https://pikaversum.ch": [
+      "30th celebration elite trainer"
+    ],
+    "Pokemania::https://www.pokemania.ch": [],
+    "Collectors Deal::https://collectorsdeal.ch": []
   },
   "hb": {
     "minuit": "2026-08-25",
