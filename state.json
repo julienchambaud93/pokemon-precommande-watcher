@@ -2550,10 +2550,14 @@
       "30th celebration elite trainer box en\", \"type\":\"elite trainer",
       "30th celebration englisch mega ultra premium",
       "30th celebration franzosisch mega ultra premium",
+      "30th celebration top trainer",
+      "30th celebration top trainer box de pokemon elite trainer",
+      "30th celebration top trainer box de\", \"type\":\"elite trainer",
       "30th celebration ultra premium",
       "30th celebration\",\"deutsch\",\"mega\",\"ultra premium",
       "30th celebration\",\"englisch\",\"mega\",\"ultra premium",
       "30th celebration\",\"franzosisch\",\"mega\",\"ultra premium",
+      "elite trainer box\", \"handle\":\"pokemon mega series 30th",
       "elite trainer box\",\"handle\":\"pokemon mega series 30th"
     ],
     "SkySpell::https://skyspell.ch/search?q=30th%20celebration": [],
@@ -2625,7 +2629,17 @@
     ],
     "Pokemania::https://www.pokemania.ch": [],
     "Collectors Deal::https://collectorsdeal.ch": [],
-    "The Uncommon Shop::https://theuncommonshop.ch": []
+    "The Uncommon Shop::https://theuncommonshop.ch": [],
+    "MaRo Shop::https://www.maro-shop.ch": [],
+    "Detsuki::https://detsuki.ch": [],
+    "Pokereaves::https://www.pokereaves.ch": [
+      "30th anniversary elite trainer box (etb",
+      "30th anniversary elite trainer box etb",
+      "delta reign black me06 elite trainer box (etb",
+      "delta reign black me06 elite trainer box etb",
+      "delta reign,elite trainer"
+    ],
+    "PocketDex::https://pocketdex.ch": []
   },
   "hb": {
     "minuit": "2026-08-26",
@@ -2726,7 +2740,10 @@
     "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543877/pokemon-etb-30th-anniversary-celebration-fr": "in",
     "Maîtres des Arènes::https://www.maitresdesarenes.com/product/23543912/pokemon-etb-30th-anniversary-celebration-en": "in",
     "Toytans::https://www.toytans.ch/de/pokemon-trainerboxen/2839-pokemon-me055-30th-celebration-elite-trainer-box-en-196214144828.html": "in",
-    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-elite-trainer-box/": "out"
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-elite-trainer-box/": "out",
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch": "out",
+    "Pokereaves::https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-reign-black-me06-elite-trainer-box-etb-english": "out",
+    "Pokereaves::https://www.pokereaves.ch/products/pre-order-pokemon-mega-30th-anniversary-elite-trainer-box-etb-english": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
