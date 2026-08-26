@@ -2577,7 +2577,12 @@
     ],
     "TMS Bricks Shop::https://tmsbricksshop.ch/search?q=30th%20celebration": [],
     "PocketDex::https://pocketdex.ch/search?q=30th%20celebration": [],
-    "Pokereaves::https://www.pokereaves.ch/search?q=30th%20celebration": [],
+    "Pokereaves::https://www.pokereaves.ch/search?q=30th%20celebration": [
+      "30th anniversary elite trainer box (etb",
+      "30th anniversary elite trainer box etb",
+      "30th anniversary — elite trainer",
+      "elite trainer box\",\"handle\":\"pre order pokemon mega 30th"
+    ],
     "Pikaversum::https://pikaversum.ch/search?q=30th%20celebration": [
       "30th celebration elite trainer"
     ],
@@ -2640,7 +2645,8 @@
       "delta reign,elite trainer"
     ],
     "PocketDex::https://pocketdex.ch": [],
-    "Naxoria::https://naxoria.ch": []
+    "Naxoria::https://naxoria.ch": [],
+    "SkySpell::https://skyspell.ch": []
   },
   "hb": {
     "minuit": "2026-08-26",
