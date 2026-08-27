@@ -2506,6 +2506,13 @@
       "lang": "FR",
       "url": "https://tamoricards.ch/products/30th-etb-fr",
       "cat": "target_etb"
+    },
+    "Pikaversum::15854640562550": {
+      "title": "Pokémon TCG: 30th Celebration & Mega Forces Tin Bundle – 5 Tins (FR)",
+      "available": true,
+      "lang": "FR",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mega-forces-tin-bundle-5-tins-fr",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -2783,7 +2790,9 @@
     "<cae36456a699499eaaf8e74b0c98f919@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<e7aae78e0eff4f1a93ca45e58704b94d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<d0725936d7d04347bd6335fa28de23c4@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<e10196f9e4c24a61a8710497107ba078@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<e10196f9e4c24a61a8710497107ba078@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<23c0426f52f344688be984d588fbabff@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<4e5be30ebad648f2a4ede69f5f11e433@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
