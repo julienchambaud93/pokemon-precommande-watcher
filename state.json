@@ -661,7 +661,7 @@
     },
     "Outpost Brussels::15904440385870": {
       "title": "Pokémon · 30th Celebration - Greninja ex Box - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-greninja-ex-box-en-s",
       "cat": "set_other"
@@ -675,7 +675,7 @@
     },
     "Outpost Brussels::15904441073998": {
       "title": "Pokémon · 30th Celebration - Booster Bundle - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-booster-bundle-en-s",
       "cat": "set_other"
@@ -843,7 +843,7 @@
     },
     "Outpost Brussels::15904439140686": {
       "title": "Pokémon · 30th Celebration - 2-Pack Blister Eevee - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-2-pack-blister-eevee-en-s",
       "cat": "set_other"
@@ -871,7 +871,7 @@
     },
     "Outpost Brussels::15904440058190": {
       "title": "Pokémon · 30th Celebration - Sylveon ex Box - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-sylveon-ex-box-en-s",
       "cat": "set_other"
@@ -885,7 +885,7 @@
     },
     "Outpost Brussels::15904439566670": {
       "title": "Pokémon · 30th Celebration - Poster Collection - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-poster-collection-en-s",
       "cat": "set_other"
@@ -2513,6 +2513,13 @@
       "lang": "FR",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mega-forces-tin-bundle-5-tins-fr",
       "cat": "set_other"
+    },
+    "LaschoCards::11543920116053": {
+      "title": "Pokémon TCG - 30th Celebration Booster Bundle",
+      "available": false,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -2792,7 +2799,9 @@
     "<d0725936d7d04347bd6335fa28de23c4@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<e10196f9e4c24a61a8710497107ba078@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<23c0426f52f344688be984d588fbabff@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<4e5be30ebad648f2a4ede69f5f11e433@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<4e5be30ebad648f2a4ede69f5f11e433@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<30cc129f46f240bcb3c194224939d77d@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<6fe9aacad4de4f8f992625ce6decbd79@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
