@@ -661,7 +661,7 @@
     },
     "Outpost Brussels::15904440385870": {
       "title": "Pokémon · 30th Celebration - Greninja ex Box - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-greninja-ex-box-en-s",
       "cat": "set_other"
@@ -843,7 +843,7 @@
     },
     "Outpost Brussels::15904439140686": {
       "title": "Pokémon · 30th Celebration - 2-Pack Blister Eevee - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-2-pack-blister-eevee-en-s",
       "cat": "set_other"
@@ -2520,6 +2520,20 @@
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
+    },
+    "Collecting Cloud::16473377341789": {
+      "title": "Pokémon - Mega Evolution - 30th Celebration Premium Deck Set Espeon & Umbreon (JPN)",
+      "available": false,
+      "lang": "?",
+      "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-premium-deck-set-espeon-umbreon-jpn",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16372781121885": {
+      "title": "Pokémon - Mega Evolution - 30th Celebration Booster Box (JPN)",
+      "available": false,
+      "lang": "?",
+      "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-booster-box-jpn",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -2679,7 +2693,7 @@
     "Korner Cash::https://kornercash.ch": []
   },
   "hb": {
-    "minuit": "2026-08-26",
+    "minuit": "2026-08-29",
     "midi": "2026-08-26"
   },
   "seeded_sites": [
@@ -2802,7 +2816,8 @@
     "<23c0426f52f344688be984d588fbabff@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<4e5be30ebad648f2a4ede69f5f11e433@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<30cc129f46f240bcb3c194224939d77d@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<6fe9aacad4de4f8f992625ce6decbd79@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<6fe9aacad4de4f8f992625ce6decbd79@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<a0546f44b583480f81356d3a05cd8237@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
