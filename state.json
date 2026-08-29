@@ -150,7 +150,7 @@
     },
     "LaschoCards::11348401979733": {
       "title": "Pokémon TCG - Espeon ex and Umbreon ex 30th Celebration Premium Deck Set",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-espeon-ex-and-umbreon-ex-30th-celebration-premium-deck-set",
       "cat": "set_other"
@@ -2516,7 +2516,7 @@
     },
     "LaschoCards::11543920116053": {
       "title": "Pokémon TCG - 30th Celebration Booster Bundle",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
@@ -2661,7 +2661,9 @@
     ],
     "Au Paradis du Jeu::https://auparadisdujeu.ch": [],
     "Les 400 Coups::https://www.400coups.ch": [],
-    "TCG Treasure::https://tcg-treasure.com": [],
+    "TCG Treasure::https://tcg-treasure.com": [
+      "30th celebration elite trainer"
+    ],
     "Manor::https://www.manor.ch": [],
     "Zadoys::https://zadoys.ch": [
       "30th celebration elite trainer",
@@ -2694,7 +2696,7 @@
   },
   "hb": {
     "minuit": "2026-08-29",
-    "midi": "2026-08-26"
+    "midi": "2026-08-29"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -2817,7 +2819,8 @@
     "<4e5be30ebad648f2a4ede69f5f11e433@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<30cc129f46f240bcb3c194224939d77d@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<6fe9aacad4de4f8f992625ce6decbd79@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<a0546f44b583480f81356d3a05cd8237@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<a0546f44b583480f81356d3a05cd8237@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<84455fcc1700440fa2dfcaf9d0e65e4e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
