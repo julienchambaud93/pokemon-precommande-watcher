@@ -829,7 +829,7 @@
     },
     "Outpost Brussels::15904437567822": {
       "title": "Pokémon · 30th Celebration - Elite Trainer Box - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-elite-trainer-box-en-s",
       "cat": "target_etb"
@@ -2509,7 +2509,7 @@
     },
     "Pikaversum::15854640562550": {
       "title": "Pokémon TCG: 30th Celebration & Mega Forces Tin Bundle – 5 Tins (FR)",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mega-forces-tin-bundle-5-tins-fr",
       "cat": "set_other"
