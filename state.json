@@ -1235,7 +1235,7 @@
     },
     "Zadoys::15775145132415": {
       "title": "30th Celebration Elite Trainer Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch",
       "cat": "target_etb"
@@ -2152,7 +2152,7 @@
     },
     "Pokereaves::10612852293979": {
       "title": "Pre-order Pokémon ME06 Delta Reign Booster Display - ENGLISH",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-me06-delta-reign-booster-display-english",
       "cat": "set_other"
@@ -2523,14 +2523,14 @@
     },
     "Collecting Cloud::16473377341789": {
       "title": "Pokémon - Mega Evolution - 30th Celebration Premium Deck Set Espeon & Umbreon (JPN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-premium-deck-set-espeon-umbreon-jpn",
       "cat": "set_other"
     },
     "Collecting Cloud::16372781121885": {
       "title": "Pokémon - Mega Evolution - 30th Celebration Booster Box (JPN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-booster-box-jpn",
       "cat": "set_other"
@@ -2590,6 +2590,111 @@
       "lang": "EN",
       "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-destined-rivals-elite-trainer-box-bundle-en-02-10-2026",
       "cat": "target_etb"
+    },
+    "Collectors Deal::15600864919876": {
+      "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Tin DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-tin-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600864624964": {
+      "title": "Pokémon 30th Celebration ME5.5 Greninja EX Tin FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-tin-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600864428356": {
+      "title": "Pokémon 30th Celebration ME5.5 Greninja EX Tin DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-tin-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600863904068": {
+      "title": "Pokémon 30th Celebration ME5.5 Binder Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-binder-collection-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600863641924": {
+      "title": "Pokémon 30th Celebration ME5.5 Binder Collection DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-binder-collection-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600859676996": {
+      "title": "Pokémon 30th Celebration ME5.5 Lucario Tech Sticker Collection FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-lucario-tech-sticker-collection-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600859545924": {
+      "title": "Pokémon 30th Celebration ME5.5 Lucario Tech Sticker Collection DE",
+      "available": true,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-lucario-tech-sticker-collection-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600859218244": {
+      "title": "Pokémon 30th Celebration ME5.5 Exeggutor Tech Sticker Collection FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-exeggutor-tech-sticker-collection-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600858923332": {
+      "title": "Pokémon 30th Celebration ME5.5 Exeggutor Tech Sticker Collection DE",
+      "available": true,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-exeggutor-tech-sticker-collection-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600776839492": {
+      "title": "Pokémon 30th Celebration ME5.5 Sylveon EX Tin EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-sylveon-ex-tin-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600775725380": {
+      "title": "Pokémon 30th Celebration ME5.5 Greninja EX Tin EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-greninja-ex-tin-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600754032964": {
+      "title": "Pokémon 30th Celebration ME5.5 Binder Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-binder-collection-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600584556868": {
+      "title": "Pokémon 30th Celebration ME5.5 Lucario Tech Sticker Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-lucario-tech-sticker-collection-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15600582885700": {
+      "title": "Pokémon 30th Celebration ME5.5 Exeggutor Tech Sticker Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-exeggutor-tech-sticker-collection-en",
+      "cat": "set_other"
+    },
+    "Raystorm::11559952220501": {
+      "title": "Coffret Starter 30ans Vol. 3 [CN]",
+      "available": true,
+      "lang": "?",
+      "url": "https://raystorm.ch/products/coffret-starter-30ans-vol-3-cn",
+      "cat": "set_other"
     }
   },
   "html": {
