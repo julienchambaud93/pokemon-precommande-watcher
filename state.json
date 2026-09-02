@@ -2635,7 +2635,7 @@
     },
     "Collectors Deal::15600859545924": {
       "title": "Pokémon 30th Celebration ME5.5 Lucario Tech Sticker Collection DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-lucario-tech-sticker-collection-de",
       "cat": "set_other"
@@ -2649,7 +2649,7 @@
     },
     "Collectors Deal::15600858923332": {
       "title": "Pokémon 30th Celebration ME5.5 Exeggutor Tech Sticker Collection DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-exeggutor-tech-sticker-collection-de",
       "cat": "set_other"
@@ -2694,6 +2694,13 @@
       "available": true,
       "lang": "?",
       "url": "https://raystorm.ch/products/coffret-starter-30ans-vol-3-cn",
+      "cat": "set_other"
+    },
+    "PokeFaust::15550229250423": {
+      "title": "Pokémon TCG 30th Celebration Booster",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-booster",
       "cat": "set_other"
     }
   },
