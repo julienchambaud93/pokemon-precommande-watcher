@@ -2579,7 +2579,7 @@
     },
     "Poke Swiss::16174970896771": {
       "title": "[Précommande] Pokémon 30th Celebration Booster Bundle FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-booster-bundle-fr-en",
       "cat": "target_etb"
@@ -2759,6 +2759,7 @@
       "30th celebration &#8211; ultra premium",
       "30th celebration (me5.5) &#8211; elite trainer",
       "30th celebration (me5.5) elite trainer",
+      "30th celebration etb",
       "30th celebration me5 5 elite trainer",
       "30th celebration ultra premium"
     ],
@@ -3001,7 +3002,8 @@
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch": "out",
     "Pokereaves::https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-reign-black-me06-elite-trainer-box-etb-english": "out",
     "Pokereaves::https://www.pokereaves.ch/products/pre-order-pokemon-mega-30th-anniversary-elite-trainer-box-etb-english": "out",
-    "TCG Treasure::https://tcg-treasure.com/product/pokemon-30th-celebration-elite-trainer-box/": "out"
+    "TCG Treasure::https://tcg-treasure.com/product/pokemon-30th-celebration-elite-trainer-box/": "out",
+    "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-storm-emeralda-display-m6-30th-celebration-etb-me5-5-the-uncommon-shop-exclusive-bundle/": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
