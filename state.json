@@ -2558,7 +2558,7 @@
     },
     "TMS Bricks Shop::16066824110462": {
       "title": "Pokémon: Litten – 30th Anniversary Celebration Simplified Chinese (30th-P 020) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-litten-30th-anniversary-celebration-simplified-chinese-30th-p-020-gd",
       "cat": "set_other"
@@ -2737,6 +2737,76 @@
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-espeon-deluxe-deck-simplified-chinese",
       "cat": "set_other"
+    },
+    "Cardmaniac::8686144749743": {
+      "title": "Pokémon TCG – 2-Pack Blister 30 Jahre",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-2-pack-blister-30-jahre",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8686144520367": {
+      "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Alola-Kokowei",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-alola-kokowei",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8686140424367": {
+      "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Lucario",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-lucario",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8686136623279": {
+      "title": "Pokémon TCG – Poster-Kollektion 30 Jahre",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-poster-kollektion-30-jahre",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8686130004143": {
+      "title": "Pokémon TCG – Tin-Box 30 Jahre: Feelinara‑ex",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-feelinara-ex",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8686126760111": {
+      "title": "Pokémon TCG – Tin-Box 30 Jahre: Quajutsu‑ex",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-quajutsu-ex",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8685495910575": {
+      "title": "Pokémon TCG - Kollektion 30 Jahre: Quajutsu‑ex",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-kollektion-30-jahre-quajutsu-ex",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8685471727791": {
+      "title": "Pokémon TCG - Kollektion 30 Jahre: Feelinara‑ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-kollektion-30-jahre-feelinara-ex",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8685453639855": {
+      "title": "Pokémon TCG - Ordner-Kollektion 30 Jahre",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-ordner-kollektion-30-jahre",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8685435289775": {
+      "title": "Pokémon TCG – Top-Trainer-Box 30 Jahre",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-30-jahre",
+      "cat": "target_etb"
     }
   },
   "html": {
