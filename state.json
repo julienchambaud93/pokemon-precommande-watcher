@@ -2789,7 +2789,7 @@
     },
     "Cardmaniac::8685471727791": {
       "title": "Pokémon TCG - Kollektion 30 Jahre: Feelinara‑ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-kollektion-30-jahre-feelinara-ex",
       "cat": "set_other"
@@ -2803,7 +2803,7 @@
     },
     "Cardmaniac::8685435289775": {
       "title": "Pokémon TCG – Top-Trainer-Box 30 Jahre",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-30-jahre",
       "cat": "target_etb"
