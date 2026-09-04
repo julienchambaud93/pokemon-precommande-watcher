@@ -276,7 +276,7 @@
     },
     "Pokécado::11069926637910": {
       "title": "Pokémon 30th Celebration Battle Deck – Espeon ex (FR)",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-battle-deck-espeon-ex-fr",
       "cat": "set_other"
@@ -2152,7 +2152,7 @@
     },
     "Pokereaves::10612852293979": {
       "title": "Pre-order Pokémon ME06 Delta Reign Booster Display - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-me06-delta-reign-booster-display-english",
       "cat": "set_other"
