@@ -1550,7 +1550,7 @@
     },
     "Poke Swiss::16175287861635": {
       "title": "[Précommande] Pokémon 30th Celebration Tech Sticker Collection FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tech-sticker-collection-fr-en",
       "cat": "target_etb"
@@ -2495,7 +2495,7 @@
     },
     "Poke Swiss::16175351497091": {
       "title": "[Précommande] Pokémon 30th Celebration Binder Collection FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-binder-collection-fr-en",
       "cat": "set_other"
@@ -2807,6 +2807,34 @@
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-30-jahre",
       "cat": "target_etb"
+    },
+    "Outpost Brussels::16016232022350": {
+      "title": "Pokémon - ME6 - Delta Reign Booster Display (36) - EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://outpostbrussels.be/products/pokemon-me6-delta-reign-booster-display-36-en",
+      "cat": "set_other"
+    },
+    "Outpost Brussels::16016232087886": {
+      "title": "Pokémon - ME6 - Delta Reign Elite Trainer Box - EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://outpostbrussels.be/products/pokemon-me6-delta-reign-elite-trainer-box-en",
+      "cat": "target_etb"
+    },
+    "Outpost Brussels::16016232218958": {
+      "title": "Pokémon - ME6 - Delta Reign 3-Pack Blister - EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://outpostbrussels.be/products/pokemon-me6-delta-reign-3-pack-blister-en",
+      "cat": "set_other"
+    },
+    "Outpost Brussels::16016232153422": {
+      "title": "Pokémon - ME6 - Delta Reign Booster Bundle (6) - EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://outpostbrussels.be/products/pokemon-me6-delta-reign-booster-bundle-6-en",
+      "cat": "set_other"
     }
   },
   "html": {
