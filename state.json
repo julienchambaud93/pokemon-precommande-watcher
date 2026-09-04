@@ -668,7 +668,7 @@
     },
     "Outpost Brussels::15904440222030": {
       "title": "Pokémon · 30e Anniversaire - Coffret Amphinobi-ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-amphinobi-ex-fr-s",
       "cat": "set_other"
@@ -822,7 +822,7 @@
     },
     "Outpost Brussels::15904437829966": {
       "title": "Pokémon · 30e Anniversaire - Pack Autocollant Réajustable Lucario - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-autocollant-reajustable-lucario-fr-s",
       "cat": "set_other"
@@ -836,7 +836,7 @@
     },
     "Outpost Brussels::15904437305678": {
       "title": "Pokémon · 30e Anniversaire - Coffret Dresseur d'Élite - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-dresseur-delite-fr-s",
       "cat": "target_etb"
@@ -850,7 +850,7 @@
     },
     "Outpost Brussels::15904438911310": {
       "title": "Pokémon · 30e Anniversaire - Pack 2 Boosters Évoli - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-2-boosters-evoli-fr-s",
       "cat": "set_other"
@@ -864,7 +864,7 @@
     },
     "Outpost Brussels::15904438419790": {
       "title": "Pokémon · 30e Anniversaire - Pack Autocollant Réajustable Noadkoko d'Alola - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-autocollant-reajustable-noadkoko-dalola-fr-s",
       "cat": "set_other"
@@ -878,7 +878,7 @@
     },
     "Outpost Brussels::15904439796046": {
       "title": "Pokémon · 30e Anniversaire - Coffret Nymphali-ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-nymphali-ex-fr-s",
       "cat": "set_other"
@@ -892,7 +892,7 @@
     },
     "Outpost Brussels::15904439370062": {
       "title": "Pokémon · 30e Anniversaire - Coffret Poster - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-poster-fr-s",
       "cat": "set_other"
@@ -1466,14 +1466,14 @@
     },
     "Outpost Brussels::15979924947278": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Amphinobi-ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-amphinobi-ex-fr",
       "cat": "set_other"
     },
     "Outpost Brussels::15979924914510": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Nymphali-ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-nymphali-ex-fr",
       "cat": "set_other"
