@@ -2845,7 +2845,7 @@
     },
     "Zaibatsu::11226849935702": {
       "title": "Pokémon | 30th Celebration - 10x Booster Bundle Boxen | 02.10.26",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-10x-booster-bundle-boxen-02-10-26",
       "cat": "set_other"
@@ -3018,7 +3018,7 @@
     "Jouets Davidson::https://www.jouetsdavidson.ch": []
   },
   "hb": {
-    "minuit": "2026-09-04",
+    "minuit": "2026-09-05",
     "midi": "2026-08-29"
   },
   "seeded_sites": [
