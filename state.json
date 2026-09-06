@@ -2912,6 +2912,20 @@
       "lang": "EN",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-elite-trainer-box-en",
       "cat": "target_etb"
+    },
+    "Pikaversum::15867151614326": {
+      "title": "Pokémon TCG: 30th Celebration Mini Tin Display (10 Mini Tins)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mini-tin-display-10-mini-tins",
+      "cat": "set_other"
+    },
+    "Pikaversum::15867144110454": {
+      "title": "Pokémon TCG: 30th Celebration Booster Bundle",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
+      "cat": "set_other"
     }
   },
   "html": {
