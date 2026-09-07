@@ -430,7 +430,7 @@
     },
     "Pokécado::10939285635414": {
       "title": "Pokémon 30th Celebration Mini Tin (FR)",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-mini-tin-fr",
       "cat": "set_other"
@@ -2932,6 +2932,27 @@
       "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-celebration-30c-box-simplified-chinese",
+      "cat": "set_other"
+    },
+    "PikaStore::15863718707574": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Display de 10 Mini Tin - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-display-de-10-mini-tin-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15863714447734": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Bundle de 6 boosters - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-bundle-de-6-boosters-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15863713923446": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Bundle de 6 boosters - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-bundle-de-6-boosters-me05-5-30e-anniversaire",
       "cat": "set_other"
     }
   },
