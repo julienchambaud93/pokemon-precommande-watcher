@@ -2236,7 +2236,7 @@
     },
     "Pokereaves::10656734380379": {
       "title": "Pre-order 1x Pokémon 30th Celebration ex Box - ENGLISH",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-ex-box-english",
       "cat": "set_other"
@@ -3125,7 +3125,7 @@
     "Atelier Jeu::https://www.atelier-jeu.ch": []
   },
   "hb": {
-    "minuit": "2026-09-07",
+    "minuit": "2026-09-08",
     "midi": "2026-09-07"
   },
   "seeded_sites": [
