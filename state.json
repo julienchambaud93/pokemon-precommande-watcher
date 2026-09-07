@@ -2481,7 +2481,7 @@
     },
     "SkySpell::15737412845945": {
       "title": "Pokémon 30th Anniversary Coin set | Simplified Chinese",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-coin-set-simplified-chinese",
       "cat": "set_other"
@@ -2712,7 +2712,7 @@
     },
     "SkySpell::15759249408377": {
       "title": "Pokémon 30th Anniversary Celebration Collector's Box | Simplified Chinese",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-celebration-collectors-box-simplified-chinese",
       "cat": "set_other"
@@ -2925,6 +2925,13 @@
       "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
+      "cat": "set_other"
+    },
+    "SkySpell::15767355163001": {
+      "title": "Pokémon 30th Celebration 30C Box | Simplified Chinese",
+      "available": true,
+      "lang": "?",
+      "url": "https://skyspell.ch/products/pokemon-30th-celebration-30c-box-simplified-chinese",
       "cat": "set_other"
     }
   },
