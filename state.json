@@ -2915,7 +2915,7 @@
     },
     "Pikaversum::15867151614326": {
       "title": "Pokémon TCG: 30th Celebration Mini Tin Display (10 Mini Tins)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mini-tin-display-10-mini-tins",
       "cat": "set_other"
@@ -2953,6 +2953,20 @@
       "available": false,
       "lang": "FR",
       "url": "https://www.pikastore.ch/products/preco-pokemon-fr-bundle-de-6-boosters-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "Pikaversum::15872366084470": {
+      "title": "Pokémon TCG: 30th Celebration Espeon ex & Umbreon ex Gift Box – Simplified Chinese (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-espeon-ex-umbreon-ex-gift-box-simplified-chinese-cn",
+      "cat": "set_other"
+    },
+    "Pikaversum::15872353730934": {
+      "title": "Pokémon TCG: 30th Celebration Booster Box – Simplified Chinese (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-simplified-chinese",
       "cat": "set_other"
     }
   },
