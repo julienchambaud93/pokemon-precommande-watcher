@@ -2243,7 +2243,7 @@
     },
     "Pokereaves::10656768590171": {
       "title": "Pre-order 1x Pokémon 30th Celebration Sylveon ex Box - ENGLISH",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-sylveon-ex-box-english",
       "cat": "set_other"
@@ -2572,7 +2572,7 @@
     },
     "Poke Swiss::16175004582275": {
       "title": "[Précommande] 30th Celebration Mini Tins FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-30th-celebration-mini-tins-fr-en",
       "cat": "target_etb"
@@ -2915,7 +2915,7 @@
     },
     "Pikaversum::15867151614326": {
       "title": "Pokémon TCG: 30th Celebration Mini Tin Display (10 Mini Tins)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mini-tin-display-10-mini-tins",
       "cat": "set_other"
