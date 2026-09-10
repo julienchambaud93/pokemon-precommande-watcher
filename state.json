@@ -2264,7 +2264,7 @@
     },
     "Pokereaves::10662178619739": {
       "title": "Pre-order 1x Pokémon – 30th Celebration: Collection Poster - English",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-collection-poster-english",
       "cat": "set_other"
@@ -2981,6 +2981,13 @@
       "available": false,
       "lang": "EN",
       "url": "https://www.pikastore.ch/products/preco-pokemon-en-display-de-10-mini-tin-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16081220927870": {
+      "title": "Pokémon: Chimchar – 30th Anniversary Celebration Simplified Chinese (30th-P 011) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-chimchar-30th-anniversary-celebration-simplified-chinese-30th-p-011-ch-nm",
       "cat": "set_other"
     }
   },
