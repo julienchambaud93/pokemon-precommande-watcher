@@ -3139,7 +3139,17 @@
     ],
     "Pokemania::https://www.pokemania.ch": [],
     "Collectors Deal::https://collectorsdeal.ch": [],
-    "The Uncommon Shop::https://theuncommonshop.ch": [],
+    "The Uncommon Shop::https://theuncommonshop.ch": [
+      "30th celebration &#8211; ultra premium",
+      "30th celebration (me5.5) &#8211; elite trainer",
+      "30th celebration etb",
+      "30th celebration me5 5 elite trainer",
+      "30th celebration ultra premium",
+      "delta reign (me06) &#8211; elite trainer",
+      "delta reign etb",
+      "delta reign me06 elite trainer",
+      "top trainer boxen,produkte nach sets,vorbestellbar,me06 delta reign"
+    ],
     "MaRo Shop::https://www.maro-shop.ch": [],
     "Detsuki::https://detsuki.ch": [],
     "Pokereaves::https://www.pokereaves.ch": [
@@ -3265,7 +3275,8 @@
     "TCG Treasure::https://tcg-treasure.com/product/pokemon-30th-celebration-elite-trainer-box/": "out",
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-storm-emeralda-display-m6-30th-celebration-etb-me5-5-the-uncommon-shop-exclusive-bundle/": "out",
     "Cardmaniac::https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-30-jahre": "out",
-    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-de": "out"
+    "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-de": "out",
+    "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-delta-reign-me06-elite-trainer-box/": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
