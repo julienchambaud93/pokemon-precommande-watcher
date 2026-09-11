@@ -1550,7 +1550,7 @@
     },
     "Poke Swiss::16175287861635": {
       "title": "[Précommande] Pokémon 30th Celebration Tech Sticker Collection FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-tech-sticker-collection-fr-en",
       "cat": "target_etb"
@@ -2572,14 +2572,14 @@
     },
     "Poke Swiss::16175004582275": {
       "title": "[Précommande] 30th Celebration Mini Tins FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-30th-celebration-mini-tins-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16174970896771": {
       "title": "[Précommande] Pokémon 30th Celebration Booster Bundle FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-booster-bundle-fr-en",
       "cat": "target_etb"
