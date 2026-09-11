@@ -661,7 +661,7 @@
     },
     "Outpost Brussels::15904440385870": {
       "title": "Pokémon · 30th Celebration - Greninja ex Box - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-greninja-ex-box-en-s",
       "cat": "set_other"
@@ -675,21 +675,21 @@
     },
     "Outpost Brussels::15904441073998": {
       "title": "Pokémon · 30th Celebration - Booster Bundle - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-booster-bundle-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904440910158": {
       "title": "Pokémon · 30e Anniversaire - Bundle 6 Boosters - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-bundle-6-boosters-fr-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904440779086": {
       "title": "Pokémon · 30th Celebration - Binder Collection - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-binder-collection-en-s",
       "cat": "set_other"
@@ -815,7 +815,7 @@
     },
     "Outpost Brussels::15904438092110": {
       "title": "Pokémon · 30th Celebration - Tech Sticker Collection Lucario - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-tech-sticker-collection-lucario-en-s",
       "cat": "set_other"
@@ -829,7 +829,7 @@
     },
     "Outpost Brussels::15904437567822": {
       "title": "Pokémon · 30th Celebration - Elite Trainer Box - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-elite-trainer-box-en-s",
       "cat": "target_etb"
@@ -843,21 +843,21 @@
     },
     "Outpost Brussels::15904439140686": {
       "title": "Pokémon · 30th Celebration - 2-Pack Blister Eevee - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-2-pack-blister-eevee-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904438911310": {
       "title": "Pokémon · 30e Anniversaire - Pack 2 Boosters Évoli - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-2-boosters-evoli-fr-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904438681934": {
       "title": "Pokémon · 30th Celebration - Tech Sticker Collection Alolan Exeggutor - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-tech-sticker-collection-alolan-exeggutor-en-s",
       "cat": "set_other"
@@ -871,7 +871,7 @@
     },
     "Outpost Brussels::15904440058190": {
       "title": "Pokémon · 30th Celebration - Sylveon ex Box - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-sylveon-ex-box-en-s",
       "cat": "set_other"
@@ -1452,28 +1452,28 @@
     },
     "Outpost Brussels::15979925012814": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Greninja ex - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-greninja-ex-en",
       "cat": "set_other"
     },
     "Outpost Brussels::15979924980046": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Sylveon ex - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-sylveon-ex-en",
       "cat": "set_other"
     },
     "Outpost Brussels::15979924947278": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Amphinobi-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-amphinobi-ex-fr",
       "cat": "set_other"
     },
     "Outpost Brussels::15979924914510": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Nymphali-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-nymphali-ex-fr",
       "cat": "set_other"
