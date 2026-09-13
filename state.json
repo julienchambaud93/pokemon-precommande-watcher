@@ -2159,7 +2159,7 @@
     },
     "Pokereaves::10612849082715": {
       "title": "Pre-order Pokemon Mega Evolution Delta Reign Black ME06 Elite Trainer Box (ETB) - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-reign-black-me06-elite-trainer-box-etb-english",
       "cat": "target_etb"
@@ -3062,7 +3062,7 @@
     },
     "Collectors Deal::15600864133444": {
       "title": "Pokémon 30th Celebration ME5.5 Booster Bundle DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-booster-bundle-de",
       "cat": "set_other"
@@ -3134,6 +3134,7 @@
       "30th celebration ultra premium"
     ],
     "Amazing Toys::https://amazingtoys.ch/Pre-Order/?immediately-available=1": [
+      "30th celebration elite trainer",
       "delta reign elite trainer"
     ],
     "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
