@@ -3094,6 +3094,27 @@
       "lang": "EN",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-day-night-mini-tin-en",
       "cat": "set_other"
+    },
+    "Cardmaniac::8697628655791": {
+      "title": "Pokémon TCG – 30th Celebration Futuristic Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-futuristic-box",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8697601425583": {
+      "title": "Pokémon TCG – Espeon ex & Umbreon ex 30th Celebration Premium Deck Set",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set",
+      "cat": "set_other"
+    },
+    "Cardmaniac::8697568133295": {
+      "title": "Pokémon TCG – 30th Celebration Booster Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-box",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -3412,7 +3433,8 @@
     "<7f9cd111b19a4e10af2887d27602c2f4@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<2fa9adbcb7804adda5e9b167a8875b65@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<61a259c301994289be1bbb83ba19a7f9@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<325f0775c2fc4988ae2b4d57cac93d35@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<325f0775c2fc4988ae2b4d57cac93d35@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<bc1744c2ef9e4859a93121622832fac6@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
