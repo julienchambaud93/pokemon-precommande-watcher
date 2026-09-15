@@ -3104,7 +3104,7 @@
     },
     "Cardmaniac::8697601425583": {
       "title": "Pokémon TCG – Espeon ex & Umbreon ex 30th Celebration Premium Deck Set",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set",
       "cat": "set_other"
@@ -3114,6 +3114,48 @@
       "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-box",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15054777549176": {
+      "title": "Pokémon - 30th Celebration - EX Amphinobi - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-amphinobi-fr",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15054770307448": {
+      "title": "Pokémon - 30th Celebration - EX Nymphali - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-box-fr-1-stk-zufallige-auswahl-kopie",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15054768734584": {
+      "title": "Pokémon - 30th Celebration - Elite Trainer Box ETB FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-fr",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15054765752696": {
+      "title": "Pokémon - 30th Celebration - EX Tin Box FR (1 Stk. zufällige Auswahl)",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-fr-1-stk-zufallige-auswahl",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15054764310904": {
+      "title": "Pokémon - 30th Celebration - Poster Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-poster-collection-fr",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15054763131256": {
+      "title": "Pokémon - 30th Celebration - 2-Pack Blister FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-2-pack-blister-fr",
       "cat": "set_other"
     }
   },
