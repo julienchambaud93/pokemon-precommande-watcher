@@ -1200,7 +1200,7 @@
     },
     "Zadoys::15777811005823": {
       "title": "30th Celebration 2-Pack Blister FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-2-pack-blister-franzoesisch",
       "cat": "set_other"
@@ -3184,6 +3184,13 @@
       "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-jpn-m6a",
+      "cat": "set_other"
+    },
+    "Zaibatsu::11276329746774": {
+      "title": "Pokémon | 30th Celebration - Poster Collection - ENG",
+      "available": true,
+      "lang": "?",
+      "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-poster-collection-eng",
       "cat": "set_other"
     }
   },
