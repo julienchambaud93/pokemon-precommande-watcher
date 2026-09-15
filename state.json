@@ -1200,7 +1200,7 @@
     },
     "Zadoys::15777811005823": {
       "title": "30th Celebration 2-Pack Blister FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-2-pack-blister-franzoesisch",
       "cat": "set_other"
@@ -1220,14 +1220,14 @@
       "cat": "set_other"
     },
     "Zadoys::15775156371839": {
-      "title": "30th Celebration Coffret Dresseur d'Elite FR",
-      "available": false,
+      "title": "30th Celebration Coffret Dresseur d'Elite + 1 Produkt nach Wahl FR",
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-coffret-dresseur-delite-franzoesisch",
       "cat": "target_etb"
     },
     "Zadoys::15775153455487": {
-      "title": "30th Celebration Top Trainer Box DE",
+      "title": "30th Celebration Top Trainer Box + Optimale Ordnung Top Trainer Box DE",
       "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch",
@@ -1326,7 +1326,7 @@
     },
     "Zadoys::15773636952447": {
       "title": "30th Celebration Nymphali ex Box FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-nymphali-ex-box-franzoesisch",
       "cat": "set_other"
@@ -1347,7 +1347,7 @@
     },
     "Zadoys::15773608575359": {
       "title": "30th Celebration Poster Collection FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-poster-collection-franzoesisch",
       "cat": "set_other"
@@ -3170,6 +3170,20 @@
       "available": true,
       "lang": "EN",
       "url": "https://amazingames.ch/products/pokemon-30th-celebration-poster-collection-en",
+      "cat": "set_other"
+    },
+    "Pikaversum::15881413132662": {
+      "title": "Pokémon TCG – Espeon ex & Umbreon ex 30th Celebration Premium Deck Set (JPN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set-jpn",
+      "cat": "set_other"
+    },
+    "Pikaversum::15881421390198": {
+      "title": "Pokémon TCG – 30th Celebration Booster Box (JPN, M6a)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-jpn-m6a",
       "cat": "set_other"
     }
   },
