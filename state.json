@@ -3174,7 +3174,7 @@
     },
     "Pikaversum::15881413132662": {
       "title": "Pokémon TCG – Espeon ex & Umbreon ex 30th Celebration Premium Deck Set (JPN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set-jpn",
       "cat": "set_other"
@@ -3191,6 +3191,13 @@
       "available": false,
       "lang": "?",
       "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-poster-collection-eng",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16089172246910": {
+      "title": "Pokémon: Pikachu (30th Anniversary) – Temporal Forces (TEF 051) – Einzelkarte",
+      "available": true,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-anniversary-temporal-forces-tef-051-de-nm-30th",
       "cat": "set_other"
     }
   },
