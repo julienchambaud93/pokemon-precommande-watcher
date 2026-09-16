@@ -1228,7 +1228,7 @@
     },
     "Zadoys::15775153455487": {
       "title": "30th Celebration Top Trainer Box + Optimale Ordnung Top Trainer Box DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch",
       "cat": "target_etb"
@@ -3199,6 +3199,62 @@
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-anniversary-temporal-forces-tef-051-de-nm-30th",
       "cat": "set_other"
+    },
+    "Zadoys::15449459622271": {
+      "title": "30th Celebration 2-Pack + Perfect Order 3-Pack Blister EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-2-pack-me03-3-pack-blister-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15499291787647": {
+      "title": "30th Celebration Greninja ex Box + Mega Zygarde ex Premium Collection EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-greninja-ex-box-mega-zygarde-ex-premium-collection-englisch",
+      "cat": "set_other"
+    },
+    "PocketDex::16553569059165": {
+      "title": "30 ans Pokémon - Tin Box - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-tin-box-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16553535635805": {
+      "title": "30 ans Pokémon - Duo Pack - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-duo-pack-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16553528459613": {
+      "title": "30 ans Pokémon - Coffret Nymphali-ex - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-coffret-nymphali-ex-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16553511584093": {
+      "title": "30 ans Pokémon - Coffret Amphinobi-ex - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-coffret-amphinobi-ex-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16553504997725": {
+      "title": "30 ans Pokémon - Collection Poster - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-collection-poster-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16553499263325": {
+      "title": "30 ans Pokémon - Elite Trainer Box - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-elite-trainer-box-fr",
+      "cat": "target_etb"
     }
   },
   "html": {
