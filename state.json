@@ -3255,6 +3255,20 @@
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-elite-trainer-box-fr",
       "cat": "target_etb"
+    },
+    "Pokecard Store::15511999938935": {
+      "title": "Preorder 30th Anniversary Mini Tins (IT)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/preorder-30th-anniversary-mini-tins-display-it-kopie",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15511107142007": {
+      "title": "Preorder 30th Anniversary Booster Bundle (IT)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/preorder-30th-anniversary-booster-bundle-it",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -3440,7 +3454,7 @@
     "Toytans::https://toytans.ch": []
   },
   "hb": {
-    "minuit": "2026-09-16",
+    "minuit": "2026-09-17",
     "midi": "2026-09-15"
   },
   "seeded_sites": [
