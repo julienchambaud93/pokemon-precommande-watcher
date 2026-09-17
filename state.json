@@ -3111,7 +3111,7 @@
     },
     "Cardmaniac::8697568133295": {
       "title": "Pokémon TCG – 30th Celebration Booster Box",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-box",
       "cat": "set_other"
@@ -3290,6 +3290,13 @@
       "lang": "DE",
       "url": "https://zadoys.ch/products/30th-celebration-top-trainer-box-mega-quajutsu-ex-premium-kollektion-de",
       "cat": "target_etb"
+    },
+    "Zadoys::15894474326399": {
+      "title": "30th Celebration Poster Collection + Perfect Order 3-Pack Blister EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/30th-celebration-poster-collection-perfect-order-3-pack-blister-englisch",
+      "cat": "set_other"
     }
   },
   "html": {
