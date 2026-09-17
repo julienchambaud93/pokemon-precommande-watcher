@@ -122,7 +122,7 @@
     },
     "LaschoCards::11393561297237": {
       "title": "Pokémon TCG - 30th Celebration 2-Pack Blister",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-2-pack-blister",
       "cat": "set_other"
@@ -465,7 +465,7 @@
     },
     "Pokécado::10939227799894": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (EN)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-en",
       "cat": "set_other"
@@ -1228,7 +1228,7 @@
     },
     "Zadoys::15775153455487": {
       "title": "30th Celebration Top Trainer Box + Optimale Ordnung Top Trainer Box DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch",
       "cat": "target_etb"
@@ -1851,14 +1851,14 @@
     },
     "PokeFaust::15528008253815": {
       "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Day Edition",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-edition",
       "cat": "target_upc"
     },
     "PokeFaust::15528001896823": {
       "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Night Edition",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition",
       "cat": "target_upc"
@@ -2418,7 +2418,7 @@
     },
     "AmazinGames::8066065006667": {
       "title": "Pokemon 30th Celebration 2-Pack Blister - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://amazingames.ch/products/pokemon-30th-celebration-2-pack-blister-en",
       "cat": "set_other"
@@ -2537,7 +2537,7 @@
     },
     "LaschoCards::11547474100565": {
       "title": "Pokémon TCG - 30th Celebration Battle Deck",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-battle-deck",
       "cat": "set_other"
@@ -3455,7 +3455,7 @@
   },
   "hb": {
     "minuit": "2026-09-17",
-    "midi": "2026-09-15"
+    "midi": "2026-09-17"
   },
   "seeded_sites": [
     "Pokecard Store",
