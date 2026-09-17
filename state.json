@@ -465,7 +465,7 @@
     },
     "Pokécado::10939227799894": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-en",
       "cat": "set_other"
@@ -1228,7 +1228,7 @@
     },
     "Zadoys::15775153455487": {
       "title": "30th Celebration Top Trainer Box + Optimale Ordnung Top Trainer Box DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch",
       "cat": "target_etb"
@@ -3104,7 +3104,7 @@
     },
     "Cardmaniac::8697601425583": {
       "title": "Pokémon TCG – Espeon ex & Umbreon ex 30th Celebration Premium Deck Set",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set",
       "cat": "set_other"
