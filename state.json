@@ -3286,7 +3286,7 @@
     },
     "Zadoys::15894064431487": {
       "title": "30th Celebration Top Trainer Box + Mega Quajutsu ex Premium Kollektion DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/30th-celebration-top-trainer-box-mega-quajutsu-ex-premium-kollektion-de",
       "cat": "target_etb"
@@ -3489,7 +3489,7 @@
     "Toytans::https://toytans.ch": []
   },
   "hb": {
-    "minuit": "2026-09-17",
+    "minuit": "2026-09-18",
     "midi": "2026-09-17"
   },
   "seeded_sites": [
