@@ -675,14 +675,14 @@
     },
     "Outpost Brussels::15904441073998": {
       "title": "Pokémon · 30th Celebration - Booster Bundle - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-booster-bundle-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904440910158": {
       "title": "Pokémon · 30e Anniversaire - Bundle 6 Boosters - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-bundle-6-boosters-fr-s",
       "cat": "set_other"
@@ -696,7 +696,7 @@
     },
     "Outpost Brussels::15904440549710": {
       "title": "Pokémon · 30e Anniversaire - Collection Classeur - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-classeur-fr-s",
       "cat": "set_other"
@@ -717,14 +717,14 @@
     },
     "Outpost Brussels::15904441467214": {
       "title": "Pokémon · 30th Celebration - Mini Tin - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mini-tin-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904441270606": {
       "title": "Pokémon · 30e Anniversaire - Mini Tin - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-mini-tin-fr-s",
       "cat": "set_other"
@@ -1227,7 +1227,7 @@
       "cat": "target_etb"
     },
     "Zadoys::15775153455487": {
-      "title": "30th Celebration Top Trainer Box + Optimale Ordnung Top Trainer Box DE",
+      "title": "30th Celebration Top Trainer Box + Mega Zygarde ex Premium Kollektion DE",
       "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch",
@@ -1424,7 +1424,7 @@
     },
     "Pokereaves::10617207947611": {
       "title": "Pre-order 1x Pokemon Mewtwo and Mew collection COLLECTION BOX 30th anniversary - ENGLISH",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mewtwo-and-mew-collection-collection-box-30th-anniversary-english",
       "cat": "set_other"
@@ -3104,7 +3104,7 @@
     },
     "Cardmaniac::8697601425583": {
       "title": "Pokémon TCG – Espeon ex & Umbreon ex 30th Celebration Premium Deck Set",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set",
       "cat": "set_other"
@@ -3265,7 +3265,7 @@
     },
     "Pokecard Store::15511107142007": {
       "title": "Preorder 30th Anniversary Booster Bundle (IT)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-booster-bundle-it",
       "cat": "set_other"
@@ -3310,6 +3310,13 @@
       "available": true,
       "lang": "EN",
       "url": "https://pokefaust.com/products/pokemon-30th-celebration-knockout-collection-box-en",
+      "cat": "set_other"
+    },
+    "LaschoCards::11622749438293": {
+      "title": "Pokémon TCG - 30th Celebration Ditto Premium Collection",
+      "available": false,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
       "cat": "set_other"
     }
   },
