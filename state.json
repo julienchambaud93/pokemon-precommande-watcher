@@ -3,7 +3,7 @@
   "seen": {
     "Pokecard Store::15506939314551": {
       "title": "Pokémon 30th Anniversary Special Art Card Set Vol. 2 (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-anniversary-special-art-card-set-vol-2-cn",
       "cat": "set_other"
@@ -717,14 +717,14 @@
     },
     "Outpost Brussels::15904441467214": {
       "title": "Pokémon · 30th Celebration - Mini Tin - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mini-tin-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904441270606": {
       "title": "Pokémon · 30e Anniversaire - Mini Tin - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-mini-tin-fr-s",
       "cat": "set_other"
@@ -3265,7 +3265,7 @@
     },
     "Pokecard Store::15511107142007": {
       "title": "Preorder 30th Anniversary Booster Bundle (IT)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-booster-bundle-it",
       "cat": "set_other"
@@ -3428,7 +3428,9 @@
     "La Guilde::https://www.la-guilde.ch/search?q=30th%20celebration": [],
     "La Guilde::https://www.la-guilde.ch/?s=30th+celebration&post_type=product": [],
     "Au Paradis du Jeu::https://auparadisdujeu.ch/?s=30th+celebration&post_type=product": [],
-    "Les 400 Coups::https://www.400coups.ch/?s=30th+celebration&post_type=product": [],
+    "Les 400 Coups::https://www.400coups.ch/?s=30th+celebration&post_type=product": [
+      "elite trainer 30eme"
+    ],
     "Korner Cash::https://kornercash.ch/?s=30th+celebration&post_type=product": [],
     "Jouets Davidson::https://www.jouetsdavidson.ch/?s=30th+celebration&post_type=product": [],
     "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": [],
@@ -3599,7 +3601,8 @@
     "Cardmaniac::https://cardmaniac.ch/products/pokemon-tcg-top-trainer-box-30-jahre": "out",
     "Collectors Deal::https://collectorsdeal.ch/products/pokemon-30th-celebration-me5-5-elite-trainer-box-de": "out",
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-delta-reign-me06-elite-trainer-box/": "out",
-    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-optimale-ordnung-top-trainer-box-deutsch": "out"
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-optimale-ordnung-top-trainer-box-deutsch": "out",
+    "Les 400 Coups::https://www.400coups.ch/pokemon-elite-trainer-30eme-anniversaire.html": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
