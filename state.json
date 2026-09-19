@@ -3118,42 +3118,42 @@
     },
     "MaRo Shop::15054777549176": {
       "title": "Pokémon - 30th Celebration - EX Amphinobi - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-amphinobi-fr",
       "cat": "set_other"
     },
     "MaRo Shop::15054770307448": {
       "title": "Pokémon - 30th Celebration - EX Nymphali - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-box-fr-1-stk-zufallige-auswahl-kopie",
       "cat": "set_other"
     },
     "MaRo Shop::15054768734584": {
       "title": "Pokémon - 30th Celebration - Elite Trainer Box ETB FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-fr",
       "cat": "target_etb"
     },
     "MaRo Shop::15054765752696": {
       "title": "Pokémon - 30th Celebration - EX Tin Box FR (1 Stk. zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-fr-1-stk-zufallige-auswahl",
       "cat": "set_other"
     },
     "MaRo Shop::15054764310904": {
       "title": "Pokémon - 30th Celebration - Poster Collection FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-poster-collection-fr",
       "cat": "set_other"
     },
     "MaRo Shop::15054763131256": {
       "title": "Pokémon - 30th Celebration - 2-Pack Blister FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-2-pack-blister-fr",
       "cat": "set_other"
@@ -3209,7 +3209,7 @@
     },
     "Zadoys::15499291787647": {
       "title": "30th Celebration Greninja ex Box + Mega Zygarde ex Premium Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-greninja-ex-box-mega-zygarde-ex-premium-collection-englisch",
       "cat": "set_other"
@@ -3293,14 +3293,14 @@
     },
     "Zadoys::15894474326399": {
       "title": "30th Celebration Poster Collection + Perfect Order 3-Pack Blister EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-poster-collection-perfect-order-3-pack-blister-englisch",
       "cat": "set_other"
     },
     "Zadoys::15894508437887": {
       "title": "30th Celebration Binder Collection + Mega Zygarde ex Premium Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -3331,6 +3331,41 @@
       "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-2-pack-chaos-rising-3-pack-blister-englisch",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16094163468670": {
+      "title": "Pokémon: Pikachu – 30th Celebration (30C 023) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-023-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16094163403134": {
+      "title": "Pokémon: Pikachu – 30 Jahre (30C 037) – Einzelkarte",
+      "available": true,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30-jahre-30c-037-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16094163370366": {
+      "title": "Pokémon: Buzzwole GX – 30th Celebration (30C CIN 57) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-buzzwole-gx-30th-celebration-30c-cin-57-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16094163337598": {
+      "title": "Pokémon: Sylveon ex – 30th Celebration (30C 071) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-sylveon-ex-30th-celebration-30c-071-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16094163304830": {
+      "title": "Pokémon: Misty – 30th Celebration (30C GH 18) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-misty-30th-celebration-30c-gh-18-einzelkarte",
       "cat": "set_other"
     }
   },
