@@ -136,14 +136,14 @@
     },
     "LaschoCards::11393556578645": {
       "title": "Pokémon TCG - 30th Celebration Poster Collection",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-poster-collection",
       "cat": "set_other"
     },
     "LaschoCards::11393555562837": {
       "title": "Pokémon TCG - 30th Celebration Elite Trainer Box ETB",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-etb",
       "cat": "target_etb"
@@ -3381,6 +3381,20 @@
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-tin-box-nymphali-fr",
       "cat": "set_other"
+    },
+    "Pokemania::12283910226184": {
+      "title": "[EN] Pikachu 30e Anniversaire",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokemania.ch/products/en-pikachu-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "Pokemania::12283898134792": {
+      "title": "[FR] Pikachu 30e Anniversaire",
+      "available": true,
+      "lang": "FR",
+      "url": "https://www.pokemania.ch/products/fr-pikachu-30e-anniversaire",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -3714,7 +3728,8 @@
     "<bc1744c2ef9e4859a93121622832fac6@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<5ca45ac42e5d45f59439ac449247f726@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<274233e9c92f439a9b142b62213032cd@VI1PR10MB3150.EURPRD10.PROD.OUTLOOK.COM>",
-    "<b15f710e29234f1c9aba2be09f8288f9@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<b15f710e29234f1c9aba2be09f8288f9@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<a9a95c5d12084ba1910a3777000460e5@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
