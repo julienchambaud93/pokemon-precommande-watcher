@@ -3132,7 +3132,7 @@
     },
     "MaRo Shop::15054768734584": {
       "title": "Pokémon - 30th Celebration - Elite Trainer Box ETB FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-fr",
       "cat": "target_etb"
@@ -3472,6 +3472,13 @@
       "lang": "EN",
       "url": "https://raystorm.ch/products/binder-collection-30eme-anniversaire-en",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16096390873470": {
+      "title": "Pokémon: Greninja ex – 30th Celebration (30C 021) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-greninja-ex-30th-celebration-30c-021-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -3664,7 +3671,7 @@
     "Tanigami::https://tanigami.ch": []
   },
   "hb": {
-    "minuit": "2026-09-20",
+    "minuit": "2026-09-22",
     "midi": "2026-09-18"
   },
   "seeded_sites": [
