@@ -3160,7 +3160,7 @@
     },
     "AmazinGames::8107213291595": {
       "title": "Pokemon 30th Celebration Elite Trainer Box - ITA",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://amazingames.ch/products/pokemon-30th-celebration-elite-trainer-box-ita",
       "cat": "target_etb"
@@ -3223,7 +3223,7 @@
     },
     "PocketDex::16553535635805": {
       "title": "30 ans Pokémon - Duo Pack - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-duo-pack-fr",
       "cat": "set_other"
@@ -3300,7 +3300,7 @@
     },
     "Zadoys::15894508437887": {
       "title": "30th Celebration Binder Collection + Mega Zygarde ex Premium Collection EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -3395,6 +3395,55 @@
       "lang": "FR",
       "url": "https://www.pokemania.ch/products/fr-pikachu-30e-anniversaire",
       "cat": "set_other"
+    },
+    "PikaStore::15891917144438": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Deck Combat Mentali-ex et Noctali-ex (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-deck-combat-mentali-ex-et-noctali-ex-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "PikaStore::15891903971702": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Deck Combat Mentali-ex et Noctali-ex (set de 2) - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-deck-combat-mentali-ex-et-noctali-ex-set-de-2-me05-5-30e-anniversaire",
+      "cat": "set_other"
+    },
+    "Raystorm::11628506644821": {
+      "title": "Coffret Amphinobi Ex 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/coffret-amphinobi-ex-30eme-anniversaire-fr",
+      "cat": "set_other"
+    },
+    "Raystorm::11628501991765": {
+      "title": "Coffret Nymphali Ex 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/coffret-nymphali-ex-30eme-anniversaire-fr",
+      "cat": "set_other"
+    },
+    "Raystorm::11628476793173": {
+      "title": "Double Pack 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/double-pack-30eme-anniversaire-fr",
+      "cat": "set_other"
+    },
+    "Raystorm::11628411027797": {
+      "title": "Collection Poster 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/collection-poster-30eme-anniversaire-fr",
+      "cat": "set_other"
+    },
+    "Raystorm::11628406210901": {
+      "title": "Coffret dresseur d’élite 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/coffret-dresseur-d-elite-30eme-anniversaire-fr",
+      "cat": "target_etb"
     }
   },
   "html": {
