@@ -758,28 +758,28 @@
       "cat": "set_other"
     },
     "Outpost Brussels::15904443597134": {
-      "title": "Pokémon · 30th Celebration - Ultra-Premium Collection Night - EN",
+      "title": "Pokémon · 30th Celebration - Umbreon ex Ultra-Premium Collection - EN",
       "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-ultra-premium-collection-night-en-s",
       "cat": "target_upc"
     },
     "Outpost Brussels::15904443400526": {
-      "title": "Pokémon · 30e Anniversaire - Collection Ultra Premium Nuit - FR",
+      "title": "Pokémon · 30e Anniversaire - Collection Ultra Noctali Ex - FR",
       "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-ultra-premium-nuit-fr-s",
       "cat": "target_upc"
     },
     "Outpost Brussels::15904443171150": {
-      "title": "Pokémon · 30th Celebration - Ultra-Premium Collection Day - EN",
+      "title": "Pokémon · 30th Celebration - Espeon ex Ultra-Premium Collection - EN",
       "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-ultra-premium-collection-day-en-s",
       "cat": "target_upc"
     },
     "Outpost Brussels::15904442974542": {
-      "title": "Pokémon · 30e Anniversaire - Collection Ultra Premium Jour - FR",
+      "title": "Pokémon · 30e Anniversaire - Collection Ultra Mentali Ex - FR",
       "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-ultra-premium-jour-fr-s",
@@ -3181,7 +3181,7 @@
     },
     "Pikaversum::15881421390198": {
       "title": "Pokémon TCG – 30th Celebration Booster Box (JPN, M6a)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-jpn-m6a",
       "cat": "set_other"
@@ -3672,7 +3672,7 @@
   },
   "hb": {
     "minuit": "2026-09-22",
-    "midi": "2026-09-18"
+    "midi": "2026-09-22"
   },
   "seeded_sites": [
     "Pokecard Store",
