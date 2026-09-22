@@ -3611,7 +3611,9 @@
     "Jouets Davidson::https://www.jouetsdavidson.ch/?s=30th+celebration&post_type=product": [],
     "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": [],
     "Philibert::https://www.philibertnet.com": [],
-    "Kabooom::https://shop.kabooom.ch": [],
+    "Kabooom::https://shop.kabooom.ch": [
+      "30th celebration etb"
+    ],
     "Carab::https://carab.ch": [],
     "Coin-Op::https://www.coin-op.ch": [],
     "Mighty Games::https://www.mightygames.ch": [],
@@ -3780,7 +3782,8 @@
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-delta-reign-me06-elite-trainer-box/": "out",
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-optimale-ordnung-top-trainer-box-deutsch": "out",
     "Les 400 Coups::https://www.400coups.ch/pokemon-elite-trainer-30eme-anniversaire.html": "out",
-    "Toytans::https://www.toytans.ch/de/pokemon-zubehoer/2908-pokemon-me055-30th-celebration-etb-sleeves-5390368994765.html": "in"
+    "Toytans::https://www.toytans.ch/de/pokemon-zubehoer/2908-pokemon-me055-30th-celebration-etb-sleeves-5390368994765.html": "in",
+    "Kabooom::https://shop.kabooom.ch/trading-card-games-pokemon-pokmon-30th-celebration-etb-en-pok1010447101/": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
@@ -3814,7 +3817,9 @@
     "<274233e9c92f439a9b142b62213032cd@VI1PR10MB3150.EURPRD10.PROD.OUTLOOK.COM>",
     "<b15f710e29234f1c9aba2be09f8288f9@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<a9a95c5d12084ba1910a3777000460e5@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<5b35d0765d844963a9aa58298a1c1e30@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<5b35d0765d844963a9aa58298a1c1e30@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<7a9531c8776646cb94bfe5f13433ae30@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<fdab27cf7532400686a210ff700f8c81@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
