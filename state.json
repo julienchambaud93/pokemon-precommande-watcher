@@ -2964,7 +2964,7 @@
     },
     "Pikaversum::15872353730934": {
       "title": "Pokémon TCG: 30th Celebration Booster Box – Simplified Chinese (CN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-simplified-chinese",
       "cat": "set_other"
@@ -3293,14 +3293,14 @@
     },
     "Zadoys::15894474326399": {
       "title": "30th Celebration Poster Collection + Perfect Order 3-Pack Blister EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-poster-collection-perfect-order-3-pack-blister-englisch",
       "cat": "set_other"
     },
     "Zadoys::15894508437887": {
-      "title": "30th Celebration Binder Collection + Mega Zygarde ex Premium Collection EN",
-      "available": false,
+      "title": "30th Celebration Elite Trainer Box EN + Destined Rivals Elite Trainer Box EN",
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -3479,6 +3479,13 @@
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-greninja-ex-30th-celebration-30c-021-einzelkarte",
       "cat": "set_other"
+    },
+    "Pikaversum::15896254349686": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Top-Trainer-Box + Lumiose City Mini Tin Display (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-top-trainer-box-lumiose-city-mini-tin-display-deutsch",
+      "cat": "target_etb"
     }
   },
   "html": {
