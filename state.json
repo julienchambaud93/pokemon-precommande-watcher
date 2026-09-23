@@ -150,7 +150,7 @@
     },
     "LaschoCards::11348401979733": {
       "title": "Pokémon TCG - Espeon ex and Umbreon ex 30th Celebration Premium Deck Set",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-espeon-ex-and-umbreon-ex-30th-celebration-premium-deck-set",
       "cat": "set_other"
@@ -724,7 +724,7 @@
     },
     "Outpost Brussels::15904441270606": {
       "title": "Pokémon · 30e Anniversaire - Mini Tin - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-mini-tin-fr-s",
       "cat": "set_other"
@@ -2453,7 +2453,7 @@
     },
     "SkySpell::15737412616569": {
       "title": "Pokémon 30th Anniversary Charizard figure set | Simplified Chinese",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-charizard-figure-set-simplified-chinese",
       "cat": "set_other"
@@ -3258,7 +3258,7 @@
     },
     "Pokecard Store::15511999938935": {
       "title": "Preorder 30th Anniversary Mini Tins (IT)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-mini-tins-display-it-kopie",
       "cat": "set_other"
@@ -3461,7 +3461,7 @@
     },
     "TMS Bricks Shop::16096325828990": {
       "title": "Pokémon: Pikachu – 30th Celebration (30C 033) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-033-einzelkarte",
       "cat": "set_other"
