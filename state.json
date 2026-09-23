@@ -724,7 +724,7 @@
     },
     "Outpost Brussels::15904441270606": {
       "title": "Pokémon · 30e Anniversaire - Mini Tin - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-mini-tin-fr-s",
       "cat": "set_other"
@@ -2761,21 +2761,21 @@
     },
     "Cardmaniac::8686136623279": {
       "title": "Pokémon TCG – Poster-Kollektion 30 Jahre",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-poster-kollektion-30-jahre",
       "cat": "set_other"
     },
     "Cardmaniac::8686130004143": {
       "title": "Pokémon TCG – Tin-Box 30 Jahre: Feelinara‑ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-feelinara-ex",
       "cat": "set_other"
     },
     "Cardmaniac::8686126760111": {
       "title": "Pokémon TCG – Tin-Box 30 Jahre: Quajutsu‑ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-quajutsu-ex",
       "cat": "set_other"
@@ -3496,7 +3496,7 @@
     },
     "Cardmaniac::10314754228399": {
       "title": "Pokémon TCG – Boosterbundle 30 Jahre",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-boosterbundle-30-jahre",
       "cat": "set_other"
