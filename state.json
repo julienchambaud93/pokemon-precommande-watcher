@@ -2761,21 +2761,21 @@
     },
     "Cardmaniac::8686136623279": {
       "title": "Pokémon TCG – Poster-Kollektion 30 Jahre",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-poster-kollektion-30-jahre",
       "cat": "set_other"
     },
     "Cardmaniac::8686130004143": {
       "title": "Pokémon TCG – Tin-Box 30 Jahre: Feelinara‑ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-feelinara-ex",
       "cat": "set_other"
     },
     "Cardmaniac::8686126760111": {
       "title": "Pokémon TCG – Tin-Box 30 Jahre: Quajutsu‑ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tin-box-30-jahre-quajutsu-ex",
       "cat": "set_other"
@@ -3486,6 +3486,20 @@
       "lang": "DE",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-top-trainer-box-lumiose-city-mini-tin-display-deutsch",
       "cat": "target_etb"
+    },
+    "Cardmaniac::10314782507183": {
+      "title": "Pokémon TCG – Mini-Tin-Box 30 Jahre",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-mini-tin-box-30-jahre",
+      "cat": "set_other"
+    },
+    "Cardmaniac::10314754228399": {
+      "title": "Pokémon TCG – Boosterbundle 30 Jahre",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-boosterbundle-30-jahre",
+      "cat": "set_other"
     }
   },
   "html": {
