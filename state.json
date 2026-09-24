@@ -3510,9 +3510,58 @@
     },
     "TMS Bricks Shop::16099953115518": {
       "title": "Pokémon: Chandelure – 30th Celebration (30C 137) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-chandelure-30th-celebration-30c-137-einzelkarte",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15561402220919": {
+      "title": "Pokémon 30th Celebration Dream Drawing Pikachu Figurine Blind Box (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-dream-drawing-pikachu-figurine-blind-box-cn",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15561293463927": {
+      "title": "Pokémon 30th Celebration Collection Display Box (CN)",
+      "available": false,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-collection-display-box-cn",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15561234776439": {
+      "title": "Pokémon 30th Celebration Coin Set (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-coin-set-cn",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15560795160951": {
+      "title": "Pokémon 30th Celebration Card Display Set Sylveon ex (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-card-display-set-sylveon-ex",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15560794112375": {
+      "title": "Pokémon 30th Celebration Card Display Set Greninja ex (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-card-display-set-greninja-ex",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15560724152695": {
+      "title": "Pokémon 30th Celebration (M6a) Booster Box (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-box-cn",
+      "cat": "set_other"
+    },
+    "Detsuki::16032590922072": {
+      "title": "Pokémon 30th Anniversary First Partner Special Illustration Card Set Vol. 3",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-30th-anniversary-first-partner-special-illustration-card-set-vol-3",
       "cat": "set_other"
     }
   },
