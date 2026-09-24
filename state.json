@@ -2712,7 +2712,7 @@
     },
     "SkySpell::15759249408377": {
       "title": "Pokémon 30th Anniversary Celebration Collector's Box | Simplified Chinese",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-celebration-collectors-box-simplified-chinese",
       "cat": "set_other"
@@ -3426,7 +3426,7 @@
     },
     "Raystorm::11628476793173": {
       "title": "Double Pack 30ème Anniversaire [FR]",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://raystorm.ch/products/double-pack-30eme-anniversaire-fr",
       "cat": "set_other"
@@ -3499,6 +3499,13 @@
       "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-boosterbundle-30-jahre",
+      "cat": "set_other"
+    },
+    "Raystorm::11637132362069": {
+      "title": "Poster Collection 30ème Anniversaire [EN]",
+      "available": true,
+      "lang": "EN",
+      "url": "https://raystorm.ch/products/poster-collection-30eme-anniversaire-en",
       "cat": "set_other"
     }
   },
