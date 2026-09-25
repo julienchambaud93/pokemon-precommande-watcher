@@ -143,7 +143,7 @@
     },
     "LaschoCards::11393555562837": {
       "title": "Pokémon TCG - 30th Celebration Elite Trainer Box ETB",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-etb",
       "cat": "target_etb"
@@ -717,7 +717,7 @@
     },
     "Outpost Brussels::15904441467214": {
       "title": "Pokémon · 30th Celebration - Mini Tin - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mini-tin-en-s",
       "cat": "set_other"
@@ -1466,14 +1466,14 @@
     },
     "Outpost Brussels::15979924947278": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Amphinobi-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-amphinobi-ex-fr",
       "cat": "set_other"
     },
     "Outpost Brussels::15979924914510": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Nymphali-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-nymphali-ex-fr",
       "cat": "set_other"
@@ -3167,7 +3167,7 @@
     },
     "AmazinGames::8107136778315": {
       "title": "Pokemon 30th Celebration Poster Collection - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://amazingames.ch/products/pokemon-30th-celebration-poster-collection-en",
       "cat": "set_other"
