@@ -3614,7 +3614,10 @@
       "30th celebration elite trainer",
       "delta reign elite trainer"
     ],
-    "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [],
+    "Naxoria::https://naxoria.ch/?s=30th+celebration&post_type=product": [
+      "30th celebration &#8211; elite trainer",
+      "30th celebration elite trainer"
+    ],
     "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [
       "30th celebration elite trainer",
       "30th celebration etb"
@@ -3888,7 +3891,8 @@
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-mega-zygarde-ex-kollektion-deutsch": "out",
     "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-fr": "out",
     "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-en": "out",
-    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-en": "out"
+    "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-en": "out",
+    "Naxoria::https://naxoria.ch/produkt/pokemon-30th-celebration-elite-trainer-box-en/": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
