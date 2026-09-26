@@ -682,7 +682,7 @@
     },
     "Outpost Brussels::15904440910158": {
       "title": "Pokémon · 30e Anniversaire - Bundle 6 Boosters - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-bundle-6-boosters-fr-s",
       "cat": "set_other"
@@ -3356,7 +3356,7 @@
     },
     "TMS Bricks Shop::16094163337598": {
       "title": "Pokémon: Sylveon ex – 30th Celebration (30C 071) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-sylveon-ex-30th-celebration-30c-071-einzelkarte",
       "cat": "set_other"
@@ -3569,6 +3569,13 @@
       "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-30th-celebration-booster-pack-english-copy",
+      "cat": "set_other"
+    },
+    "LaschoCards::11641331188053": {
+      "title": "Pokémon TCG - 30th Celebration Binder Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-binder-collection",
       "cat": "set_other"
     }
   },
