@@ -2530,7 +2530,7 @@
     },
     "Collecting Cloud::16372781121885": {
       "title": "Pokémon - Mega Evolution - 30th Celebration Booster Box (JPN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-booster-box-jpn",
       "cat": "set_other"
@@ -3335,7 +3335,7 @@
     },
     "TMS Bricks Shop::16094163468670": {
       "title": "Pokémon: Pikachu – 30th Celebration (30C 023) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-023-einzelkarte",
       "cat": "set_other"
@@ -3412,7 +3412,7 @@
     },
     "Raystorm::11628506644821": {
       "title": "Coffret Amphinobi Ex 30ème Anniversaire [FR]",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://raystorm.ch/products/coffret-amphinobi-ex-30eme-anniversaire-fr",
       "cat": "set_other"
@@ -3584,6 +3584,13 @@
       "lang": "DE",
       "url": "https://pikaversum.ch/products/pokemon-top-trainer-box-bundle-30-jahre-mega-entwicklung-dunkelnacht-deutsch",
       "cat": "target_etb"
+    },
+    "TMS Bricks Shop::16104071004542": {
+      "title": "Pokémon: Booster 30th Celebration – Chinesisch",
+      "available": false,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-booster-30th-celebration-chinesisch",
+      "cat": "set_other"
     }
   },
   "html": {
