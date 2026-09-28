@@ -164,7 +164,7 @@
     },
     "LaschoCards::11339880071509": {
       "title": "Pokémon TCG - 30th Celebration Booster Box JPN m6a",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-box-jpn-m6a",
       "cat": "set_other"
@@ -1683,7 +1683,7 @@
     },
     "Pokereaves::10633843409243": {
       "title": "Pre-order Pokemon 2 Pack Blister 30th anniversary - ENGLISH",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-2-pack-blister-30th-anniversary-english",
       "cat": "set_other"
@@ -2236,7 +2236,7 @@
     },
     "Pokereaves::10656734380379": {
       "title": "Pre-order 1x Pokémon 30th Celebration ex Box - ENGLISH",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-ex-box-english",
       "cat": "set_other"
@@ -3433,7 +3433,7 @@
     },
     "Raystorm::11628411027797": {
       "title": "Collection Poster 30ème Anniversaire [FR]",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://raystorm.ch/products/collection-poster-30eme-anniversaire-fr",
       "cat": "set_other"
@@ -3953,7 +3953,8 @@
     "<ec1861d94fc04babb047f0a272d76791@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<27735023a1d24df6bcd87a111e694836@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<dea0512cb4244e5ab239d8a5c92fde21@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<83d09e4a257c4bdd80f93e56250adc40@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<83d09e4a257c4bdd80f93e56250adc40@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<79d7aeeca11543ccb798a0f9387a8444@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
