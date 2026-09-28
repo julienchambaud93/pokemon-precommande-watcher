@@ -1788,7 +1788,7 @@
     },
     "PokeFaust::15528542732663": {
       "title": "Pokémon TCG 30th Celebration Poster Collection",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-poster-collection",
       "cat": "set_other"
@@ -3797,7 +3797,7 @@
     "Tanigami::https://tanigami.ch": []
   },
   "hb": {
-    "minuit": "2026-09-28",
+    "minuit": "2026-09-29",
     "midi": "2026-09-28"
   },
   "seeded_sites": [
