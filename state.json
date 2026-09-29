@@ -2474,7 +2474,7 @@
     },
     "SkySpell::15737412878713": {
       "title": "Pokémon 30th Anniversary Münzvitrine | Simplified Chinese",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-munzvitrine-simplified-chinese",
       "cat": "set_other"
@@ -3349,7 +3349,7 @@
     },
     "TMS Bricks Shop::16094163370366": {
       "title": "Pokémon: Buzzwole GX – 30th Celebration (30C CIN 57) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-buzzwole-gx-30th-celebration-30c-cin-57-einzelkarte",
       "cat": "set_other"
@@ -3590,6 +3590,27 @@
       "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-booster-30th-celebration-chinesisch",
+      "cat": "set_other"
+    },
+    "LaschoCards::11649002996053": {
+      "title": "Pokémon TCG - 30th Celebration Charizard (m6a 137) JPN",
+      "available": true,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-charizard-m6a-137-jpn",
+      "cat": "set_other"
+    },
+    "LaschoCards::11648954499413": {
+      "title": "Pokémon TCG - 30th Celebration Crystal Lugia (m6a 142) JPN",
+      "available": true,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-crystal-lugia-m6a-142-jpn",
+      "cat": "set_other"
+    },
+    "Pikaversum::15904312066422": {
+      "title": "Pokémon TCG: 30th Celebration – Tech Sticker Collection Display (12 Stück)",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection",
       "cat": "set_other"
     }
   },
@@ -3955,7 +3976,8 @@
     "<dea0512cb4244e5ab239d8a5c92fde21@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<83d09e4a257c4bdd80f93e56250adc40@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<79d7aeeca11543ccb798a0f9387a8444@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<d1978cf7ba0e4a4d9a58cfbf316c67aa@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<d1978cf7ba0e4a4d9a58cfbf316c67aa@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<3e8f7d30eb1e411f98fbcd15c629254d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
