@@ -143,7 +143,7 @@
     },
     "LaschoCards::11393555562837": {
       "title": "Pokémon TCG - 30th Celebration Elite Trainer Box ETB",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-etb",
       "cat": "target_etb"
@@ -178,7 +178,7 @@
     },
     "LaschoCards::11337948496213": {
       "title": "Pokémon TCG - 30th Celebration Booster Pack (1. Stk)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-pack",
       "cat": "set_other"
@@ -2516,7 +2516,7 @@
     },
     "LaschoCards::11543920116053": {
       "title": "Pokémon TCG - 30th Celebration Booster Bundle",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
@@ -2579,7 +2579,7 @@
     },
     "Poke Swiss::16174970896771": {
       "title": "[Précommande] Pokémon 30th Celebration Booster Bundle FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-booster-bundle-fr-en",
       "cat": "target_etb"
@@ -3013,7 +3013,7 @@
     },
     "Collectors Deal::15663026602308": {
       "title": "Pokémon 30th Celebration Battle Deck Umbreon EX FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-battle-deck-umbreon-ex-fr",
       "cat": "set_other"
@@ -3300,7 +3300,7 @@
     },
     "Zadoys::15894508437887": {
       "title": "30th Celebration Elite Trainer Box EN + Destined Rivals Elite Trainer Box EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -3587,7 +3587,7 @@
     },
     "TMS Bricks Shop::16104071004542": {
       "title": "Pokémon: Booster 30th Celebration – Chinesisch",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-booster-30th-celebration-chinesisch",
       "cat": "set_other"
@@ -3625,6 +3625,27 @@
       "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-binder-30-jahre-jubilaeum",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16109517865342": {
+      "title": "Pokémon: Zapdos – 30 Jahre (30C 133) – Einzelkarte",
+      "available": true,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-zapdos-30-jahre-30c-133-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16109517767038": {
+      "title": "Pokémon: Zurrokex – 30 Jahre (30C 140) – Einzelkarte",
+      "available": true,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-zurrokex-30-jahre-30c-140-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16109466222974": {
+      "title": "Pokémon: Popplio (021/30th-P) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-popplio-021-30th-p-einzelkarte",
       "cat": "set_other"
     }
   },
