@@ -1227,7 +1227,7 @@
       "cat": "target_etb"
     },
     "Zadoys::15775153455487": {
-      "title": "30th Celebration Top Trainer Box + Mega Zygarde ex Premium Kollektion DE",
+      "title": "30th Celebration Top Trainer Box + Optimale Ordnung Top Trainer Box DE",
       "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-deutsch",
@@ -2537,7 +2537,7 @@
     },
     "LaschoCards::11547474100565": {
       "title": "Pokémon TCG - 30th Celebration Battle Deck",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-battle-deck",
       "cat": "set_other"
@@ -2922,7 +2922,7 @@
     },
     "Pikaversum::15867144110454": {
       "title": "Pokémon TCG: 30th Celebration Booster Bundle",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
@@ -3209,7 +3209,7 @@
     },
     "Zadoys::15499291787647": {
       "title": "30th Celebration Greninja ex Box + Mega Zygarde ex Premium Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-greninja-ex-box-mega-zygarde-ex-premium-collection-englisch",
       "cat": "set_other"
@@ -3258,7 +3258,7 @@
     },
     "Pokecard Store::15511999938935": {
       "title": "Preorder 30th Anniversary Mini Tins (IT)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/preorder-30th-anniversary-mini-tins-display-it-kopie",
       "cat": "set_other"
@@ -3636,7 +3636,7 @@
     },
     "TMS Bricks Shop::16109517767038": {
       "title": "Pokémon: Zurrokex – 30 Jahre (30C 140) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-zurrokex-30-jahre-30c-140-einzelkarte",
       "cat": "set_other"
@@ -3695,6 +3695,55 @@
       "available": true,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-ex-30th-celebration-30c-150-einzelkarte",
+      "cat": "set_other"
+    },
+    "Pikaversum::15907011756406": {
+      "title": "Pokémon TCG Bundle: 2× 30th Celebration Booster Bundle + 6× Pokéball Tin 2024 (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-6-pokeball-tin-2-30th-celebration-booster-bundle-en",
+      "cat": "set_other"
+    },
+    "Pikaversum::15907003728246": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Lumiose City Mini Tin Display (Französisch)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-lumiose-city-mini-tin-display-franzosisch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15907001532790": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Ascended Heroes Mini Tin Display (Französisch)",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-ascended-heroes-mini-tin-set-franzosisch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15906996420982": {
+      "title": "Pokémon TCG Tin Bundle: 30th Celebration Sylveon ex + Mega Moonlit Mega Clefable ex (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-tin-bundle-30th-celebration-sylveon-ex-mega-moonlit-mega-clefable-ex-en",
+      "cat": "set_other"
+    },
+    "Pikaversum::15906995077494": {
+      "title": "Pokémon TCG Tin Bundle: 30th Celebration Greninja ex + Mega Moonlit Mega Gengar ex (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-tin-bundle-30th-celebration-greninja-ex-mega-moonlit-mega-gengar-ex-en",
+      "cat": "set_other"
+    },
+    "Zadoys::15920347283839": {
+      "title": "2x 30th Celebration Mini Tin FR + Mega-Kangourex ex Box FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/30th-celebration-booster-bundle-fr-equilibre-parfait-booster-bundle-fr-kopie",
+      "cat": "set_other"
+    },
+    "Zadoys::15920341877119": {
+      "title": "30th Celebration Booster Bundle FR + Équilibre Parfait Booster Bundle FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/30th-celebration-booster-bundle-fr-equilibre-parfait-booster-bundle-fr",
       "cat": "set_other"
     }
   },
