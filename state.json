@@ -3745,6 +3745,41 @@
       "lang": "FR",
       "url": "https://zadoys.ch/products/30th-celebration-booster-bundle-fr-equilibre-parfait-booster-bundle-fr",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16111676719486": {
+      "title": "Pokémon: 30th Anniversary Original Partner Card Set Vol. 3 – Chinesisch",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-30th-anniversary-original-partner-card-set-vol-3-chinesisch-cel",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16111676686718": {
+      "title": "Pokémon: 30th Celebration Card Showcase Set Sylveon ex – Chinesisch",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-card-showcase-set-sylveon-ex-chinesisch-cel",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16111676653950": {
+      "title": "Pokémon: 30th Celebration Card Showcase Set Greninja ex – Chinesisch",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-card-showcase-set-greninja-ex-chinesisch-cel",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16111676621182": {
+      "title": "Pokémon: 30th Celebration Luxury Set Umbreon ex – Chinesisch",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-luxury-set-umbreon-ex-chinesisch-cel",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16111676588414": {
+      "title": "Pokémon: 30th Celebration Luxury Set Espeon ex – Chinesisch",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-luxury-set-espeon-ex-chinesisch-cel",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -4117,7 +4152,8 @@
     "<3e8f7d30eb1e411f98fbcd15c629254d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<55125b12ea6842f88a5b8c290133d839@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<c7a065b242e74e339aea8a1b6e95dafe@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<4bdef3a60bbd4a04b83ef949f5611753@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<4bdef3a60bbd4a04b83ef949f5611753@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<9b4bb965b61d48249bf45f283079398a@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
