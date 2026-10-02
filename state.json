@@ -1697,7 +1697,7 @@
     },
     "Pokereaves::10633883124059": {
       "title": "Pre-order 1x Pokemon mini tin display 30th anniversary - ENGLISH",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mini-tin-display-30th-anniversary-english",
       "cat": "set_other"
@@ -3892,6 +3892,13 @@
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-mini-tin-fr",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16112939958654": {
+      "title": "Pokémon: Alolan Exeggutor – 30th Celebration (30C 129) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-alolan-exeggutor-30th-celebration-30c-129-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -4101,7 +4108,7 @@
     "EduJeu::https://edujeu.ch": []
   },
   "hb": {
-    "minuit": "2026-10-02",
+    "minuit": "2026-10-03",
     "midi": "2026-10-01"
   },
   "seeded_sites": [
