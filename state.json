@@ -3216,7 +3216,7 @@
     },
     "PocketDex::16553569059165": {
       "title": "30 ans Pokémon - Tin Box - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-tin-box-fr",
       "cat": "set_other"
@@ -3377,7 +3377,7 @@
     },
     "PocketDex::16573779509597": {
       "title": "30 ans Pokémon - Tin Box - Nymphali - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-tin-box-nymphali-fr",
       "cat": "set_other"
@@ -3783,7 +3783,7 @@
     },
     "TMS Bricks Shop::16111916974462": {
       "title": "Pokémon: Jirachi ex – 30th Celebration (30C 155) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-jirachi-ex-30th-celebration-30c-155-einzelkarte",
       "cat": "set_other"
@@ -3870,6 +3870,27 @@
       "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-perfect-order-booster-bundle-englisch",
+      "cat": "set_other"
+    },
+    "AmazinGames::15227507015755": {
+      "title": "Pokemon 30th Celebration ex Tin EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://amazingames.ch/products/pokemon-30th-celebration-ex-tin-en",
+      "cat": "set_other"
+    },
+    "PocketDex::16605230203229": {
+      "title": "30 ans Pokémon - Bundle - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-bundle-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16607933661533": {
+      "title": "30 ans Pokémon - Mini tin - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-mini-tin-fr",
       "cat": "set_other"
     }
   },
@@ -4244,7 +4265,8 @@
     "<55125b12ea6842f88a5b8c290133d839@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<c7a065b242e74e339aea8a1b6e95dafe@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<4bdef3a60bbd4a04b83ef949f5611753@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<9b4bb965b61d48249bf45f283079398a@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<9b4bb965b61d48249bf45f283079398a@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<de83cfe3e641446a9f6ddf13c8f23581@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
