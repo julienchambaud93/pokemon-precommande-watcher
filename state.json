@@ -696,7 +696,7 @@
     },
     "Outpost Brussels::15904440549710": {
       "title": "Pokémon · 30e Anniversaire - Collection Classeur - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-classeur-fr-s",
       "cat": "set_other"
@@ -2551,7 +2551,7 @@
     },
     "Pokereaves::10678953410907": {
       "title": "Pokémon 30th Anniversaire Bundle - Français",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-30th-anniversaire-bundle-francais",
       "cat": "set_other"
@@ -3804,7 +3804,7 @@
     },
     "TMS Bricks Shop::16111916876158": {
       "title": "Pokémon: Galarian Meowth – 30th Celebration (30C 141) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-galarian-meowth-30th-celebration-30c-141-einzelkarte",
       "cat": "set_other"
@@ -3821,6 +3821,55 @@
       "available": true,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-meowth-30th-celebration-30c-144-einzelkarte",
+      "cat": "set_other"
+    },
+    "Tamori Cards::16222324654405": {
+      "title": "ETB | 30TH",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tamoricards.ch/products/etb-30th",
+      "cat": "target_etb"
+    },
+    "LaschoCards::11661819019605": {
+      "title": "Pokémon TCG - 30th Celebration Figure Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-figure-collection",
+      "cat": "set_other"
+    },
+    "AmazinGames::15227491090507": {
+      "title": "Pokémon 30th Celebration Booster Bundle -IT-",
+      "available": false,
+      "lang": "EN",
+      "url": "https://amazingames.ch/products/pokemon-30th-celebration-booster-bundle-it",
+      "cat": "set_other"
+    },
+    "Pikaversum::15911579025782": {
+      "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Lumiose City Mini Tin Display (Italienisch)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-lumiose-city-mini-tin-display-italienisch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15911571751286": {
+      "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Ascended Heroes Mini Tin Display (Italienisch)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-ascended-heroes-mini-tin-display-italienisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15924522156415": {
+      "title": "30th Celebration Mini Tin + Illumina City Mini Tin DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/30th-celebration-illumina-city-mini-tin-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::15924141064575": {
+      "title": "30th Celebration Booster Bundle EN + Perfect Order Booster Bundle EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/30th-celebration-perfect-order-booster-bundle-englisch",
       "cat": "set_other"
     }
   },
