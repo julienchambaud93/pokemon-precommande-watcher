@@ -3937,7 +3937,7 @@
     },
     "Poke Swiss::16364075483523": {
       "title": "Pokémon - 2026 30th Celebrations -  Ectoplasma",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma",
       "cat": "set_other"
@@ -3951,21 +3951,21 @@
     },
     "Poke Swiss::16364067357059": {
       "title": "Pokémon - 2026 30th Celebrations - Gromago",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
       "cat": "set_other"
     },
     "Poke Swiss::16364066079107": {
       "title": "Pokémon - 2026 30th Celebrations - Artikodin",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-artikodin",
       "cat": "set_other"
     },
     "Poke Swiss::16364065554819": {
       "title": "Pokémon - 2026 30th Celebrations - Ekaiser",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ekaiser",
       "cat": "set_other"
@@ -3979,21 +3979,21 @@
     },
     "Poke Swiss::16364061000067": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu et Zekrom GX",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-et-zekrom-gx",
       "cat": "set_other"
     },
     "Poke Swiss::16364057461123": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-1",
       "cat": "set_other"
     },
     "Poke Swiss::16364056379779": {
       "title": "Pokémon - 2026 30th Celebrations - Noctali ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-noctali-ex",
       "cat": "set_other"
@@ -4014,7 +4014,7 @@
     },
     "Poke Swiss::16364037210499": {
       "title": "Pokémon - 2026 30th Celebrations - Miaouss de Galar",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss-de-galar",
       "cat": "set_other"
