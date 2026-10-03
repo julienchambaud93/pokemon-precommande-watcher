@@ -3377,7 +3377,7 @@
     },
     "PocketDex::16573779509597": {
       "title": "30 ans Pokémon - Tin Box - Nymphali - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-tin-box-nymphali-fr",
       "cat": "set_other"
@@ -3517,7 +3517,7 @@
     },
     "Pokecard Store::15561402220919": {
       "title": "Pokémon 30th Celebration Dream Drawing Pikachu Figurine Blind Box (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-dream-drawing-pikachu-figurine-blind-box-cn",
       "cat": "set_other"
@@ -4234,7 +4234,7 @@
     "EduJeu::https://edujeu.ch": []
   },
   "hb": {
-    "minuit": "2026-10-03",
+    "minuit": "2026-10-04",
     "midi": "2026-10-01"
   },
   "seeded_sites": [
