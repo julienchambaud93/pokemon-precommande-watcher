@@ -3587,7 +3587,7 @@
     },
     "TMS Bricks Shop::16104071004542": {
       "title": "Pokémon: Booster 30th Celebration – Chinesisch",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-booster-30th-celebration-chinesisch",
       "cat": "set_other"
@@ -3769,7 +3769,7 @@
     },
     "TMS Bricks Shop::16111676621182": {
       "title": "Pokémon: 30th Celebration Luxury Set Umbreon ex – Chinesisch",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-luxury-set-umbreon-ex-chinesisch-cel",
       "cat": "set_other"
@@ -3881,14 +3881,14 @@
     },
     "PocketDex::16605230203229": {
       "title": "30 ans Pokémon - Bundle - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-bundle-fr",
       "cat": "set_other"
     },
     "PocketDex::16607933661533": {
       "title": "30 ans Pokémon - Mini tin - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-mini-tin-fr",
       "cat": "set_other"
