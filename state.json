@@ -2880,7 +2880,7 @@
     },
     "Collecting Cloud::16503338991965": {
       "title": "Pokémon - Mega Evolution - 30th Celebration Poster Collection (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-poster-collection-en",
       "cat": "set_other"
@@ -3898,6 +3898,132 @@
       "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-alolan-exeggutor-30th-celebration-30c-129-einzelkarte",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364094423427": {
+      "title": "Pokémon - 2026 30th Celebrations -  Ectoplasma ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma-ex-1",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364093374851": {
+      "title": "Pokémon - 2026 30th Celebrations -  Nostenfer Niv.44",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-nostenfer-niv-44",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364092162435": {
+      "title": "Pokémon - 2026 30th Celebrations -  Raikou",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-raikou",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364090655107": {
+      "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364087280003": {
+      "title": "Pokémon - 2026 30th Celebrations -  Miaouss",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364075483523": {
+      "title": "Pokémon - 2026 30th Celebrations -  Ectoplasma",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364069880195": {
+      "title": "Pokémon - 2026 30th Celebrations - Créhelf Niv.55",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-crehelf-niv-55",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364067357059": {
+      "title": "Pokémon - 2026 30th Celebrations - Gromago",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364066079107": {
+      "title": "Pokémon - 2026 30th Celebrations - Artikodin",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-artikodin",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364065554819": {
+      "title": "Pokémon - 2026 30th Celebrations - Ekaiser",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ekaiser",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364063850883": {
+      "title": "Pokémon - 2026 30th Celebrations - Ectoplasma ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364061000067": {
+      "title": "Pokémon - 2026 30th Celebrations - Pikachu et Zekrom GX",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-et-zekrom-gx",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364057461123": {
+      "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-1",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364056379779": {
+      "title": "Pokémon - 2026 30th Celebrations - Noctali ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-noctali-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364051661187": {
+      "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364042420611": {
+      "title": "Pokémon - 2026 30th Celebrations - Ondine",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ondine",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364037210499": {
+      "title": "Pokémon - 2026 30th Celebrations - Miaouss de Galar",
+      "available": true,
+      "lang": "DE",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss-de-galar",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16364032065923": {
+      "title": "Pokémon - 2026 30th Celebrations - Lugulabre",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lugulabre",
       "cat": "set_other"
     }
   },
