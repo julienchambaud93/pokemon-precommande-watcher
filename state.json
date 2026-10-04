@@ -178,7 +178,7 @@
     },
     "LaschoCards::11337948496213": {
       "title": "Pokémon TCG - 30th Celebration Booster Pack (1. Stk)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-pack",
       "cat": "set_other"
@@ -2880,7 +2880,7 @@
     },
     "Collecting Cloud::16503338991965": {
       "title": "Pokémon - Mega Evolution - 30th Celebration Poster Collection (EN)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-poster-collection-en",
       "cat": "set_other"
@@ -3972,7 +3972,7 @@
     },
     "Poke Swiss::16364063850883": {
       "title": "Pokémon - 2026 30th Celebrations - Ectoplasma ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma-ex",
       "cat": "set_other"
@@ -4007,7 +4007,7 @@
     },
     "Poke Swiss::16364042420611": {
       "title": "Pokémon - 2026 30th Celebrations - Ondine",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ondine",
       "cat": "set_other"
