@@ -178,7 +178,7 @@
     },
     "LaschoCards::11337948496213": {
       "title": "Pokémon TCG - 30th Celebration Booster Pack (1. Stk)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-pack",
       "cat": "set_other"
@@ -3706,7 +3706,7 @@
     },
     "Pikaversum::15907003728246": {
       "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Lumiose City Mini Tin Display (Französisch)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-lumiose-city-mini-tin-display-franzosisch",
       "cat": "set_other"
@@ -3832,7 +3832,7 @@
     },
     "LaschoCards::11661819019605": {
       "title": "Pokémon TCG - 30th Celebration Figure Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-figure-collection",
       "cat": "set_other"
@@ -3867,7 +3867,7 @@
     },
     "Zadoys::15924141064575": {
       "title": "30th Celebration Booster Bundle EN + Perfect Order Booster Bundle EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-perfect-order-booster-bundle-englisch",
       "cat": "set_other"
@@ -3909,7 +3909,7 @@
     },
     "Poke Swiss::16364093374851": {
       "title": "Pokémon - 2026 30th Celebrations -  Nostenfer Niv.44",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-nostenfer-niv-44",
       "cat": "set_other"
@@ -3930,7 +3930,7 @@
     },
     "Poke Swiss::16364087280003": {
       "title": "Pokémon - 2026 30th Celebrations -  Miaouss",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss",
       "cat": "set_other"
@@ -3944,7 +3944,7 @@
     },
     "Poke Swiss::16364069880195": {
       "title": "Pokémon - 2026 30th Celebrations - Créhelf Niv.55",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-crehelf-niv-55",
       "cat": "set_other"
@@ -4021,9 +4021,23 @@
     },
     "Poke Swiss::16364032065923": {
       "title": "Pokémon - 2026 30th Celebrations - Lugulabre",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lugulabre",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16612293214557": {
+      "title": "Pokémon - 30th Celebration Mini Tin (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collecting.cloud/products/pokemon-30th-celebration-mini-tin-en",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16612289118557": {
+      "title": "Pokémon - Mega Evolution - 30th Celebration Booster Bundle (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-booster-bundle-en",
       "cat": "set_other"
     }
   },
