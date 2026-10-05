@@ -3300,7 +3300,7 @@
     },
     "Zadoys::15894508437887": {
       "title": "30th Celebration Elite Trainer Box EN + Destined Rivals Elite Trainer Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -4248,7 +4248,7 @@
     "EduJeu::https://edujeu.ch": []
   },
   "hb": {
-    "minuit": "2026-10-04",
+    "minuit": "2026-10-06",
     "midi": "2026-10-01"
   },
   "seeded_sites": [
