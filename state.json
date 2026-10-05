@@ -3706,7 +3706,7 @@
     },
     "Pikaversum::15907003728246": {
       "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Lumiose City Mini Tin Display (Französisch)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-lumiose-city-mini-tin-display-franzosisch",
       "cat": "set_other"
@@ -4401,7 +4401,8 @@
     "<4bdef3a60bbd4a04b83ef949f5611753@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<9b4bb965b61d48249bf45f283079398a@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<de83cfe3e641446a9f6ddf13c8f23581@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<582a8503c54a4e63a338196d031fc922@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<582a8503c54a4e63a338196d031fc922@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<e2de018cb99d428fa5ae8aef87b895fc@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
