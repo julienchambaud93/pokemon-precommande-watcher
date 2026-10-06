@@ -387,7 +387,7 @@
       "cat": "target_upc"
     },
     "Pokécado::11065141330262": {
-      "title": "Pokémon 30th Celebration Ultra-Premium Collection – Umbreon ex (DE)",
+      "title": "Pokémon 30th Celebration Ultra-Premium Collection Umbreon ex (DE)",
       "available": false,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ultra-premium-collection-umbreon-ex-de",
@@ -401,7 +401,7 @@
       "cat": "target_upc"
     },
     "Pokécado::11065140904278": {
-      "title": "Pokémon 30th Celebration Ultra-Premium Collection – Espeon ex (DE)",
+      "title": "Pokémon 30th Celebration Ultra-Premium Collection Espeon ex (DE)",
       "available": false,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-ultra-premium-collection-espeon-ex-de",
@@ -534,14 +534,14 @@
       "cat": "target_etb"
     },
     "Pokécado::10925652410710": {
-      "title": "Pokémon 30th Celebration Ultra-Premium Collection – Espeon ex (EN)",
+      "title": "Pokémon 30th Celebration Ultra-Premium Collection Espeon ex (EN)",
       "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-celebration-ultra-premium-collection-espeon-ex-en",
       "cat": "target_upc"
     },
     "Pokécado::10925650870614": {
-      "title": "Pokémon 30th Celebration Ultra-Premium Collection – Umbreon ex (EN)",
+      "title": "Pokémon 30th Celebration Ultra-Premium Collection Umbreon ex (EN)",
       "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-celebration-ultra-premium-collection-umbreon-ex-en",
@@ -3300,7 +3300,7 @@
     },
     "Zadoys::15894508437887": {
       "title": "30th Celebration Elite Trainer Box EN + Destined Rivals Elite Trainer Box EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -3678,14 +3678,14 @@
     },
     "MaRo Shop::15064520065400": {
       "title": "Pokémon - 30th Celebration - Mini Tin FR (1 Stk. zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-mini-tin-fr-1-stk-zufallige-auswahl",
       "cat": "set_other"
     },
     "MaRo Shop::15064519344504": {
       "title": "Pokémon - 30th Celebration - Booster Bundle FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-booster-bundle-fr",
       "cat": "set_other"
@@ -3867,7 +3867,7 @@
     },
     "Zadoys::15924141064575": {
       "title": "30th Celebration Booster Bundle EN + Perfect Order Booster Bundle EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-perfect-order-booster-bundle-englisch",
       "cat": "set_other"
@@ -3902,7 +3902,7 @@
     },
     "Poke Swiss::16364094423427": {
       "title": "Pokémon - 2026 30th Celebrations -  Ectoplasma ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma-ex-1",
       "cat": "set_other"
@@ -3916,7 +3916,7 @@
     },
     "Poke Swiss::16364092162435": {
       "title": "Pokémon - 2026 30th Celebrations -  Raikou",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-raikou",
       "cat": "set_other"
@@ -4000,7 +4000,7 @@
     },
     "Poke Swiss::16364051661187": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex",
       "cat": "set_other"
@@ -4073,6 +4073,34 @@
       "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-3-pack-blister-englisch",
+      "cat": "set_other"
+    },
+    "PikaStore::15916515066230": {
+      "title": "🟣[PRÉCO] Pokémon (EN) - Collections Ultra-Premium - Journée / Soirée - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-en-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire",
+      "cat": "target_upc"
+    },
+    "PikaStore::15916514509174": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Collections Ultra-Premium - Journée / Soirée - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire",
+      "cat": "target_upc"
+    },
+    "Zadoys::15935028167039": {
+      "title": "30th Celebration Sylveon ex Tin + First Partner Illustration Collection 2 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-sylveon-ex-tin-first-partner-illustration-collection-2-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::15935017550207": {
+      "title": "30th Celebration Greninja ex Tin + First Partner Illustration Collection 2 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-greninja-ex-tin-first-partner-illustration-collection-2-englisch",
       "cat": "set_other"
     }
   },
@@ -4457,7 +4485,8 @@
     "<9b4bb965b61d48249bf45f283079398a@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<de83cfe3e641446a9f6ddf13c8f23581@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<582a8503c54a4e63a338196d031fc922@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<e2de018cb99d428fa5ae8aef87b895fc@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<e2de018cb99d428fa5ae8aef87b895fc@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<a1030f946dce4a1583f24a92e4c8700c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
