@@ -843,7 +843,7 @@
     },
     "Outpost Brussels::15904439140686": {
       "title": "Pokémon · 30th Celebration - 2-Pack Blister Eevee - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-2-pack-blister-eevee-en-s",
       "cat": "set_other"
@@ -871,7 +871,7 @@
     },
     "Outpost Brussels::15904440058190": {
       "title": "Pokémon · 30th Celebration - Sylveon ex Box - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-sylveon-ex-box-en-s",
       "cat": "set_other"
@@ -1459,7 +1459,7 @@
     },
     "Outpost Brussels::15979924980046": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Sylveon ex - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-sylveon-ex-en",
       "cat": "set_other"
@@ -2838,7 +2838,7 @@
     },
     "Collecting Cloud::16503304454493": {
       "title": "Pokémon - Mega Evolution - 30th Celebration Futuristic Box (JPN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-futuristic-box-jpn",
       "cat": "set_other"
@@ -4028,7 +4028,7 @@
     },
     "Collecting Cloud::16612293214557": {
       "title": "Pokémon - 30th Celebration Mini Tin (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://collecting.cloud/products/pokemon-30th-celebration-mini-tin-en",
       "cat": "set_other"
