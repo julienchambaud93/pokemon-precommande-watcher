@@ -4149,7 +4149,12 @@
       "ultra premium collection\",\"handle\":\"pokemon tcg 30th"
     ],
     "TMS Bricks Shop::https://tmsbricksshop.ch/search?q=30th%20celebration": [],
-    "PocketDex::https://pocketdex.ch/search?q=30th%20celebration": [],
+    "PocketDex::https://pocketdex.ch/search?q=30th%20celebration": [
+      "30 ans pokemon elite trainer",
+      "elite trainer box\" data tags=\"30 ans",
+      "elite trainer box\",\"handle\":\"30 ans",
+      "etb 30 ans"
+    ],
     "Pokereaves::https://www.pokereaves.ch/search?q=30th%20celebration": [
       "30th anniversary elite trainer box (etb",
       "30th anniversary elite trainer box etb",
@@ -4366,7 +4371,8 @@
     "MaRo Shop::https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-en": "out",
     "Naxoria::https://naxoria.ch/produkt/pokemon-30th-celebration-elite-trainer-box-en/": "in",
     "Zadoys::https://zadoys.ch/products/30th-celebration-top-trainer-box-mega-quajutsu-ex-premium-kollektion-de": "out",
-    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-omptimale-ordnung-deutsch": "out"
+    "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-omptimale-ordnung-deutsch": "out",
+    "PocketDex::https://pocketdex.ch/products/30-ans-pokemon-elite-trainer-box-fr": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
