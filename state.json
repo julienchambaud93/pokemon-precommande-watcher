@@ -4060,6 +4060,13 @@
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-checklane-blister-englisch",
       "cat": "set_other"
+    },
+    "Zadoys::15909047796095": {
+      "title": "Delta Reign Booster Bundle EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-booster-bundle-englisch",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -4275,7 +4282,7 @@
   },
   "hb": {
     "minuit": "2026-10-06",
-    "midi": "2026-10-01"
+    "midi": "2026-10-06"
   },
   "seeded_sites": [
     "Pokecard Store",
