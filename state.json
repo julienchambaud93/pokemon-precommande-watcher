@@ -2551,7 +2551,7 @@
     },
     "Pokereaves::10678953410907": {
       "title": "Pokémon 30th Anniversaire Bundle - Français",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-30th-anniversaire-bundle-francais",
       "cat": "set_other"
@@ -3762,7 +3762,7 @@
     },
     "TMS Bricks Shop::16111676653950": {
       "title": "Pokémon: 30th Celebration Card Showcase Set Greninja ex – Chinesisch",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-card-showcase-set-greninja-ex-chinesisch-cel",
       "cat": "set_other"
@@ -3930,7 +3930,7 @@
     },
     "Poke Swiss::16364087280003": {
       "title": "Pokémon - 2026 30th Celebrations -  Miaouss",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss",
       "cat": "set_other"
@@ -3951,7 +3951,7 @@
     },
     "Poke Swiss::16364067357059": {
       "title": "Pokémon - 2026 30th Celebrations - Gromago",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
       "cat": "set_other"
@@ -3965,7 +3965,7 @@
     },
     "Poke Swiss::16364065554819": {
       "title": "Pokémon - 2026 30th Celebrations - Ekaiser",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ekaiser",
       "cat": "set_other"
@@ -4021,7 +4021,7 @@
     },
     "Poke Swiss::16364032065923": {
       "title": "Pokémon - 2026 30th Celebrations - Lugulabre",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lugulabre",
       "cat": "set_other"
@@ -4199,6 +4199,146 @@
       "available": true,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-lavados-30-jahre-30c-130-einzelkarte",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370708087171": {
+      "title": "Pokémon - 2026 30th Celebrations - Chochodile Ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-salarsen-copie",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370703663491": {
+      "title": "Pokémon - 2026 30th Celebrations - Salarsen",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baudrive-copie",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370695700867": {
+      "title": "Pokémon - 2026 30th Celebrations - Baudrive",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baudrive",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370687017347": {
+      "title": "Pokémon - 2026 30th Celebrations - Farfuret",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-n-copie",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370682528131": {
+      "title": "Pokémon - 2026 30th Celebrations - N",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-n",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370679513475": {
+      "title": "Pokémon - 2026 30th Celebrations - Tyranocif Obscur",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-tyranocif-obscur",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370669748611": {
+      "title": "Pokémon - 2026 30th Celebrations - Solgaleo Gx",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-jirachi-ex-copie",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370667684227": {
+      "title": "Pokémon - 2026 30th Celebrations - Jirachi Ex",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-jirachi-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370664178051": {
+      "title": "Pokémon - 2026 30th Celebrations - Lycanroc",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lycanroc",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370659393923": {
+      "title": "Pokémon - 2026 30th Celebrations - Delcatty",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-delcatty",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370656936323": {
+      "title": "Pokémon - 2026 30th Celebrations - Electhor",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura-copie-1",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370654904707": {
+      "title": "Pokémon - 2026 30th Celebrations - Morpeko",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-drattak-ex-copie",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370647859587": {
+      "title": "Pokémon - 2026 30th Celebrations - Drattak Ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-copie",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370641699203": {
+      "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-2",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370632655235": {
+      "title": "Pokémon - 2026 30th Celebrations - Nidorina",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura-copie",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370616893827": {
+      "title": "Pokémon - 2026 30th Celebrations - Sulfura",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370612601219": {
+      "title": "Pokémon - 2026 30th Celebrations - Miaouss d'Alola",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss-dalola",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16370604835203": {
+      "title": "Pokémon - 2026 30th Celebrations - Baggiguane",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baggiguane",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15065550029176": {
+      "title": "Pokémon Prerelease Turnier - Delta Reign - Samstag 24.10.2026 / 17:00 Uhr",
+      "available": true,
+      "lang": "?",
+      "url": "https://www.maro-shop.ch/products/pokemon-prerelease-turnier-delta-reign-samstag-24-10-2026-17-00-uhr",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15065553371512": {
+      "title": "Pokémon Prerelease Turnier - Delta Reign - Dienstag 27.10.2026 / 19:00 Uhr",
+      "available": true,
+      "lang": "?",
+      "url": "https://www.maro-shop.ch/products/pokemon-prerelease-turnier-delta-reign-dienstag-27-10-2026-19-00-uhr",
       "cat": "set_other"
     }
   },
