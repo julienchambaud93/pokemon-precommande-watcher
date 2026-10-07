@@ -3104,14 +3104,14 @@
     },
     "Cardmaniac::8697601425583": {
       "title": "Pokémon TCG – Espeon ex & Umbreon ex 30th Celebration Premium Deck Set",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-espeon-ex-umbreon-ex-30th-celebration-premium-deck-set",
       "cat": "set_other"
     },
     "Cardmaniac::8697568133295": {
       "title": "Pokémon TCG – 30th Celebration Booster Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-box",
       "cat": "set_other"
@@ -3986,7 +3986,7 @@
     },
     "Poke Swiss::16364057461123": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-1",
       "cat": "set_other"
@@ -4203,7 +4203,7 @@
     },
     "Poke Swiss::16370708087171": {
       "title": "Pokémon - 2026 30th Celebrations - Chochodile Ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-salarsen-copie",
       "cat": "set_other"
@@ -4301,7 +4301,7 @@
     },
     "Poke Swiss::16370632655235": {
       "title": "Pokémon - 2026 30th Celebrations - Nidorina",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura-copie",
       "cat": "set_other"
