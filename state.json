@@ -2186,7 +2186,7 @@
       "cat": "set_other"
     },
     "Pokereaves::10334437769563": {
-      "title": "Pre-order Pokemon Mega 30th anniversary Elite Trainer Box (ETB) - ENGLISH",
+      "title": "Pokemon Mega 30th anniversary Elite Trainer Box (ETB) - ENGLISH",
       "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-pokemon-mega-30th-anniversary-elite-trainer-box-etb-english",
@@ -2571,14 +2571,14 @@
       "cat": "set_other"
     },
     "Poke Swiss::16175004582275": {
-      "title": "[Précommande] 30th Celebration Mini Tins FR/EN",
+      "title": "Pokémon - 30th Celebration Mini Tins FR/EN",
       "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-30th-celebration-mini-tins-fr-en",
       "cat": "target_etb"
     },
     "Poke Swiss::16174970896771": {
-      "title": "[Précommande] Pokémon 30th Celebration Booster Bundle FR/EN",
+      "title": "Pokémon - 30th Celebration Booster Bundle FR/EN",
       "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-booster-bundle-fr-en",
@@ -3986,7 +3986,7 @@
     },
     "Poke Swiss::16364057461123": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-1",
       "cat": "set_other"
@@ -4021,7 +4021,7 @@
     },
     "Poke Swiss::16364032065923": {
       "title": "Pokémon - 2026 30th Celebrations - Lugulabre",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lugulabre",
       "cat": "set_other"
@@ -4238,7 +4238,7 @@
     },
     "Poke Swiss::16370679513475": {
       "title": "Pokémon - 2026 30th Celebrations - Tyranocif Obscur",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-tyranocif-obscur",
       "cat": "set_other"
@@ -4280,21 +4280,21 @@
     },
     "Poke Swiss::16370654904707": {
       "title": "Pokémon - 2026 30th Celebrations - Morpeko",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-drattak-ex-copie",
       "cat": "set_other"
     },
     "Poke Swiss::16370647859587": {
       "title": "Pokémon - 2026 30th Celebrations - Drattak Ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-copie",
       "cat": "set_other"
     },
     "Poke Swiss::16370641699203": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-2",
       "cat": "set_other"
@@ -4339,6 +4339,34 @@
       "available": true,
       "lang": "?",
       "url": "https://www.maro-shop.ch/products/pokemon-prerelease-turnier-delta-reign-dienstag-27-10-2026-19-00-uhr",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16123083391358": {
+      "title": "Pokémon: Pikachu – 30th Celebration – Einzelkarte (zufällige Sprache)",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-einzelkarte-zufallige-sprache",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16123013300606": {
+      "title": "Pokémon: Fuecoco ex – 30th Celebration (30C 147) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-fuecoco-ex-30th-celebration-30c-147-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16122995474814": {
+      "title": "Pokémon: Alolan Meowth – 30th Celebration (30C 115) AR – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-alolan-meowth-30th-celebration-30c-115-ar-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16122995409278": {
+      "title": "Pokémon: Hisuian Zorua – 30th Celebration (30C 122) AR – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-hisuian-zorua-30th-celebration-30c-122-ar-einzelkarte",
       "cat": "set_other"
     }
   },
@@ -4557,7 +4585,7 @@
   },
   "hb": {
     "minuit": "2026-10-06",
-    "midi": "2026-10-06"
+    "midi": "2026-10-08"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -4729,7 +4757,8 @@
     "<e2de018cb99d428fa5ae8aef87b895fc@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<a1030f946dce4a1583f24a92e4c8700c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<d53798d1a2c44025887dfff77b2f4ab2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<079230781c7f423ea6d5f132fbe6320c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<079230781c7f423ea6d5f132fbe6320c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<4c7e78328af946dfb8c0a0988b72cab2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
