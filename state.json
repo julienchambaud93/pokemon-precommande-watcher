@@ -1011,7 +1011,7 @@
     },
     "MaRo Shop::15038202511736": {
       "title": "Pokémon - 30 Jahre - EX Kollektion DE (1 Stk. zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ex-kollektion-de-1-stk-zufallige-auswahl",
       "cat": "set_other"
@@ -3300,7 +3300,7 @@
     },
     "Zadoys::15894508437887": {
       "title": "30th Celebration Elite Trainer Box EN + Destined Rivals Elite Trainer Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -4210,7 +4210,7 @@
     },
     "Poke Swiss::16370703663491": {
       "title": "Pokémon - 2026 30th Celebrations - Salarsen",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baudrive-copie",
       "cat": "set_other"
@@ -4367,6 +4367,41 @@
       "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-hisuian-zorua-30th-celebration-30c-122-ar-einzelkarte",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15571273318775": {
+      "title": "Pokémon 30th Celebration (M6a) Booster Pack (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-pack-cn-1",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15066342883704": {
+      "title": "Pokémon - Delta Reign - Elite Trainer Box ETB EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-elite-trainer-box-etb-en",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15066341671288": {
+      "title": "Pokémon - Delta Herrschaft - Top-Trainer Box TTB DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-delta-herrschaft-top-trainer-box-ttb-de",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15066341015928": {
+      "title": "Pokémon - Delta Herrschaft - Booster Display DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-delta-herrschaft-booster-display-de",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15066339705208": {
+      "title": "Pokémon - Delta Reign - Booster Display EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-booster-display-en",
       "cat": "set_other"
     }
   },
