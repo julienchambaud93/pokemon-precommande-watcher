@@ -3111,7 +3111,7 @@
     },
     "Cardmaniac::8697568133295": {
       "title": "Pokémon TCG – 30th Celebration Booster Box",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-box",
       "cat": "set_other"
@@ -3776,7 +3776,7 @@
     },
     "TMS Bricks Shop::16111676588414": {
       "title": "Pokémon: 30th Celebration Luxury Set Espeon ex – Chinesisch",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-luxury-set-espeon-ex-chinesisch-cel",
       "cat": "set_other"
@@ -3951,7 +3951,7 @@
     },
     "Poke Swiss::16364067357059": {
       "title": "Pokémon - 2026 30th Celebrations - Gromago",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
       "cat": "set_other"
@@ -4287,7 +4287,7 @@
     },
     "Poke Swiss::16370647859587": {
       "title": "Pokémon - 2026 30th Celebrations - Drattak Ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-copie",
       "cat": "set_other"
@@ -4793,7 +4793,8 @@
     "<a1030f946dce4a1583f24a92e4c8700c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<d53798d1a2c44025887dfff77b2f4ab2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<079230781c7f423ea6d5f132fbe6320c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<4c7e78328af946dfb8c0a0988b72cab2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<4c7e78328af946dfb8c0a0988b72cab2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<7d7e7757438f4dcab2f7fa310c44e7c1@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
