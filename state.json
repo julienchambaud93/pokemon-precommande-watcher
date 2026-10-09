@@ -318,14 +318,14 @@
     },
     "Pokécado::11065171804502": {
       "title": "Pokémon 30th Celebration Figure Collection – Mew (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-figure-collection-mew-en",
       "cat": "set_other"
     },
     "Pokécado::11065169772886": {
       "title": "Pokémon 30th Celebration Figure Collection – Mewtwo (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-figure-collection-mewtwo-en",
       "cat": "set_other"
@@ -339,7 +339,7 @@
     },
     "Pokécado::11065160040790": {
       "title": "Pokémon 30th Celebration Figure Collection – Mewtwo (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-figure-collection-mewtwo-de",
       "cat": "set_other"
@@ -353,7 +353,7 @@
     },
     "Pokécado::11065159483734": {
       "title": "Pokémon 30th Celebration Figure Collection – Mew (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-figure-collection-mew-de",
       "cat": "set_other"
@@ -2061,7 +2061,7 @@
     },
     "Pokécado::11142696796502": {
       "title": "Pokémon Delta Reign Booster Display (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-delta-reign-booster-display-de",
       "cat": "set_other"
@@ -2075,21 +2075,21 @@
     },
     "Pokécado::11142691750230": {
       "title": "Pokémon Delta Reign Elite Trainer Box (FR)",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.pokecado.ch/products/pokemon-delta-reign-elite-trainer-box-fr",
       "cat": "target_etb"
     },
     "Pokécado::11142691127638": {
       "title": "Pokémon Delta Reign Elite Trainer Box (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-delta-reign-elite-trainer-box-de",
       "cat": "target_etb"
     },
     "Pokécado::11142690505046": {
       "title": "Pokémon Delta Reign Elite Trainer Box (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-delta-reign-elite-trainer-box-en",
       "cat": "target_etb"
