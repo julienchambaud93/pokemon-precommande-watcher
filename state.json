@@ -2579,7 +2579,7 @@
     },
     "Poke Swiss::16174970896771": {
       "title": "Pokémon - 30th Celebration Booster Bundle FR/EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-booster-bundle-fr-en",
       "cat": "target_etb"
@@ -4416,6 +4416,20 @@
       "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-zekrom-gx-30th-celebration-30c-160-einzelkarte",
+      "cat": "set_other"
+    },
+    "Pikaversum::15927018160502": {
+      "title": "Pokémon TCG: Mega Evolution-Delta Reign Elite Trainer Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-delta-reign-elite-trainer-box",
+      "cat": "target_etb"
+    },
+    "Pikaversum::15927014031734": {
+      "title": "Pokémon TCG: Mega Evolution-Delta Reign Booster Display Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-delta-reign-booster-display-box",
       "cat": "set_other"
     }
   },
