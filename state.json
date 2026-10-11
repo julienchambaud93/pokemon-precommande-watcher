@@ -500,7 +500,7 @@
     },
     "Pokécado::10939198800214": {
       "title": "Pokémon 30th Celebration Poster Collection (EN)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-poster-collection-en",
       "cat": "set_other"
@@ -1018,7 +1018,7 @@
     },
     "MaRo Shop::15038201659768": {
       "title": "Pokémon - 30th Celebration - 2-Pack Blister EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-2-pack-blister-en",
       "cat": "set_other"
@@ -3587,7 +3587,7 @@
     },
     "TMS Bricks Shop::16104071004542": {
       "title": "Pokémon: Booster 30th Celebration – Chinesisch",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-booster-30th-celebration-chinesisch",
       "cat": "set_other"
@@ -3762,21 +3762,21 @@
     },
     "TMS Bricks Shop::16111676653950": {
       "title": "Pokémon: 30th Celebration Card Showcase Set Greninja ex – Chinesisch",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-card-showcase-set-greninja-ex-chinesisch-cel",
       "cat": "set_other"
     },
     "TMS Bricks Shop::16111676621182": {
       "title": "Pokémon: 30th Celebration Luxury Set Umbreon ex – Chinesisch",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-luxury-set-umbreon-ex-chinesisch-cel",
       "cat": "set_other"
     },
     "TMS Bricks Shop::16111676588414": {
       "title": "Pokémon: 30th Celebration Luxury Set Espeon ex – Chinesisch",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-luxury-set-espeon-ex-chinesisch-cel",
       "cat": "set_other"
@@ -4445,6 +4445,20 @@
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-aventures-ensemble-booster-display-franzosisch",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16127754600830": {
+      "title": "Pokémon: 30th Celebration Futuristic Collectors Box – Chinesisch",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-futuristic-collectors-box-chinesisch-cel",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16127678316926": {
+      "title": "Pokémon TCG: Display 30th Celebration – Chinesisch",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-display-30th-celebration-chinesisch-cel",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -4837,7 +4851,9 @@
     "<079230781c7f423ea6d5f132fbe6320c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<4c7e78328af946dfb8c0a0988b72cab2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<7d7e7757438f4dcab2f7fa310c44e7c1@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<9b5fc4c147d74e19a606b237c623fbe3@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<9b5fc4c147d74e19a606b237c623fbe3@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<48e18a04dab9455795b397db9cbf6680@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<987b1529f82f42dc8eb549e0e8e1c24e@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
