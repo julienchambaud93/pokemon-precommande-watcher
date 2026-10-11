@@ -4618,7 +4618,10 @@
     "Coin-Op::https://www.coin-op.ch": [],
     "Mighty Games::https://www.mightygames.ch": [],
     "Mix-Image::https://mix-image.ch": [
-      "30th celebration elite trainer"
+      "30th celebration elite trainer",
+      "30th celebration ultra premium",
+      "delta reign elite trainer",
+      "delta reign&rsquo; elite trainer"
     ],
     "Au Paradis du Jeu::https://auparadisdujeu.ch": [],
     "Les 400 Coups::https://www.400coups.ch": [],
@@ -4795,7 +4798,9 @@
     "Zadoys::https://zadoys.ch/products/30th-celebration-top-trainer-box-mega-quajutsu-ex-premium-kollektion-de": "out",
     "Zadoys::https://zadoys.ch/products/pokemon-mega-series-30th-celebration-top-trainer-box-omptimale-ordnung-deutsch": "out",
     "PocketDex::https://pocketdex.ch/products/30-ans-pokemon-elite-trainer-box-fr": "out",
-    "Toytans::https://www.toytans.ch/de/pokemon-spezial-kollektionen/2922-pokemon-me055-30th-celebration-ultra-premium-collection-en-196214144903.html": "in"
+    "Toytans::https://www.toytans.ch/de/pokemon-spezial-kollektionen/2922-pokemon-me055-30th-celebration-ultra-premium-collection-en-196214144903.html": "in",
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-journee-fr/": "out",
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-me06-delta-reign-elite-trainer-box-en/": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
