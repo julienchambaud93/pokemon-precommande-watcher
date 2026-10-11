@@ -1788,7 +1788,7 @@
     },
     "PokeFaust::15528542732663": {
       "title": "Pokémon TCG 30th Celebration Poster Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-poster-collection",
       "cat": "set_other"
@@ -4458,6 +4458,13 @@
       "available": true,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-display-30th-celebration-chinesisch-cel",
+      "cat": "set_other"
+    },
+    "Detsuki::16081977573720": {
+      "title": "Pokémon 30th Celebration Dream Figure Pikachu Set Blind Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-30th-celebration-dream-figure-pikachu-set-blind-box",
       "cat": "set_other"
     }
   },
