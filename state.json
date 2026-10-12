@@ -3034,7 +3034,7 @@
     },
     "Collectors Deal::15663026110788": {
       "title": "Pokémon 30th Celebration Battle Deck Espeon EX FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-battle-deck-espeon-ex-fr",
       "cat": "set_other"
@@ -4091,7 +4091,7 @@
     },
     "Zadoys::15935028167039": {
       "title": "30th Celebration Sylveon ex Tin + First Partner Illustration Collection 2 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-sylveon-ex-tin-first-partner-illustration-collection-2-englisch",
       "cat": "set_other"
@@ -4287,7 +4287,7 @@
     },
     "Poke Swiss::16370647859587": {
       "title": "Pokémon - 2026 30th Celebrations - Drattak Ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-copie",
       "cat": "set_other"
@@ -4472,6 +4472,27 @@
       "available": true,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-monetigo-30-jahre-30c-142-einzelkarte-bt",
+      "cat": "set_other"
+    },
+    "PokeFaust::15573989359991": {
+      "title": "Pokémon TCG: ME06 Booster Bundle English (6 Packs) Wave 2",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pokefaust.com/products/pokemon-tcg-me06-booster-bundle-english-6-packs-wave-2",
+      "cat": "set_other"
+    },
+    "PokeFaust::15573979595127": {
+      "title": "Pokémon TCG: ME06 Booster Bundle English (6 Packs)",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pokefaust.com/products/pokemon-tcg-me06-booster-bundle-english-6-packs",
+      "cat": "set_other"
+    },
+    "PokeFaust::15573962522999": {
+      "title": "Pokémon TCG: 30th Celebration Battle Deck Collection 2026 – Espeon and Umbreon Bundle (2 Decks)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-battle-deck-collection-2026-espeon-and-umbreon-bundle-2-decks",
       "cat": "set_other"
     }
   },
@@ -4877,7 +4898,10 @@
     "<48e18a04dab9455795b397db9cbf6680@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<987b1529f82f42dc8eb549e0e8e1c24e@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<72784df668434d15b595a8fda4e3681c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<1cd61341357945938623fca314513984@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<1cd61341357945938623fca314513984@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<bfa09fa0626e437698fb5dfa0e32566a@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<229e1d3da4da42089c315ee43c899e27@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<4b273d9d0b56484cac9a84896429bc38@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
