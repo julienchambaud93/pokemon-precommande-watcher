@@ -934,7 +934,7 @@
     },
     "MaRo Shop::15038250746232": {
       "title": "Pokémon - 30th Celebration - EX Tin Box EN (1 Stk. zufällige Auswahl)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-en-1-stk-zufallige-auswahl-1",
       "cat": "set_other"
@@ -2481,7 +2481,7 @@
     },
     "SkySpell::15737412845945": {
       "title": "Pokémon 30th Anniversary Coin set | Simplified Chinese",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-anniversary-coin-set-simplified-chinese",
       "cat": "set_other"
@@ -4466,6 +4466,13 @@
       "lang": "?",
       "url": "https://detsuki.ch/products/pokemon-30th-celebration-dream-figure-pikachu-set-blind-box",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16128702218622": {
+      "title": "Pokémon: Monetigo – 30 Jahre (30C 142) – Einzelkarte",
+      "available": true,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-monetigo-30-jahre-30c-142-einzelkarte-bt",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -4868,7 +4875,9 @@
     "<7d7e7757438f4dcab2f7fa310c44e7c1@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<9b5fc4c147d74e19a606b237c623fbe3@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<48e18a04dab9455795b397db9cbf6680@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<987b1529f82f42dc8eb549e0e8e1c24e@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<987b1529f82f42dc8eb549e0e8e1c24e@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<72784df668434d15b595a8fda4e3681c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<1cd61341357945938623fca314513984@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
