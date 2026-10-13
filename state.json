@@ -3685,7 +3685,7 @@
     },
     "MaRo Shop::15064519344504": {
       "title": "Pokémon - 30th Celebration - Booster Bundle FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-booster-bundle-fr",
       "cat": "set_other"
@@ -4926,7 +4926,8 @@
     "<229e1d3da4da42089c315ee43c899e27@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<4b273d9d0b56484cac9a84896429bc38@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<16d1e4c803654db7bec2330549d54e1b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<fe6340980d7d4ae2b855b4c82534114e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<fe6340980d7d4ae2b855b4c82534114e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<3fb2094583544cadb9ca7534d9b0f807@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
