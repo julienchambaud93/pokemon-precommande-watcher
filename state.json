@@ -1018,7 +1018,7 @@
     },
     "MaRo Shop::15038201659768": {
       "title": "Pokémon - 30th Celebration - 2-Pack Blister EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-2-pack-blister-en",
       "cat": "set_other"
@@ -3951,7 +3951,7 @@
     },
     "Poke Swiss::16364067357059": {
       "title": "Pokémon - 2026 30th Celebrations - Gromago",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
       "cat": "set_other"
@@ -4091,14 +4091,14 @@
     },
     "Zadoys::15935028167039": {
       "title": "30th Celebration Sylveon ex Tin + First Partner Illustration Collection 2 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-sylveon-ex-tin-first-partner-illustration-collection-2-englisch",
       "cat": "set_other"
     },
     "Zadoys::15935017550207": {
       "title": "30th Celebration Greninja ex Tin + First Partner Illustration Collection 2 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-greninja-ex-tin-first-partner-illustration-collection-2-englisch",
       "cat": "set_other"
@@ -4322,7 +4322,7 @@
     },
     "Poke Swiss::16370604835203": {
       "title": "Pokémon - 2026 30th Celebrations - Baggiguane",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baggiguane",
       "cat": "set_other"
@@ -4508,6 +4508,13 @@
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-herrschaft-booster-bundle-de",
       "cat": "set_other"
+    },
+    "PokeFaust::15494469190007": {
+      "title": "Pokémon ME06 Delta Reign Elite Trainer Box",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-me06-delta-reign-elite-trainer-box",
+      "cat": "target_etb"
     }
   },
   "html": {
@@ -4529,7 +4536,9 @@
     "The Uncommon Shop::https://theuncommonshop.ch/?s=30th+celebration&post_type=product": [
       "30th celebration &#8211; ultra premium",
       "30th celebration (me5.5) &#8211; elite trainer",
+      "30th celebration (me5.5) &#8211; ultra premium",
       "30th celebration (me5.5) elite trainer",
+      "30th celebration (me5.5) ultra premium",
       "30th celebration etb",
       "30th celebration me5 5 elite trainer",
       "30th celebration ultra premium"
