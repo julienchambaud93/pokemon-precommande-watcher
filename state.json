@@ -2012,7 +2012,7 @@
     },
     "Pikaversum::15840202391926": {
       "title": "Pokémon TCG: 30th Celebration Poster Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-poster-collection",
       "cat": "set_other"
@@ -2579,7 +2579,7 @@
     },
     "Poke Swiss::16174970896771": {
       "title": "Pokémon - 30th Celebration Booster Bundle FR/EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-booster-bundle-fr-en",
       "cat": "target_etb"
@@ -4259,7 +4259,7 @@
     },
     "Poke Swiss::16370664178051": {
       "title": "Pokémon - 2026 30th Celebrations - Lycanroc",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lycanroc",
       "cat": "set_other"
@@ -4740,7 +4740,7 @@
   },
   "hb": {
     "minuit": "2026-10-14",
-    "midi": "2026-10-12"
+    "midi": "2026-10-14"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -4927,7 +4927,9 @@
     "<4b273d9d0b56484cac9a84896429bc38@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<16d1e4c803654db7bec2330549d54e1b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<fe6340980d7d4ae2b855b4c82534114e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<3fb2094583544cadb9ca7534d9b0f807@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<3fb2094583544cadb9ca7534d9b0f807@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<97f29dd6e05d4183bc6475d261fadc8e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<83d8b6972af242ebbe3f271313092b22@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
