@@ -4649,7 +4649,9 @@
       "etb coffret dresseur d'elite me05.5 30e",
       "etb coffret dresseur delite me05 5 30e"
     ],
-    "Mix-Image::https://mix-image.ch/?s=30th+celebration&post_type=product": [],
+    "Mix-Image::https://mix-image.ch/?s=30th+celebration&post_type=product": [
+      "30th celebration ultra premium"
+    ],
     "EduJeu::https://edujeu.ch/?s=30th+celebration&post_type=product": [],
     "Tanigami::https://tanigami.ch/?s=30th+celebration&post_type=product": [],
     "Mighty Games::https://www.mightygames.ch/fr/recherche?controller=search&s=30th%20celebration": [],
@@ -4861,7 +4863,8 @@
     "PocketDex::https://pocketdex.ch/products/30-ans-pokemon-elite-trainer-box-fr": "out",
     "Toytans::https://www.toytans.ch/de/pokemon-spezial-kollektionen/2922-pokemon-me055-30th-celebration-ultra-premium-collection-en-196214144903.html": "in",
     "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-journee-fr/": "out",
-    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-me06-delta-reign-elite-trainer-box-en/": "out"
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-me06-delta-reign-elite-trainer-box-en/": "out",
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-soiree-fr/": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
