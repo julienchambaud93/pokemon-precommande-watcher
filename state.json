@@ -3223,7 +3223,7 @@
     },
     "PocketDex::16553535635805": {
       "title": "30 ans Pokémon - Duo Pack - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-duo-pack-fr",
       "cat": "set_other"
@@ -3244,7 +3244,7 @@
     },
     "PocketDex::16553504997725": {
       "title": "30 ans Pokémon - Collection Poster - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-collection-poster-fr",
       "cat": "set_other"
@@ -3888,7 +3888,7 @@
     },
     "PocketDex::16607933661533": {
       "title": "30 ans Pokémon - Mini tin - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-mini-tin-fr",
       "cat": "set_other"
