@@ -3299,8 +3299,8 @@
       "cat": "set_other"
     },
     "Zadoys::15894508437887": {
-      "title": "30th Celebration Elite Trainer Box EN + Destined Rivals Elite Trainer Box EN",
-      "available": false,
+      "title": "30th Celebration Elite Trainer Box EN + Chaos Rising Elite Trainer Box EN",
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -3678,7 +3678,7 @@
     },
     "MaRo Shop::15064520065400": {
       "title": "Pokémon - 30th Celebration - Mini Tin FR (1 Stk. zufällige Auswahl)",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-mini-tin-fr-1-stk-zufallige-auswahl",
       "cat": "set_other"
