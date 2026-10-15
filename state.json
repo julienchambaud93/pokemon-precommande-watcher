@@ -682,7 +682,7 @@
     },
     "Outpost Brussels::15904440910158": {
       "title": "Pokémon · 30e Anniversaire - Bundle 6 Boosters - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-bundle-6-boosters-fr-s",
       "cat": "set_other"
@@ -3244,7 +3244,7 @@
     },
     "PocketDex::16553504997725": {
       "title": "30 ans Pokémon - Collection Poster - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-collection-poster-fr",
       "cat": "set_other"
@@ -4742,7 +4742,7 @@
   },
   "hb": {
     "minuit": "2026-10-15",
-    "midi": "2026-10-14"
+    "midi": "2026-10-15"
   },
   "seeded_sites": [
     "Pokecard Store",
