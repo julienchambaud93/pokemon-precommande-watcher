@@ -4497,14 +4497,14 @@
     },
     "MaRo Shop::15067375698296": {
       "title": "Pokémon - Delta Reign - Booster Bundle EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-booster-bundle-en",
       "cat": "set_other"
     },
     "MaRo Shop::15067379433848": {
       "title": "Pokémon - Delta Herrschaft - Booster Bundle DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-herrschaft-booster-bundle-de",
       "cat": "set_other"
