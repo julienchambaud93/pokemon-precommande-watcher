@@ -444,7 +444,7 @@
     },
     "Pokécado::10939283407190": {
       "title": "Pokémon 30th Celebration Mini Tin (EN)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-mini-tin-en",
       "cat": "set_other"
@@ -1046,7 +1046,7 @@
     },
     "MaRo Shop::15038199562616": {
       "title": "Pokémon - 30th Celebration - Booster Bundle EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-booster-bundle-en",
       "cat": "set_other"
@@ -4441,7 +4441,7 @@
     },
     "Pikaversum::15927957881206": {
       "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Aventures Ensemble Booster Display (Französisch)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-aventures-ensemble-booster-display-franzosisch",
       "cat": "set_other"
@@ -4933,7 +4933,9 @@
     "<3fb2094583544cadb9ca7534d9b0f807@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<97f29dd6e05d4183bc6475d261fadc8e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<83d8b6972af242ebbe3f271313092b22@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<82e4ed8258dc4b0c95938ad233baa725@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<82e4ed8258dc4b0c95938ad233baa725@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<2a920fa91245427a8bd6f6d26f8d2889@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<c98c13eb4be64041870b5fe9b25ec89a@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
