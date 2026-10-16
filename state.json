@@ -696,7 +696,7 @@
     },
     "Outpost Brussels::15904440549710": {
       "title": "Pokémon · 30e Anniversaire - Collection Classeur - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-classeur-fr-s",
       "cat": "set_other"
@@ -738,7 +738,7 @@
     },
     "Outpost Brussels::15904442548558": {
       "title": "Pokémon · 30e Anniversaire - Coffret Premium Métamorph - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-premium-metamorph-fr-s",
       "cat": "set_other"
@@ -766,7 +766,7 @@
     },
     "Outpost Brussels::15904443400526": {
       "title": "Pokémon · 30e Anniversaire - Collection Ultra Noctali Ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-ultra-premium-nuit-fr-s",
       "cat": "target_upc"
@@ -780,7 +780,7 @@
     },
     "Outpost Brussels::15904442974542": {
       "title": "Pokémon · 30e Anniversaire - Collection Ultra Mentali Ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-ultra-premium-jour-fr-s",
       "cat": "target_upc"
@@ -794,7 +794,7 @@
     },
     "Outpost Brussels::15904444121422": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mewtwo - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mewtwo-fr-s",
       "cat": "set_other"
@@ -808,7 +808,7 @@
     },
     "Outpost Brussels::15904443924814": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mew - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mew-fr-s",
       "cat": "set_other"
@@ -2824,7 +2824,7 @@
     },
     "Outpost Brussels::16016232218958": {
       "title": "Pokémon - ME6 - Delta Reign 3-Pack Blister - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-me6-delta-reign-3-pack-blister-en",
       "cat": "set_other"
