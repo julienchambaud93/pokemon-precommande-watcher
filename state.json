@@ -4203,7 +4203,7 @@
     },
     "Poke Swiss::16370708087171": {
       "title": "Pokémon - 2026 30th Celebrations - Chochodile Ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-salarsen-copie",
       "cat": "set_other"
@@ -4766,6 +4766,20 @@
       "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/scizor-ex-30th-celebration-uf108-englisch",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391340884355": {
+      "title": "Pokémon - 2026 30th Celebrations - Zorua de Hisui",
+      "available": true,
+      "lang": "DE",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-zorua-de-hisui",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391340360067": {
+      "title": "Pokémon - 2026 30th Celebrations - Darkrai & Cresselia Légende",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-darkrai-cresselia-legende",
       "cat": "set_other"
     }
   },
