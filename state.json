@@ -4525,7 +4525,7 @@
     },
     "Zadoys::16020645544319": {
       "title": "Lycanroc 30C 138 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/lycanroc-30th-celebration-138-englisch",
       "cat": "set_other"
@@ -4581,7 +4581,7 @@
     },
     "Zadoys::16020548190591": {
       "title": "Umbreon ex 30C 092 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/umbreon-ex-30th-celebration-092-englisch",
       "cat": "set_other"
@@ -4595,14 +4595,14 @@
     },
     "Zadoys::16020542423423": {
       "title": "Greninja ex 30C 021 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/greninja-ex-30th-celebration-021-englisch",
       "cat": "set_other"
     },
     "Zadoys::16020510310783": {
       "title": "Fuecoco ex 30C 015 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/fuecoco-ex-30th-celebration-015-englisch",
       "cat": "set_other"
@@ -4889,7 +4889,7 @@
     },
     "Zadoys::16022087795071": {
       "title": "Pikachu 30C 032 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-032-englisch",
       "cat": "set_other"
@@ -4910,14 +4910,14 @@
     },
     "Zadoys::16021999354239": {
       "title": "Pikachu 30C 027 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-027-englisch",
       "cat": "set_other"
     },
     "Zadoys::16021995225471": {
       "title": "Pikachu 30C 026 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-026-englisch",
       "cat": "set_other"
