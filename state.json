@@ -4007,7 +4007,7 @@
     },
     "Poke Swiss::16364042420611": {
       "title": "Pokémon - 2026 30th Celebrations - Ondine",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ondine",
       "cat": "set_other"
@@ -4280,7 +4280,7 @@
     },
     "Poke Swiss::16370654904707": {
       "title": "Pokémon - 2026 30th Celebrations - Morpeko",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-drattak-ex-copie",
       "cat": "set_other"
@@ -4315,7 +4315,7 @@
     },
     "Poke Swiss::16370612601219": {
       "title": "Pokémon - 2026 30th Celebrations - Miaouss d'Alola",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss-dalola",
       "cat": "set_other"
@@ -4784,7 +4784,7 @@
     },
     "Poke Swiss::16391341801859": {
       "title": "Pokémon - 2026 30th Celebrations - Mouscoto GX",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mouscoto-gx",
       "cat": "set_other"
