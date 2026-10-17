@@ -3916,7 +3916,7 @@
     },
     "Poke Swiss::16364092162435": {
       "title": "Pokémon - 2026 30th Celebrations -  Raikou",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-raikou",
       "cat": "set_other"
@@ -3958,7 +3958,7 @@
     },
     "Poke Swiss::16364066079107": {
       "title": "Pokémon - 2026 30th Celebrations - Artikodin",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-artikodin",
       "cat": "set_other"
@@ -3972,7 +3972,7 @@
     },
     "Poke Swiss::16364063850883": {
       "title": "Pokémon - 2026 30th Celebrations - Ectoplasma ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma-ex",
       "cat": "set_other"
@@ -4000,14 +4000,14 @@
     },
     "Poke Swiss::16364051661187": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex",
       "cat": "set_other"
     },
     "Poke Swiss::16364042420611": {
       "title": "Pokémon - 2026 30th Celebrations - Ondine",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ondine",
       "cat": "set_other"
@@ -4168,7 +4168,7 @@
     },
     "TMS Bricks Shop::16119257563518": {
       "title": "Pokémon: Iksbat G Lv.44 – 30 Jahre (30C PL 47) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-iksbat-g-lv-44-30-jahre-30c-pl-47-einzelkarte",
       "cat": "set_other"
@@ -4217,7 +4217,7 @@
     },
     "Poke Swiss::16370695700867": {
       "title": "Pokémon - 2026 30th Celebrations - Baudrive",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baudrive",
       "cat": "set_other"
@@ -4637,14 +4637,14 @@
     },
     "TMS Bricks Shop::16136950022526": {
       "title": "Pokémon: Selfe Lv.55 – 30th Celebration (30C LA 43) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-selfe-lv-55-30th-celebration-30c-la-43-einzelkarte",
       "cat": "set_other"
     },
     "TMS Bricks Shop::16136949989758": {
       "title": "Pokémon: Palkia LV.X – 30th Celebration (30C GE 106) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-palkia-lv-x-30th-celebration-30c-ge-106-einzelkarte",
       "cat": "set_other"
@@ -4658,7 +4658,7 @@
     },
     "TMS Bricks Shop::16137059074430": {
       "title": "Pokémon: Erikas Pummeluff – 30th Celebration (30C 69) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-erikas-pummeluff-30th-celebration-30c-69-einzelkarte",
       "cat": "set_other"
@@ -4679,7 +4679,7 @@
     },
     "TMS Bricks Shop::16137123594622": {
       "title": "Pokémon: Grandiras – 30th Celebration (30C 143) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-grandiras-30th-celebration-30c-143-einzelkarte",
       "cat": "set_other"
@@ -4693,7 +4693,7 @@
     },
     "Poke Swiss::16391309820291": {
       "title": "Pokémon - 2026 30th Celebrations - Famignol",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-famignol",
       "cat": "set_other"
@@ -4749,7 +4749,7 @@
     },
     "Poke Swiss::16391337378179": {
       "title": "Pokémon - 2026 30th Celebrations - Amphinobi Turbo",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-amphinobi-turbo",
       "cat": "set_other"
@@ -4770,7 +4770,7 @@
     },
     "Poke Swiss::16391340884355": {
       "title": "Pokémon - 2026 30th Celebrations - Zorua de Hisui",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-zorua-de-hisui",
       "cat": "set_other"
@@ -4784,7 +4784,7 @@
     },
     "Poke Swiss::16391341801859": {
       "title": "Pokémon - 2026 30th Celebrations - Mouscoto GX",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mouscoto-gx",
       "cat": "set_other"
@@ -4822,6 +4822,118 @@
       "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-023-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022222274943": {
+      "title": "Pikachu 30C 041 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-041-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022220538239": {
+      "title": "Pikachu 30C 040 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-040-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022217064831": {
+      "title": "Pikachu 30C 039 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30c-039-en",
+      "cat": "set_other"
+    },
+    "Zadoys::16022216245631": {
+      "title": "Pikachu 30C 038 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-038-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022210085247": {
+      "title": "Pikachu 30C 037 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-037-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022167748991": {
+      "title": "Pikachu 30C 036 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-036-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022159819135": {
+      "title": "Pikachu 30C 035 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-035-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022137012607": {
+      "title": "Pikachu 30C 034 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-034-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022126068095": {
+      "title": "Pikachu 30C 033 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-033-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022087795071": {
+      "title": "Pikachu 30C 032 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-032-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022029205887": {
+      "title": "Pikachu 30C 030 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-030-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16022028517759": {
+      "title": "Pikachu 30C 029 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-029-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16021999354239": {
+      "title": "Pikachu 30C 027 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-027-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16021995225471": {
+      "title": "Pikachu 30C 026 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-026-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16021991915903": {
+      "title": "Pikachu 30C 025 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-025-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16021991391615": {
+      "title": "Pikachu 30C 024 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-024-englisch",
       "cat": "set_other"
     }
   },
@@ -5172,7 +5284,9 @@
     "Toytans::https://www.toytans.ch/de/pokemon-spezial-kollektionen/2922-pokemon-me055-30th-celebration-ultra-premium-collection-en-196214144903.html": "in",
     "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-journee-fr/": "out",
     "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-me06-delta-reign-elite-trainer-box-en/": "out",
-    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-soiree-fr/": "in"
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-soiree-fr/": "in",
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-journee-fr-import/": "in",
+    "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-soiree-fr-import/": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
