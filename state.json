@@ -4749,7 +4749,7 @@
     },
     "Poke Swiss::16391337378179": {
       "title": "Pokémon - 2026 30th Celebrations - Amphinobi Turbo",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-amphinobi-turbo",
       "cat": "set_other"
@@ -4759,6 +4759,13 @@
       "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/n-30th-celebration-nvi101-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16021974253951": {
+      "title": "Scizor ex 30C UF108 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/scizor-ex-30th-celebration-uf108-englisch",
       "cat": "set_other"
     }
   },
