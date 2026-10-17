@@ -4308,7 +4308,7 @@
     },
     "Poke Swiss::16370616893827": {
       "title": "Pokémon - 2026 30th Celebrations - Sulfura",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura",
       "cat": "set_other"
@@ -4780,6 +4780,20 @@
       "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-darkrai-cresselia-legende",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391341801859": {
+      "title": "Pokémon - 2026 30th Celebrations - Mouscoto GX",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mouscoto-gx",
+      "cat": "set_other"
+    },
+    "Zadoys::16021978087807": {
+      "title": "Crobat [G] Lv.44 30C PL47 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/crobat-g-lv-44-30th-celebration-pl47-englisch",
       "cat": "set_other"
     }
   },
