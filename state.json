@@ -4532,14 +4532,14 @@
     },
     "Zadoys::16020643479935": {
       "title": "Toxtricity 30C 134 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/toxtricity-30th-celebration-134-englisch",
       "cat": "set_other"
     },
     "Zadoys::16020636729727": {
       "title": "Zapdos 30C 133 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/zapdos-30th-celebration-133-englisch",
       "cat": "set_other"
@@ -4574,7 +4574,7 @@
     },
     "Zadoys::16020551762303": {
       "title": "Salamence ex 30C 109 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/salamence-ex-30th-celebration-109-englisch",
       "cat": "set_other"
