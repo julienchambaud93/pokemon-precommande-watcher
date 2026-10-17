@@ -738,7 +738,7 @@
     },
     "Outpost Brussels::15904442548558": {
       "title": "Pokémon · 30e Anniversaire - Coffret Premium Métamorph - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-premium-metamorph-fr-s",
       "cat": "set_other"
@@ -766,7 +766,7 @@
     },
     "Outpost Brussels::15904443400526": {
       "title": "Pokémon · 30e Anniversaire - Collection Ultra Noctali Ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-ultra-premium-nuit-fr-s",
       "cat": "target_upc"
@@ -780,7 +780,7 @@
     },
     "Outpost Brussels::15904442974542": {
       "title": "Pokémon · 30e Anniversaire - Collection Ultra Mentali Ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-ultra-premium-jour-fr-s",
       "cat": "target_upc"
@@ -794,7 +794,7 @@
     },
     "Outpost Brussels::15904444121422": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mewtwo - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mewtwo-fr-s",
       "cat": "set_other"
@@ -808,7 +808,7 @@
     },
     "Outpost Brussels::15904443924814": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mew - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mew-fr-s",
       "cat": "set_other"
@@ -3314,7 +3314,7 @@
     },
     "LaschoCards::11622749438293": {
       "title": "Pokémon TCG - 30th Celebration Ditto Premium Collection",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
       "cat": "set_other"
@@ -3650,7 +3650,7 @@
     },
     "TMS Bricks Shop::16110144225662": {
       "title": "Pokémon: Sylveon ex – 30th Celebration (30C 153) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-sylveon-ex-30th-celebration-30c-153-einzelkarte",
       "cat": "set_other"
@@ -3755,7 +3755,7 @@
     },
     "TMS Bricks Shop::16111676686718": {
       "title": "Pokémon: 30th Celebration Card Showcase Set Sylveon ex – Chinesisch",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-30th-celebration-card-showcase-set-sylveon-ex-chinesisch-cel",
       "cat": "set_other"
@@ -3916,7 +3916,7 @@
     },
     "Poke Swiss::16364092162435": {
       "title": "Pokémon - 2026 30th Celebrations -  Raikou",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-raikou",
       "cat": "set_other"
@@ -3958,7 +3958,7 @@
     },
     "Poke Swiss::16364066079107": {
       "title": "Pokémon - 2026 30th Celebrations - Artikodin",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-artikodin",
       "cat": "set_other"
@@ -4161,7 +4161,7 @@
     },
     "TMS Bricks Shop::16119257629054": {
       "title": "Pokémon: Uxie Lv.55 – 30th Celebration (30C LA 43) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-uxie-lv-55-30th-celebration-30c-la-43-einzelkarte",
       "cat": "set_other"
@@ -4217,7 +4217,7 @@
     },
     "Poke Swiss::16370695700867": {
       "title": "Pokémon - 2026 30th Celebrations - Baudrive",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baudrive",
       "cat": "set_other"
@@ -4252,7 +4252,7 @@
     },
     "Poke Swiss::16370667684227": {
       "title": "Pokémon - 2026 30th Celebrations - Jirachi Ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-jirachi-ex",
       "cat": "set_other"
@@ -4287,7 +4287,7 @@
     },
     "Poke Swiss::16370647859587": {
       "title": "Pokémon - 2026 30th Celebrations - Drattak Ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-copie",
       "cat": "set_other"
@@ -4301,7 +4301,7 @@
     },
     "Poke Swiss::16370632655235": {
       "title": "Pokémon - 2026 30th Celebrations - Nidorina",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura-copie",
       "cat": "set_other"
@@ -4322,7 +4322,7 @@
     },
     "Poke Swiss::16370604835203": {
       "title": "Pokémon - 2026 30th Celebrations - Baggiguane",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baggiguane",
       "cat": "set_other"
@@ -4630,7 +4630,7 @@
     },
     "TMS Bricks Shop::16136950055294": {
       "title": "Pokémon: Pikachu ex – 30th Celebration (30C 150) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-ex-30th-celebration-30c-150-einzelkarte-de",
       "cat": "set_other"
@@ -4682,6 +4682,55 @@
       "available": true,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-grandiras-30th-celebration-30c-143-einzelkarte",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391320306051": {
+      "title": "Pokémon - 2026 30th Celebrations - Lokhlass",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-artikodin-1",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391309820291": {
+      "title": "Pokémon - 2026 30th Celebrations - Famignol",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-famignol",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391306543491": {
+      "title": "Pokémon - 2026 30th Celebrations -  Mewtwo ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mewtwo-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391304905091": {
+      "title": "Pokémon - 2026 30th Celebrations -  Nymphali ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-nymphali-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391303463299": {
+      "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex-1",
+      "cat": "set_other"
+    },
+    "Detsuki::16113307877720": {
+      "title": "Pokémon 30th Celebration Premium Deck Set Espeon & Umbreon",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-30th-celebration-premium-deck-set-espeon-umbreon",
+      "cat": "set_other"
+    },
+    "Zadoys::16021968159103": {
+      "title": "Uxie Lv.55 30C LA43 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/uxie-lv-55-30th-celebration-la43-englisch",
       "cat": "set_other"
     }
   },
