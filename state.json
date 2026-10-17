@@ -4224,7 +4224,7 @@
     },
     "Poke Swiss::16370687017347": {
       "title": "Pokémon - 2026 30th Celebrations - Farfuret",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-n-copie",
       "cat": "set_other"
@@ -4266,7 +4266,7 @@
     },
     "Poke Swiss::16370659393923": {
       "title": "Pokémon - 2026 30th Celebrations - Delcatty",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-delcatty",
       "cat": "set_other"
@@ -4745,6 +4745,20 @@
       "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-noadkoko-dalola",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391337378179": {
+      "title": "Pokémon - 2026 30th Celebrations - Amphinobi Turbo",
+      "available": false,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-amphinobi-turbo",
+      "cat": "set_other"
+    },
+    "Zadoys::16021972320639": {
+      "title": "N 30C NVI101 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/n-30th-celebration-nvi101-englisch",
       "cat": "set_other"
     }
   },
