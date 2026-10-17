@@ -3930,7 +3930,7 @@
     },
     "Poke Swiss::16364087280003": {
       "title": "Pokémon - 2026 30th Celebrations -  Miaouss",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss",
       "cat": "set_other"
@@ -3951,7 +3951,7 @@
     },
     "Poke Swiss::16364067357059": {
       "title": "Pokémon - 2026 30th Celebrations - Gromago",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
       "cat": "set_other"
@@ -4280,7 +4280,7 @@
     },
     "Poke Swiss::16370654904707": {
       "title": "Pokémon - 2026 30th Celebrations - Morpeko",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-drattak-ex-copie",
       "cat": "set_other"
@@ -4315,14 +4315,14 @@
     },
     "Poke Swiss::16370612601219": {
       "title": "Pokémon - 2026 30th Celebrations - Miaouss d'Alola",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-miaouss-dalola",
       "cat": "set_other"
     },
     "Poke Swiss::16370604835203": {
       "title": "Pokémon - 2026 30th Celebrations - Baggiguane",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baggiguane",
       "cat": "set_other"
