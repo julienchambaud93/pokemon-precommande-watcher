@@ -3972,7 +3972,7 @@
     },
     "Poke Swiss::16364063850883": {
       "title": "Pokémon - 2026 30th Celebrations - Ectoplasma ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ectoplasma-ex",
       "cat": "set_other"
@@ -4794,6 +4794,13 @@
       "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/crobat-g-lv-44-30th-celebration-pl47-englisch",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16391345766787": {
+      "title": "Pokémon - 2026 30th Celebrations - Jirachi ex",
+      "available": true,
+      "lang": "?",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-jirachi-ex-1",
       "cat": "set_other"
     }
   },
