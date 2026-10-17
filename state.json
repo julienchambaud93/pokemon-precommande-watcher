@@ -3860,7 +3860,7 @@
     },
     "Zadoys::15924522156415": {
       "title": "30th Celebration Mini Tin + Illumina City Mini Tin DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/30th-celebration-illumina-city-mini-tin-deutsch",
       "cat": "set_other"
@@ -3888,7 +3888,7 @@
     },
     "PocketDex::16607933661533": {
       "title": "30 ans Pokémon - Mini tin - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-mini-tin-fr",
       "cat": "set_other"
@@ -3986,7 +3986,7 @@
     },
     "Poke Swiss::16364057461123": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-1",
       "cat": "set_other"
