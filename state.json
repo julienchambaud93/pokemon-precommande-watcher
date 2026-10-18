@@ -4819,7 +4819,7 @@
     },
     "Zadoys::16021990769023": {
       "title": "Pikachu 30C 023 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-023-englisch",
       "cat": "set_other"
@@ -5053,6 +5053,34 @@
       "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-044-englisch",
+      "cat": "set_other"
+    },
+    "Detsuki::16113176576344": {
+      "title": "Pokémon Mega Evolutions Delta Reign Display Box (ME06)",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-mega-evolutions-delta-reign-display-box-me06",
+      "cat": "set_other"
+    },
+    "Detsuki::16113173889368": {
+      "title": "Pokémon Mega Evolution Delta Reign Elite Trainer Box (ME06)",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-mega-evolution-delta-reign-elite-trainer-box-me06",
+      "cat": "target_etb"
+    },
+    "Detsuki::16099666887000": {
+      "title": "Pokémon 30th Celebration Figure Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-30th-celebration-figure-collection",
+      "cat": "set_other"
+    },
+    "Detsuki::16099654992216": {
+      "title": "Pokémon 30th Celebration Ditto Premium Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://detsuki.ch/products/pokemon-30th-celebration-ditto-premium-collection",
       "cat": "set_other"
     }
   },
