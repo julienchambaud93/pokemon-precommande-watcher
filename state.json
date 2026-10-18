@@ -4224,7 +4224,7 @@
     },
     "Poke Swiss::16370687017347": {
       "title": "Pokémon - 2026 30th Celebrations - Farfuret",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-n-copie",
       "cat": "set_other"
@@ -4990,6 +4990,69 @@
       "available": false,
       "lang": "EN",
       "url": "https://pokecard.store/products/preorder-pokemon-delta-reign-booster-box-en",
+      "cat": "set_other"
+    },
+    "Zadoys::16023492624767": {
+      "title": "Pikachu 30C 052 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-052-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023492362623": {
+      "title": "Pikachu 30C 051 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-051-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023491051903": {
+      "title": "Pikachu 30C 050 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-050-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023479189887": {
+      "title": "Pikachu 30C 049 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-049-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023478010239": {
+      "title": "Pikachu 30C 048 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-048-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023476797823": {
+      "title": "Pikachu 30C 047 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-047-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023475356031": {
+      "title": "Pikachu 30C 046 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-046-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023473619327": {
+      "title": "Pikachu 30C 045 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-045-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16023471128959": {
+      "title": "Pikachu 30C 044 EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pikachu-30th-celebration-044-englisch",
       "cat": "set_other"
     }
   },
