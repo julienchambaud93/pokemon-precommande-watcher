@@ -4756,14 +4756,14 @@
     },
     "Zadoys::16021972320639": {
       "title": "N 30C NVI101 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/n-30th-celebration-nvi101-englisch",
       "cat": "set_other"
     },
     "Zadoys::16021974253951": {
       "title": "Scizor ex 30C UF108 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/scizor-ex-30th-celebration-uf108-englisch",
       "cat": "set_other"
@@ -4812,7 +4812,7 @@
     },
     "Zadoys::16021988409727": {
       "title": "Metagross δ Delta Species 30C DS11 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/metagross-δ-delta-species-30th-celebration-ds11-englisch",
       "cat": "set_other"
@@ -4976,6 +4976,20 @@
       "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-043-englisch",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15575009689975": {
+      "title": "Preorder Pokémon Delta Reign Booster Bundle (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://pokecard.store/products/preorder-pokemon-delta-reign-booster-bundle-en",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15575008805239": {
+      "title": "Preorder Pokémon Delta Reign Booster Box (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://pokecard.store/products/preorder-pokemon-delta-reign-booster-box-en",
       "cat": "set_other"
     }
   },
