@@ -4777,7 +4777,7 @@
     },
     "Poke Swiss::16391340360067": {
       "title": "Pokémon - 2026 30th Celebrations - Darkrai & Cresselia Légende",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-darkrai-cresselia-legende",
       "cat": "set_other"
@@ -5081,6 +5081,13 @@
       "available": false,
       "lang": "?",
       "url": "https://detsuki.ch/products/pokemon-30th-celebration-ditto-premium-collection",
+      "cat": "set_other"
+    },
+    "PokeFaust::15582572118391": {
+      "title": "Pokémon TCG: ME06 Delta Reign – Booster Pack (English) – Preorder",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pokefaust.com/products/pokemon-tcg-me06-delta-reign-booster-pack-english-preorder",
       "cat": "set_other"
     }
   },
