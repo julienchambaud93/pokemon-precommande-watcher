@@ -1780,7 +1780,7 @@
       "cat": "set_other"
     },
     "PokeFaust::15528578515319": {
-      "title": "Pokémon TCG 30th Celebration Elite Trainer Box",
+      "title": "Pokémon TCG 30th Celebration Elite Trainer Box Wave 2",
       "available": true,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-elite-trainer-box",
@@ -5329,7 +5329,8 @@
       "30th celebration elite trainer"
     ],
     "Trainer-Zentrale::https://trainer-zentrale.ch": [],
-    "Geek Place::https://geekplace.shop/?s=30th+celebration&post_type=product": []
+    "Geek Place::https://geekplace.shop/?s=30th+celebration&post_type=product": [],
+    "GoodGames Bern::https://www.goodgamesbern.ch/?s=30th+celebration": []
   },
   "hb": {
     "minuit": "2026-10-19",
