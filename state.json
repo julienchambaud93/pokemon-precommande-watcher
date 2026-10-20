@@ -5327,7 +5327,9 @@
     "EduJeu::https://edujeu.ch": [],
     "PokeFaust::https://pokefaust.com": [
       "30th celebration elite trainer"
-    ]
+    ],
+    "Trainer-Zentrale::https://trainer-zentrale.ch": [],
+    "Geek Place::https://geekplace.shop/?s=30th+celebration&post_type=product": []
   },
   "hb": {
     "minuit": "2026-10-19",
@@ -5394,7 +5396,8 @@
     "Korner Cash",
     "Jouets Davidson",
     "Interdiscount",
-    "Coin-Op"
+    "Coin-Op",
+    "Geek Place"
   ],
   "stock": {
     "The Uncommon Shop::https://theuncommonshop.ch/product/pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
