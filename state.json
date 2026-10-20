@@ -1396,7 +1396,7 @@
     },
     "Zadoys::15773556113791": {
       "title": "30th Celebration Mini Tin DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mini-tin-deutsch",
       "cat": "set_other"
@@ -3209,7 +3209,7 @@
     },
     "Zadoys::15499291787647": {
       "title": "30th Celebration Greninja ex Box + Mega Zygarde ex Premium Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-greninja-ex-box-mega-zygarde-ex-premium-collection-englisch",
       "cat": "set_other"
@@ -3552,7 +3552,7 @@
     },
     "Pokecard Store::15560724152695": {
       "title": "Pokémon 30th Celebration (M6a) Booster Box (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-box-cn",
       "cat": "set_other"
@@ -4371,7 +4371,7 @@
     },
     "Pokecard Store::15571273318775": {
       "title": "Pokémon 30th Celebration (M6a) Booster Pack (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-pack-cn-1",
       "cat": "set_other"
@@ -4833,7 +4833,7 @@
     },
     "Zadoys::16022220538239": {
       "title": "Pikachu 30C 040 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-040-englisch",
       "cat": "set_other"
@@ -4875,7 +4875,7 @@
     },
     "Zadoys::16022137012607": {
       "title": "Pikachu 30C 034 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-034-englisch",
       "cat": "set_other"
@@ -4938,7 +4938,7 @@
     },
     "TMS Bricks Shop::16140230033790": {
       "title": "Pokémon: Famieps – 30 Jahre (30C 146) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-famieps-30-jahre-30c-146-einzelkarte",
       "cat": "set_other"
@@ -4994,7 +4994,7 @@
     },
     "Zadoys::16023492624767": {
       "title": "Pikachu 30C 052 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-052-englisch",
       "cat": "set_other"
@@ -5103,6 +5103,27 @@
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-mega-30th-celebration-card-set-jpn",
       "cat": "set_other"
+    },
+    "Poke Swiss::16175133065603": {
+      "title": "[Précommande] Pokémon 30th Celebration Ditto Premium Coll. FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-ditto-premium-coll-fr-en",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16175108751747": {
+      "title": "[Précommande] Pokémon 30th Celebration Figure Collection FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-figure-collection-fr-en",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16175140372867": {
+      "title": "[Précommande] Pokémon 30th Celebration Ultra Premium Collection FR/EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-ultra-premium-collection-fr-en",
+      "cat": "target_upc"
     }
   },
   "html": {
@@ -5541,7 +5562,8 @@
     "<9d68d3dc2f834f5e84133268833d6f87@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<a0306a67dbc24f18b9507a2eec69715b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<b5eeef69da99426db13af2adb9e7eb2a@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<625ff9aa8e4241228ff4902966c72194@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<625ff9aa8e4241228ff4902966c72194@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<446e8a7273324763bb3c076d39fb5d9c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
