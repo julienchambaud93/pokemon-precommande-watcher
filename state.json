@@ -682,7 +682,7 @@
     },
     "Outpost Brussels::15904440910158": {
       "title": "Pokémon · 30e Anniversaire - Bundle 6 Boosters - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-bundle-6-boosters-fr-s",
       "cat": "set_other"
@@ -5029,7 +5029,7 @@
     },
     "Zadoys::16023476797823": {
       "title": "Pikachu 30C 047 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-047-englisch",
       "cat": "set_other"
