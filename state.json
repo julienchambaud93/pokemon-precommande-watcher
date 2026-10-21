@@ -2964,7 +2964,7 @@
     },
     "Pikaversum::15872353730934": {
       "title": "Pokémon TCG: 30th Celebration Booster Box – Simplified Chinese (CN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-simplified-chinese",
       "cat": "set_other"
@@ -3552,7 +3552,7 @@
     },
     "Pokecard Store::15560724152695": {
       "title": "Pokémon 30th Celebration (M6a) Booster Box (CN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-box-cn",
       "cat": "set_other"
@@ -4287,7 +4287,7 @@
     },
     "Poke Swiss::16370647859587": {
       "title": "Pokémon - 2026 30th Celebrations - Drattak Ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-copie",
       "cat": "set_other"
@@ -4735,7 +4735,7 @@
     },
     "Poke Swiss::16391334953347": {
       "title": "Pokémon - 2026 30th Celebrations - Lougaroc",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lougaroc",
       "cat": "set_other"
