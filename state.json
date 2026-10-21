@@ -3552,7 +3552,7 @@
     },
     "Pokecard Store::15560724152695": {
       "title": "Pokémon 30th Celebration (M6a) Booster Box (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-box-cn",
       "cat": "set_other"
@@ -4308,7 +4308,7 @@
     },
     "Poke Swiss::16370616893827": {
       "title": "Pokémon - 2026 30th Celebrations - Sulfura",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura",
       "cat": "set_other"
@@ -4714,7 +4714,7 @@
     },
     "Poke Swiss::16391303463299": {
       "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex-1",
       "cat": "set_other"
@@ -4840,7 +4840,7 @@
     },
     "Zadoys::16022217064831": {
       "title": "Pikachu 30C 039 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30c-039-en",
       "cat": "set_other"
@@ -4931,7 +4931,7 @@
     },
     "Zadoys::16021991391615": {
       "title": "Pikachu 30C 024 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-024-englisch",
       "cat": "set_other"
@@ -5036,7 +5036,7 @@
     },
     "Zadoys::16023475356031": {
       "title": "Pikachu 30C 046 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-046-englisch",
       "cat": "set_other"
@@ -5050,7 +5050,7 @@
     },
     "Zadoys::16023471128959": {
       "title": "Pikachu 30C 044 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pikachu-30th-celebration-044-englisch",
       "cat": "set_other"
