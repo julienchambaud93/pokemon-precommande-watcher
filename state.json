@@ -5346,7 +5346,9 @@
     "Miixy's Cards::https://miixyscards.ch": [],
     "Atelier Jeu::https://www.atelier-jeu.ch": [],
     "La Taverne du Jeu::https://latavernedujeu.ch": [],
-    "Toytans::https://toytans.ch": [],
+    "Toytans::https://toytans.ch": [
+      "delta reign elite trainer"
+    ],
     "Tanigami::https://tanigami.ch": [],
     "EduJeu::https://edujeu.ch": [],
     "PokeFaust::https://pokefaust.com": [
@@ -5485,7 +5487,8 @@
     "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-soiree-fr/": "in",
     "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-journee-fr-import/": "in",
     "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-soiree-fr-import/": "in",
-    "The Uncommon Shop::https://theuncommonshop.ch/product/livestream-pokemon-mega-evolution-delta-reign-me06-elite-trainer-box/": "out"
+    "The Uncommon Shop::https://theuncommonshop.ch/product/livestream-pokemon-mega-evolution-delta-reign-me06-elite-trainer-box/": "out",
+    "Toytans::https://www.toytans.ch/de/pokemon-displays/2938-pokemon-me06-delta-reign-elite-trainer-box-en-196214143906.html": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
