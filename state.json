@@ -164,7 +164,7 @@
     },
     "LaschoCards::11339880071509": {
       "title": "Pokémon TCG - 30th Celebration Booster Box JPN m6a",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-box-jpn-m6a",
       "cat": "set_other"
@@ -3832,7 +3832,7 @@
     },
     "LaschoCards::11661819019605": {
       "title": "Pokémon TCG - 30th Celebration Figure Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-figure-collection",
       "cat": "set_other"
@@ -4308,7 +4308,7 @@
     },
     "Poke Swiss::16370616893827": {
       "title": "Pokémon - 2026 30th Celebrations - Sulfura",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura",
       "cat": "set_other"
@@ -5124,6 +5124,48 @@
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/precommande-pokemon-30th-celebration-ultra-premium-collection-fr-en",
       "cat": "target_upc"
+    },
+    "MaRo Shop::15069734404472": {
+      "title": "Pokémon - Delta Herrschaft - Build & Battle Box DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-delta-herrschaft-build-battle-box-de",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15069732897144": {
+      "title": "Pokémon - Delta Reign - Build & Battle Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-build-battle-box-en",
+      "cat": "set_other"
+    },
+    "Raystorm::11729410359637": {
+      "title": "Bundle 30th Celebration [EN]",
+      "available": true,
+      "lang": "EN",
+      "url": "https://raystorm.ch/products/bundle-30th-celebration-en",
+      "cat": "set_other"
+    },
+    "Raystorm::11725212320085": {
+      "title": "Bundle 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/bundle-30eme-anniversaire-fr",
+      "cat": "set_other"
+    },
+    "Raystorm::11731427295573": {
+      "title": "Mini Tin 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/30e-anniversaire-mini-tin-fr",
+      "cat": "set_other"
+    },
+    "Raystorm::11731427000661": {
+      "title": "Display Mini Tins 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/30e-anniversaire-display-mini-tins-fr",
+      "cat": "set_other"
     }
   },
   "html": {
