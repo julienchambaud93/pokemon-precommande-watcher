@@ -682,7 +682,7 @@
     },
     "Outpost Brussels::15904440910158": {
       "title": "Pokémon · 30e Anniversaire - Bundle 6 Boosters - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-bundle-6-boosters-fr-s",
       "cat": "set_other"
@@ -976,7 +976,7 @@
     },
     "MaRo Shop::15038247862648": {
       "title": "Pokémon - 30th Celebration - Elite Trainer Box ETB EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-elite-trainer-box-etb-en",
       "cat": "target_etb"
@@ -3860,7 +3860,7 @@
     },
     "Zadoys::15924522156415": {
       "title": "30th Celebration Mini Tin + Illumina City Mini Tin DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/30th-celebration-illumina-city-mini-tin-deutsch",
       "cat": "set_other"
