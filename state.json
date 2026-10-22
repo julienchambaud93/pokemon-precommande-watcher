@@ -3832,7 +3832,7 @@
     },
     "LaschoCards::11661819019605": {
       "title": "Pokémon TCG - 30th Celebration Figure Collection",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-figure-collection",
       "cat": "set_other"
@@ -5614,7 +5614,8 @@
     "<625ff9aa8e4241228ff4902966c72194@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<446e8a7273324763bb3c076d39fb5d9c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<1702f18f0117447e896cb6f17b5b18dd@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<b70a747957da42b6ad86d66c6fd22a16@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<b70a747957da42b6ad86d66c6fd22a16@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<64d364f78b7b45e4b4d6d818bb63ec3a@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
