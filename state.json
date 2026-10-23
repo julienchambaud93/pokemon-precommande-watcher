@@ -696,7 +696,7 @@
     },
     "Outpost Brussels::15904440549710": {
       "title": "Pokémon · 30e Anniversaire - Collection Classeur - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-classeur-fr-s",
       "cat": "set_other"
@@ -4083,7 +4083,7 @@
       "cat": "target_upc"
     },
     "PikaStore::15916514509174": {
-      "title": "🟣[PRÉCO] Pokémon (FR) - Collections Ultra-Premium - Journée / Soirée - ME05.5 30e Anniversaire",
+      "title": "🟣[PRÉCO] Pokémon (FR) - Collections Ultra-Premium - Soirée 🌑 - ME05.5 30e Anniversaire",
       "available": false,
       "lang": "FR",
       "url": "https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire",
@@ -4294,7 +4294,7 @@
     },
     "Poke Swiss::16370641699203": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-2",
       "cat": "set_other"
@@ -4686,7 +4686,7 @@
     },
     "Poke Swiss::16391320306051": {
       "title": "Pokémon - 2026 30th Celebrations - Lokhlass",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-artikodin-1",
       "cat": "set_other"
@@ -5180,6 +5180,13 @@
       "lang": "DE",
       "url": "https://raystorm.ch/products/pokemon-mega-30th-celebration-display-m6af-chinois-traditionnel",
       "cat": "set_other"
+    },
+    "PikaStore::15961354240374": {
+      "title": "🟣[PRÉCO] Pokémon (FR) - Collections Ultra-Premium - Journée ☀️ - ME05.5 30e Anniversaire",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-me05-5-30e-anniversaire",
+      "cat": "target_upc"
     }
   },
   "html": {
