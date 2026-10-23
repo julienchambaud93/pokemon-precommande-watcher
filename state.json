@@ -4217,7 +4217,7 @@
     },
     "Poke Swiss::16370695700867": {
       "title": "Pokémon - 2026 30th Celebrations - Baudrive",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baudrive",
       "cat": "set_other"
@@ -4770,7 +4770,7 @@
     },
     "Poke Swiss::16391340884355": {
       "title": "Pokémon - 2026 30th Celebrations - Zorua de Hisui",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-zorua-de-hisui",
       "cat": "set_other"
@@ -5645,7 +5645,9 @@
     "<1702f18f0117447e896cb6f17b5b18dd@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<b70a747957da42b6ad86d66c6fd22a16@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<64d364f78b7b45e4b4d6d818bb63ec3a@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<681ef1dc338d442f86a6b26b77bde0b0@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<681ef1dc338d442f86a6b26b77bde0b0@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<bfacf977d4e042328ff49ac5a93427e3@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<0dc3937468ea4abfa0bedbcd9865e235@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
