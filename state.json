@@ -4770,7 +4770,7 @@
     },
     "Poke Swiss::16391340884355": {
       "title": "Pokémon - 2026 30th Celebrations - Zorua de Hisui",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-zorua-de-hisui",
       "cat": "set_other"
@@ -5417,7 +5417,7 @@
   },
   "hb": {
     "minuit": "2026-10-23",
-    "midi": "2026-10-18"
+    "midi": "2026-10-23"
   },
   "seeded_sites": [
     "Pokecard Store",
