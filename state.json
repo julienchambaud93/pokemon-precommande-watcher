@@ -696,7 +696,7 @@
     },
     "Outpost Brussels::15904440549710": {
       "title": "Pokémon · 30e Anniversaire - Collection Classeur - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-classeur-fr-s",
       "cat": "set_other"
@@ -1690,7 +1690,7 @@
     },
     "Pokereaves::10633854419291": {
       "title": "Pre-order 1x Pokemon Tech sticker COLLECTION 30th anniversary - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-pokemon-tech-sticker-collection-30th-anniversary-english-copia",
       "cat": "set_other"
@@ -3097,7 +3097,7 @@
     },
     "Cardmaniac::8697628655791": {
       "title": "Pokémon TCG – 30th Celebration Futuristic Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-futuristic-box",
       "cat": "set_other"
@@ -3111,7 +3111,7 @@
     },
     "Cardmaniac::8697568133295": {
       "title": "Pokémon TCG – 30th Celebration Booster Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-box",
       "cat": "set_other"
@@ -4455,7 +4455,7 @@
     },
     "TMS Bricks Shop::16127678316926": {
       "title": "Pokémon TCG: Display 30th Celebration – Chinesisch",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-display-30th-celebration-chinesisch-cel",
       "cat": "set_other"
@@ -5214,6 +5214,27 @@
       "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-sylveon-ex-box-mega-greninja-ex-premium-collection-franzosisch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15976465596790": {
+      "title": "Pokémon TCG Bundle: 30th Celebration 2-Pack Blister + Enhanced 2-Pack Blister Oktober 2025 (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-2-pack-blister-enhanced-2-pack-blister-oktober-2025-deutsch",
+      "cat": "set_other"
+    },
+    "Zadoys::16041005416831": {
+      "title": "Règne Delta Booster Bundle FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-regne-delta-booster-bundle-franzoesisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16041001058687": {
+      "title": "Delta Herrschaft Booster Bundle DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-mega-series-delta-herrschaft-booster-bundle-deutsch",
       "cat": "set_other"
     }
   },
