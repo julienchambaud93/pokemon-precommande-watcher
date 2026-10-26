@@ -5236,6 +5236,34 @@
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-herrschaft-booster-bundle-deutsch",
       "cat": "set_other"
+    },
+    "Pokécado::11350396535126": {
+      "title": "Pokémon Delta Reign Booster Pack (FR)",
+      "available": true,
+      "lang": "FR",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-booster-pack-fr",
+      "cat": "set_other"
+    },
+    "Pokécado::11350396404054": {
+      "title": "Pokémon Delta Reign Booster Pack (DE)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://www.pokecado.ch/products/pokemon-delta-reign-booster-pack-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689845965124": {
+      "title": "Pokémon Delta Reign ME06 Booster Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-delta-reignme06-booster-box-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689833513284": {
+      "title": "Pokémon Delta Reign ME06 Elite Trainer Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-delta-reign-me06-elite-trainer-box-en",
+      "cat": "target_etb"
     }
   },
   "html": {
@@ -5697,7 +5725,9 @@
     "<2c94d171ecea4ae9b66b2220868bbced@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<636e5932821746eabd5232dd0833f6ab@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<f8ef1dc2d3684fd3b6bf9bc971ade317@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<255dd4f9029b46e0b8151b481cc4b035@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<255dd4f9029b46e0b8151b481cc4b035@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<f3ee93cb08dc4b4cb9b608893bdbf862@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<3dbc4de36d794057867180c27e5a5cd9@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
