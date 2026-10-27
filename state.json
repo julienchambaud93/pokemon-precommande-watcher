@@ -1277,7 +1277,7 @@
     },
     "Zadoys::15775035654527": {
       "title": "30th Celebration Binder Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-binder-collection-englisch",
       "cat": "set_other"
@@ -1354,7 +1354,7 @@
     },
     "Zadoys::15773603594623": {
       "title": "30th Celebration Poster Kollektion DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-poster-kollektion-deutsch",
       "cat": "set_other"
@@ -4805,7 +4805,7 @@
     },
     "Poke Swiss::16391345930627": {
       "title": "Pokémon - 2026 30th Celebrations - Nymphali ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-nymphali-ex-1",
       "cat": "set_other"
@@ -5278,6 +5278,13 @@
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mega-30th-anniversary-ultra-or-special-premium-collection-english-umbreon",
       "cat": "target_etb"
+    },
+    "Pikaversum::15978222125430": {
+      "title": "Pokémon TCG: 30th Celebration Dream Painting Pikachu Figur-Set (Blind Box) – Simplified Chinese (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-30th-celebration-dream-painting-pikachu-figur-set-simplified-chinese",
+      "cat": "set_other"
     }
   },
   "html": {
