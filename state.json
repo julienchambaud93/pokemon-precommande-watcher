@@ -164,7 +164,7 @@
     },
     "LaschoCards::11339880071509": {
       "title": "Pokémon TCG - 30th Celebration Booster Box JPN m6a",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-box-jpn-m6a",
       "cat": "set_other"
@@ -2929,7 +2929,7 @@
     },
     "SkySpell::15767355163001": {
       "title": "Pokémon 30th Celebration 30C Box | Simplified Chinese",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://skyspell.ch/products/pokemon-30th-celebration-30c-box-simplified-chinese",
       "cat": "set_other"
