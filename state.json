@@ -5338,6 +5338,7 @@
     "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [
       "30th celebration elite trainer",
       "30th celebration etb",
+      "30th celebration nidorina etb",
       "30th celebration ultra premium"
     ],
     "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
@@ -5523,7 +5524,7 @@
     "TMS Bricks Shop::https://tmsbricksshop.ch": []
   },
   "hb": {
-    "minuit": "2026-10-27",
+    "minuit": "2026-10-28",
     "midi": "2026-10-23"
   },
   "seeded_sites": [
@@ -5652,7 +5653,8 @@
     "Mix-Image::https://mix-image.ch/produit/cartes-pokemon-30th-celebration-ultra-premium-collection-soiree-fr-import/": "in",
     "The Uncommon Shop::https://theuncommonshop.ch/product/livestream-pokemon-mega-evolution-delta-reign-me06-elite-trainer-box/": "out",
     "Toytans::https://www.toytans.ch/de/pokemon-displays/2938-pokemon-me06-delta-reign-elite-trainer-box-en-196214143906.html": "in",
-    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-ME06-Delta-Reign-Elite-Trainer-Box": "out"
+    "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-ME06-Delta-Reign-Elite-Trainer-Box": "out",
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/2948-pokemon-me055-30th-celebration-nidorina-etb-promo-en-5390368994772.html": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
