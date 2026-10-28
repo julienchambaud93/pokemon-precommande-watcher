@@ -3545,7 +3545,7 @@
     },
     "Pokecard Store::15560794112375": {
       "title": "Pokémon 30th Celebration Card Display Set Greninja ex (CN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-card-display-set-greninja-ex",
       "cat": "set_other"
@@ -3923,7 +3923,7 @@
     },
     "Poke Swiss::16364090655107": {
       "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex",
       "cat": "set_other"
@@ -4308,7 +4308,7 @@
     },
     "Poke Swiss::16370616893827": {
       "title": "Pokémon - 2026 30th Celebrations - Sulfura",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura",
       "cat": "set_other"
@@ -4735,7 +4735,7 @@
     },
     "Poke Swiss::16391334953347": {
       "title": "Pokémon - 2026 30th Celebrations - Lougaroc",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lougaroc",
       "cat": "set_other"
@@ -5299,6 +5299,27 @@
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-moltres-30th-celebration-30c-105-chinesisch-einzelkarte",
       "cat": "set_other"
+    },
+    "Pokecard Store::15585909113207": {
+      "title": "Pokémon 30th Celebration Charizard Figure (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-charizard-figure-cn",
+      "cat": "set_other"
+    },
+    "Pokecard Store::15588541989239": {
+      "title": "Pokémon 30th Celebration Chinese Futuristic Box (CN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-chinese-futuristic-box-cn",
+      "cat": "set_other"
+    },
+    "Raystorm::11729549164885": {
+      "title": "Collection Classeur 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/30eme-anniversaire-collection-classeur-fr",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -5768,7 +5789,8 @@
     "<3dbc4de36d794057867180c27e5a5cd9@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<2313ed6e748540fea928c872698a1c87@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<3062745ef7324595a274a858c2d56a64@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<5c915c86787f4883b137c26a657759a2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<5c915c86787f4883b137c26a657759a2@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<c339d3b0850547ff8ef21963d20ae769@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
