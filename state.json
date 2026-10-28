@@ -129,7 +129,7 @@
     },
     "LaschoCards::11393559363925": {
       "title": "Pokémon TCG - 30th Celebration Tech Sticker Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection",
       "cat": "set_other"
@@ -1354,7 +1354,7 @@
     },
     "Zadoys::15773603594623": {
       "title": "30th Celebration Poster Kollektion DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-poster-kollektion-deutsch",
       "cat": "set_other"
@@ -1676,7 +1676,7 @@
     },
     "LaschoCards::11495143539029": {
       "title": "Pokémon TCG - 30th Celebration ex Tin",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ex-tin",
       "cat": "set_other"
@@ -3734,7 +3734,7 @@
     },
     "Zadoys::15920347283839": {
       "title": "2x 30th Celebration Mini Tin FR + Mega-Kangourex ex Box FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/30th-celebration-booster-bundle-fr-equilibre-parfait-booster-bundle-fr-kopie",
       "cat": "set_other"
@@ -3923,7 +3923,7 @@
     },
     "Poke Swiss::16364090655107": {
       "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex",
       "cat": "set_other"
@@ -3951,7 +3951,7 @@
     },
     "Poke Swiss::16364067357059": {
       "title": "Pokémon - 2026 30th Celebrations - Gromago",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
       "cat": "set_other"
@@ -4308,7 +4308,7 @@
     },
     "Poke Swiss::16370616893827": {
       "title": "Pokémon - 2026 30th Celebrations - Sulfura",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura",
       "cat": "set_other"
@@ -4714,7 +4714,7 @@
     },
     "Poke Swiss::16391303463299": {
       "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex-1",
       "cat": "set_other"
@@ -4735,7 +4735,7 @@
     },
     "Poke Swiss::16391334953347": {
       "title": "Pokémon - 2026 30th Celebrations - Lougaroc",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lougaroc",
       "cat": "set_other"
@@ -5218,7 +5218,7 @@
     },
     "Pikaversum::15976465596790": {
       "title": "Pokémon TCG Bundle: 30th Celebration 2-Pack Blister + Enhanced 2-Pack Blister Oktober 2025 (Deutsch)",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-2-pack-blister-enhanced-2-pack-blister-oktober-2025-deutsch",
       "cat": "set_other"
@@ -5284,6 +5284,20 @@
       "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-30th-celebration-dream-painting-pikachu-figur-set-simplified-chinese",
+      "cat": "set_other"
+    },
+    "AmazinGames::15266527150155": {
+      "title": "Pokémon TCG - 30th Anniversary Booster pack JAP",
+      "available": true,
+      "lang": "?",
+      "url": "https://amazingames.ch/products/pokemon-tcg-30th-anniversary-booster-pack-jap",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16164198941054": {
+      "title": "Pokémon: Moltres – 30th Celebration (30C 105) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-moltres-30th-celebration-30c-105-chinesisch-einzelkarte",
       "cat": "set_other"
     }
   },
