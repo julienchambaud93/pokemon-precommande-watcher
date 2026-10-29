@@ -2537,7 +2537,7 @@
     },
     "LaschoCards::11547474100565": {
       "title": "Pokémon TCG - 30th Celebration Battle Deck",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-battle-deck",
       "cat": "set_other"
@@ -3615,7 +3615,7 @@
     },
     "Pikaversum::15904829702518": {
       "title": "Pokémon TCG: 30th Celebration Battle Deck 2er-Set – Espeon ex & Umbreon ex",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-battle-deck-2er-set-espeon-ex-umbreon-ex",
       "cat": "set_other"
@@ -3853,7 +3853,7 @@
     },
     "Pikaversum::15911571751286": {
       "title": "Pokémon TCG Bundle: 3× 30th Celebration Booster Bundle + Ascended Heroes Mini Tin Display (Italienisch)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-3-30th-celebration-booster-bundle-ascended-heroes-mini-tin-display-italienisch",
       "cat": "set_other"
@@ -4714,7 +4714,7 @@
     },
     "Poke Swiss::16391303463299": {
       "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex-1",
       "cat": "set_other"
@@ -5347,6 +5347,69 @@
       "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-psiana-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16415780340099": {
+      "title": "Pokémon - 2026 30th Celebrations EN - Mew ex",
+      "available": true,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-en-mew-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16415779750275": {
+      "title": "Pokémon - 2026 30th Celebrations EN - Mewtwo ex",
+      "available": true,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-en-mewtwo-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16415779225987": {
+      "title": "Pokémon - 2026 30th Celebrations EN - Alolan Exeggutor",
+      "available": true,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-en-alolan-exeggutor",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16415777849731": {
+      "title": "Pokémon - 2026 30th Celebrations EN - Maushold",
+      "available": true,
+      "lang": "EN",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-en-maushold",
+      "cat": "set_other"
+    },
+    "AmazinGames::15267720659019": {
+      "title": "P-EN ME06 'Delta Reign' Elite Trainer Box",
+      "available": true,
+      "lang": "EN",
+      "url": "https://amazingames.ch/products/p-en-me06-delta-reign-elite-trainer-box",
+      "cat": "target_etb"
+    },
+    "AmazinGames::15267649716299": {
+      "title": "Pokémon Mini Tins 30th Anniversary Italian Version - IT",
+      "available": true,
+      "lang": "?",
+      "url": "https://amazingames.ch/products/pokemon-mini-tins-30th-anniversary-italian-version-it",
+      "cat": "set_other"
+    },
+    "AmazinGames::15267649126475": {
+      "title": "Pokémon Mini Tins 30th Anniversary English Version",
+      "available": true,
+      "lang": "EN",
+      "url": "https://amazingames.ch/products/pokemon-mini-tins-30th-anniversary-english-version",
+      "cat": "set_other"
+    },
+    "Pikaversum::15981935427958": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Tech Sticker Collection Lucario + Enhanced 2-Pack Q4 2026 (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-30th-celebration-tech-sticker-lucario-bundle-q4-2-pack-deutsch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15981935296886": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Tech Sticker Collection Alola-Kokowei + Enhanced 2-Pack Q4 2026 (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-30th-celebration-tech-sticker-alola-kokowei-bundle-q4-2-pack-deutsch",
       "cat": "set_other"
     }
   },
