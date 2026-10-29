@@ -3615,7 +3615,7 @@
     },
     "Pikaversum::15904829702518": {
       "title": "Pokémon TCG: 30th Celebration Battle Deck 2er-Set – Espeon ex & Umbreon ex",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-battle-deck-2er-set-espeon-ex-umbreon-ex",
       "cat": "set_other"
@@ -5334,6 +5334,20 @@
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-moltres-30th-celebration-30c-130-einzelkarte",
       "cat": "set_other"
+    },
+    "Cardmaniac::10359876452527": {
+      "title": "Pokémon TCG – Kampfdeck 30 Jahre: Nachtara‑ex",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-nachtara-ex",
+      "cat": "set_other"
+    },
+    "Cardmaniac::10359875895471": {
+      "title": "Pokémon TCG – Kampfdeck 30 Jahre: Psiana‑ex",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-psiana-ex",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -5575,7 +5589,7 @@
   },
   "hb": {
     "minuit": "2026-10-28",
-    "midi": "2026-10-23"
+    "midi": "2026-10-29"
   },
   "seeded_sites": [
     "Pokecard Store",
