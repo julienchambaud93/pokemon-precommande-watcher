@@ -1088,21 +1088,21 @@
     },
     "Zadoys::15813215486335": {
       "title": "30th Celebration Deck Combat FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-deck-combat-franzoesisch",
       "cat": "set_other"
     },
     "Zadoys::15813206638975": {
       "title": "30th Celebration Kampfdeck DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-kampfdeck-deutsch",
       "cat": "set_other"
     },
     "Zadoys::15813195137407": {
       "title": "30th Celebration Battle Deck EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-battle-deck-englisch",
       "cat": "set_other"
