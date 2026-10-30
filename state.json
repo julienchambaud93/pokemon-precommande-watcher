@@ -738,7 +738,7 @@
     },
     "Outpost Brussels::15904442548558": {
       "title": "Pokémon · 30e Anniversaire - Coffret Premium Métamorph - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-premium-metamorph-fr-s",
       "cat": "set_other"
@@ -787,28 +787,28 @@
     },
     "Outpost Brussels::15904444252494": {
       "title": "Pokémon · 30th Celebration - Mewtwo Figure Collection - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mewtwo-figure-collection-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904444121422": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mewtwo - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mewtwo-fr-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904444023118": {
       "title": "Pokémon · 30th Celebration - Mew Figure Collection - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mew-figure-collection-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904443924814": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mew - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mew-fr-s",
       "cat": "set_other"
@@ -4707,7 +4707,7 @@
     },
     "Poke Swiss::16391304905091": {
       "title": "Pokémon - 2026 30th Celebrations -  Nymphali ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-nymphali-ex",
       "cat": "set_other"
@@ -5424,6 +5424,76 @@
       "available": true,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-scizor-ex-celebrations-classic-collection-108-115-einzelkarte",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16416438550915": {
+      "title": "Pokémon - 2026 30th Celebrations FR -  Mewtwo ex",
+      "available": true,
+      "lang": "FR",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-mewtwo-ex-1",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16416429900163": {
+      "title": "Pokémon - 2026 30th Celebrations FR -  Dracaufeu",
+      "available": true,
+      "lang": "FR",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-dracaufeu",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16416426066307": {
+      "title": "Pokémon - 2026 30th Celebrations FR -  Mewtwo ex",
+      "available": false,
+      "lang": "FR",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-mewtwo-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16416416989571": {
+      "title": "Pokémon - 2026 30th Celebrations FR - Amphinobi ex",
+      "available": false,
+      "lang": "FR",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-amphinobi-ex",
+      "cat": "set_other"
+    },
+    "Poke Swiss::16416409256323": {
+      "title": "Pokémon - 2026 30th Celebrations FR - Rondoudou d'Erika",
+      "available": false,
+      "lang": "FR",
+      "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-rondoudou-derika",
+      "cat": "set_other"
+    },
+    "Zadoys::16049360241023": {
+      "title": "30th Celebration Booster Box Simplified Chinese",
+      "available": true,
+      "lang": "?",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-booster-box-simplified-chinese",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16168788132222": {
+      "title": "Pokémon: Pikachu – 30th Celebration (30C 031) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-031-chinesisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16168788099454": {
+      "title": "Pokémon: Pikachu ex – 30th Celebration (30C 047) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-ex-30th-celebration-30c-047-chinesisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16168788066686": {
+      "title": "Pokémon: Pikachu – 30th Celebration (30C 024) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-024-chinesisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16168788033918": {
+      "title": "Pokémon: Pikachu – 30th Celebration (30C 038) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-038-chinesisch-einzelkarte",
       "cat": "set_other"
     }
   },
