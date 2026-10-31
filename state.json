@@ -941,7 +941,7 @@
     },
     "MaRo Shop::15038250058104": {
       "title": "Pokémon - 30 Jahre - EX Tin Box DE (1 Stk. zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-en-1-stk-zufallige-auswahl",
       "cat": "set_other"
@@ -962,7 +962,7 @@
     },
     "MaRo Shop::15038249632120": {
       "title": "Pokémon - 30 Jahre - Tech Sticker Kollektion DE (1 St. zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-tech-sticker-kollektion-de-1-st-zufallige-auswahl",
       "cat": "set_other"
@@ -1039,7 +1039,7 @@
     },
     "MaRo Shop::15038199890296": {
       "title": "Pokémon - 30th Celebration - Mini Tin EN (1 Stk. zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-mini-tin-en",
       "cat": "set_other"
@@ -1977,14 +1977,14 @@
     },
     "MaRo Shop::15047248314744": {
       "title": "Pokémon - 30 Jahre - Kampf-Deck (Psiana EX, Nachtara EX) -DE- zufällige Auswahl",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-kampf-deck-psiana-ex-nachtara-ex-de-zufallige-auswahl",
       "cat": "set_other"
     },
     "MaRo Shop::15047248380280": {
       "title": "Pokémon - 30th Celebration - Battle Deck (Espeon EX, Umbreon EX) -EN- zufällige Auswahl",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-battle-deck-espeon-ex-umbreon-ex-en-zufallige-auswahl",
       "cat": "set_other"
@@ -2747,14 +2747,14 @@
     },
     "Cardmaniac::8686144520367": {
       "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Alola-Kokowei",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-alola-kokowei",
       "cat": "set_other"
     },
     "Cardmaniac::8686140424367": {
       "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Lucario",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-lucario",
       "cat": "set_other"
@@ -5372,7 +5372,7 @@
     },
     "Poke Swiss::16415777849731": {
       "title": "Pokémon - 2026 30th Celebrations EN - Maushold",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-en-maushold",
       "cat": "set_other"
