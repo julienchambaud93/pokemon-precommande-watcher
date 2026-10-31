@@ -5351,7 +5351,7 @@
     },
     "Poke Swiss::16415780340099": {
       "title": "Pokémon - 2026 30th Celebrations EN - Mew ex",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-en-mew-ex",
       "cat": "set_other"
@@ -5379,7 +5379,7 @@
     },
     "AmazinGames::15267720659019": {
       "title": "P-EN ME06 'Delta Reign' Elite Trainer Box",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://amazingames.ch/products/p-en-me06-delta-reign-elite-trainer-box",
       "cat": "target_etb"
@@ -5515,6 +5515,20 @@
       "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-drifloon-30th-celebration-30c-136-einzelkarte",
+      "cat": "set_other"
+    },
+    "AmazinGames::15270952697931": {
+      "title": "Pokémon Mini Tins 30th Anniversary English Version (Site)",
+      "available": true,
+      "lang": "EN",
+      "url": "https://amazingames.ch/products/pokemon-mini-tins-30th-anniversary-english-version-site",
+      "cat": "set_other"
+    },
+    "AmazinGames::15270952403019": {
+      "title": "Pokémon Mini Tins 30th Anniversary Italian Version - IT (Site)",
+      "available": true,
+      "lang": "?",
+      "url": "https://amazingames.ch/products/pokemon-mini-tins-30th-anniversary-italian-version-it-site",
       "cat": "set_other"
     }
   },
