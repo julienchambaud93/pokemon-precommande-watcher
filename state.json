@@ -1053,7 +1053,7 @@
     },
     "MaRo Shop::15038199529848": {
       "title": "Pokémon - 30 Jahre - Booster Bundle DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-booster-bundle-de",
       "cat": "set_other"
@@ -5302,7 +5302,7 @@
     },
     "Pokecard Store::15585909113207": {
       "title": "Pokémon 30th Celebration Charizard Figure (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-charizard-figure-cn",
       "cat": "set_other"
