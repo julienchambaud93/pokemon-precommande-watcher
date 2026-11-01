@@ -5530,6 +5530,34 @@
       "lang": "?",
       "url": "https://amazingames.ch/products/pokemon-mini-tins-30th-anniversary-italian-version-it-site",
       "cat": "set_other"
+    },
+    "Pikaversum::15990015656310": {
+      "title": "Nidorina (30th Celebration) [MEP - 101]",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/nidorina-101-30th-celebration-me-mega-evolution-promo-713260",
+      "cat": "set_other"
+    },
+    "Pikaversum::15989952282998": {
+      "title": "Articuno (German) [30C - 132/128]",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/articuno-132-128-me-30th-celebration-716220",
+      "cat": "set_other"
+    },
+    "Pikaversum::15989947367798": {
+      "title": "Pikachu (German) [30C - 024/128]",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pikachu-024-128-me-30th-celebration-716309",
+      "cat": "set_other"
+    },
+    "Pikaversum::15989945696630": {
+      "title": "Pikachu (German) [30C - 029/128]",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pikachu-029-128-me-30th-celebration-716311",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -6004,7 +6032,8 @@
     "<c339d3b0850547ff8ef21963d20ae769@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<95ce135393b64e3fba6c2dc9f066b61f@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<5520268b144242aca73de5bc5fc734d0@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<90d7de9d7ddc4cfb876fb6324c17bfe7@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<90d7de9d7ddc4cfb876fb6324c17bfe7@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<d684c97085934461a7c2d67e00fb403f@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
