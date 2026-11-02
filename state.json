@@ -5691,7 +5691,10 @@
     "Pikaversum::https://pikaversum.ch/search?q=30th%20celebration": [
       "30th celebration elite trainer"
     ],
-    "Detsuki::https://detsuki.ch/search?q=30th%20celebration": [],
+    "Detsuki::https://detsuki.ch/search?q=30th%20celebration": [
+      "delta reign elite trainer",
+      "etb\",\"handle\":\"pokemon mega evolution delta reign"
+    ],
     "PikaStore::https://www.pikastore.ch/search?q=30th%20celebration": [
       "etb coffret dresseur d&#39;elite me05.5 30e",
       "etb coffret dresseur d'elite me05.5 30e",
@@ -5929,7 +5932,8 @@
     "The Uncommon Shop::https://theuncommonshop.ch/product/livestream-pokemon-mega-evolution-delta-reign-me06-elite-trainer-box/": "out",
     "Toytans::https://www.toytans.ch/de/pokemon-displays/2938-pokemon-me06-delta-reign-elite-trainer-box-en-196214143906.html": "in",
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-ME06-Delta-Reign-Elite-Trainer-Box": "out",
-    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/2948-pokemon-me055-30th-celebration-nidorina-etb-promo-en-5390368994772.html": "in"
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/2948-pokemon-me055-30th-celebration-nidorina-etb-promo-en-5390368994772.html": "in",
+    "Detsuki::https://detsuki.ch/products/pokemon-mega-evolution-delta-reign-elite-trainer-box-me06": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
