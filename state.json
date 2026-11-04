@@ -3181,7 +3181,7 @@
     },
     "Pikaversum::15881421390198": {
       "title": "Pokémon TCG – 30th Celebration Booster Box (JPN, M6a)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-box-jpn-m6a",
       "cat": "set_other"
@@ -3608,7 +3608,7 @@
     },
     "Pikaversum::15904312066422": {
       "title": "Pokémon TCG: 30th Celebration – Tech Sticker Collection Display (12 Stück)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection",
       "cat": "set_other"
@@ -5705,6 +5705,55 @@
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-043-chinesisch-einzelkarte",
       "cat": "set_other"
+    },
+    "Pokecard Store::15592567112055": {
+      "title": "Pokémon 30th Celebration (M6a) Booster Pack (KO)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-pack-ko",
+      "cat": "set_other"
+    },
+    "Pikaversum::15995516518774": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Ditto Premium Collection + Mega Venusaur ex Premium Collection (Englisch)",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-ditto-premium-collection-mega-venusaur-ex-premium-collection-englisch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15995444035958": {
+      "title": "Pokémon TCG: 30th Celebration – Tech Sticker Collection Display (12 Stück) – Französisch",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection-display-12-stuck-franzosisch",
+      "cat": "set_other"
+    },
+    "PokeFaust::15595617419639": {
+      "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Night Edition pre-order",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night-edition-kopie",
+      "cat": "target_upc"
+    },
+    "PokeFaust::15595600052599": {
+      "title": "Pokémon TCG 30th Celebration Ultra Premium Collection Day Edition pre-order",
+      "available": true,
+      "lang": "?",
+      "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-ultra-premium-collection-day-edition-kopie",
+      "cat": "target_upc"
+    },
+    "TMS Bricks Shop::16175674392958": {
+      "title": "Pokémon: Pikachu – 30th Celebration (30C 028) – Einzelkarte",
+      "available": true,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-028-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16175667151230": {
+      "title": "Pokémon: Pikachu – 30th Celebration (30C 028) – Einzelkarte",
+      "available": true,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-028-chinesisch-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -6193,7 +6242,9 @@
     "<c967d92a1f4744b39bd8104f727d51d6@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<621a920f6c1d451d8414975658e6078e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<6e5296b914d44e9da75460f5d7b8e883@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<34e1b4d238e74fd39c1cacb53f8eedb1@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<34e1b4d238e74fd39c1cacb53f8eedb1@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<45bf17bab19d4488a6da0c7b4dc5d28f@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<648901a9de2649e29630aec02476b06b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
