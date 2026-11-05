@@ -4371,7 +4371,7 @@
     },
     "Pokecard Store::15571273318775": {
       "title": "Pokémon 30th Celebration (M6a) Booster Pack (CN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-m6a-booster-pack-cn-1",
       "cat": "set_other"
@@ -4511,7 +4511,7 @@
     },
     "PokeFaust::15494469190007": {
       "title": "Pokémon ME06 Delta Reign Elite Trainer Box",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-me06-delta-reign-elite-trainer-box",
       "cat": "target_etb"
