@@ -5855,7 +5855,7 @@
     },
     "AmazinGames::15279774433355": {
       "title": "DITTO PREMIUM COLLECTION 30TH CELEBRATION",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://amazingames.ch/products/ditto-premium-collection-30th-celebration",
       "cat": "target_upc"
@@ -5866,6 +5866,13 @@
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-gengar-30th-celebration-cn-30th-c-150-einzelkarte",
       "cat": "set_other"
+    },
+    "Zadoys::16064710345087": {
+      "title": "30th Celebration Ditto Premium Collection + Chaos Rising Elite Trainer Box EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-ditto-premium-collection-chaos-rising-elite-trainer-box-en",
+      "cat": "target_etb"
     }
   },
   "html": {
