@@ -5855,7 +5855,7 @@
     },
     "AmazinGames::15279774433355": {
       "title": "DITTO PREMIUM COLLECTION 30TH CELEBRATION",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://amazingames.ch/products/ditto-premium-collection-30th-celebration",
       "cat": "target_upc"
@@ -5873,6 +5873,13 @@
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-ditto-premium-collection-chaos-rising-elite-trainer-box-en",
       "cat": "target_etb"
+    },
+    "Zadoys::16064739770751": {
+      "title": "30th Celebration Mewtwo Figure Collection + Ascended Heroes Tech Sticker Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-mewtwo-figure-collection-ascended-heroes-tech-sticker-collection-en",
+      "cat": "set_other"
     }
   },
   "html": {
