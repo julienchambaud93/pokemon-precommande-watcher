@@ -738,7 +738,7 @@
     },
     "Outpost Brussels::15904442548558": {
       "title": "Pokémon · 30e Anniversaire - Coffret Premium Métamorph - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-premium-metamorph-fr-s",
       "cat": "set_other"
@@ -787,7 +787,7 @@
     },
     "Outpost Brussels::15904444252494": {
       "title": "Pokémon · 30th Celebration - Mewtwo Figure Collection - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mewtwo-figure-collection-en-s",
       "cat": "set_other"
@@ -801,7 +801,7 @@
     },
     "Outpost Brussels::15904444023118": {
       "title": "Pokémon · 30th Celebration - Mew Figure Collection - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mew-figure-collection-en-s",
       "cat": "set_other"
@@ -1676,7 +1676,7 @@
     },
     "LaschoCards::11495143539029": {
       "title": "Pokémon TCG - 30th Celebration ex Tin",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ex-tin",
       "cat": "set_other"
@@ -2145,7 +2145,7 @@
     },
     "Zadoys::15813139759487": {
       "title": "Delta Reign Elite Trainer Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-me06-elite-trainer-box-englisch",
       "cat": "target_etb"
@@ -2747,14 +2747,14 @@
     },
     "Cardmaniac::8686144520367": {
       "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Alola-Kokowei",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-alola-kokowei",
       "cat": "set_other"
     },
     "Cardmaniac::8686140424367": {
       "title": "Pokémon TCG – Tech-Sticker-Kollektion 30 Jahre – Lucario",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-tech-sticker-kollektion-30-jahre-lucario",
       "cat": "set_other"
@@ -4042,7 +4042,7 @@
     },
     "Zadoys::15909011587455": {
       "title": "Delta Reign Sleeved Booster EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-sleeved-booster-englisch",
       "cat": "set_other"
@@ -4063,7 +4063,7 @@
     },
     "Zadoys::15909047796095": {
       "title": "Delta Reign Booster Bundle EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-booster-bundle-englisch",
       "cat": "set_other"
@@ -5771,7 +5771,7 @@
     },
     "Pikaversum::15997677207926": {
       "title": "Pokémon TCG Bundle: 30th Celebration Ditto Premium Collection + Mega Greninja ex Premium Collection (Englisch)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-ditto-premium-collection-mega-greninja-ex-premium-collection-englisch",
       "cat": "set_other"
@@ -5851,6 +5851,20 @@
       "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-30c-033-einzelkarte",
+      "cat": "set_other"
+    },
+    "AmazinGames::15279774433355": {
+      "title": "DITTO PREMIUM COLLECTION 30TH CELEBRATION",
+      "available": true,
+      "lang": "?",
+      "url": "https://amazingames.ch/products/ditto-premium-collection-30th-celebration",
+      "cat": "target_upc"
+    },
+    "TMS Bricks Shop::16179079643518": {
+      "title": "Pokémon: Gengar – 30th Celebration CN (30th C 150) – Einzelkarte",
+      "available": false,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-gengar-30th-celebration-cn-30th-c-150-einzelkarte",
       "cat": "set_other"
     }
   },
@@ -6345,7 +6359,9 @@
     "<648901a9de2649e29630aec02476b06b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<a8cb946764374d1ba71582017a096f71@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<78079b28968042fd85673e0e4fa66d52@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<51e4bfe654c54610888e9a1c5317b743@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<51e4bfe654c54610888e9a1c5317b743@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<31bf011ce24845828cf1317cead1a109@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<8ba17be09cae46a38a8ea1caa9c3615b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
