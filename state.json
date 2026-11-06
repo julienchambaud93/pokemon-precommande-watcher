@@ -136,7 +136,7 @@
     },
     "LaschoCards::11393556578645": {
       "title": "Pokémon TCG - 30th Celebration Poster Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-poster-collection",
       "cat": "set_other"
@@ -1704,7 +1704,7 @@
     },
     "LaschoCards::11498603118933": {
       "title": "Pokémon TCG - 30th Celebration ex Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-celebration-ex-box",
       "cat": "set_other"
@@ -2138,7 +2138,7 @@
     },
     "Zadoys::15813142249855": {
       "title": "Delta Herrschaft Top Trainer Box DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-me06-top-trainer-box-deutsch",
       "cat": "target_etb"
@@ -5568,7 +5568,7 @@
     },
     "SkySpell::16682560094598": {
       "title": "Protecc Acryl Case 30th Anniversary Ultra-Premium Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://skyspell.ch/products/protecc-acryl-case-30th-anniversary-ultra-premium-box",
       "cat": "target_upc"
@@ -5659,7 +5659,7 @@
     },
     "Zadoys::16059033256319": {
       "title": "Mega Golurk ex DLR 047 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/mega-golurk-ex-delta-reign-047-englisch",
       "cat": "set_other"
@@ -5879,6 +5879,41 @@
       "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-mewtwo-figure-collection-ascended-heroes-tech-sticker-collection-en",
+      "cat": "set_other"
+    },
+    "Pikaversum::15999326847350": {
+      "title": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
+      "cat": "set_other"
+    },
+    "Pikaversum::15999329894774": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Mew Figure Collection + Mewtwo Figure Collection (Englisch)",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mew-figure-collection-mewtwo-figure-collection-englisch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15998722113910": {
+      "title": "Pokémon TCG Bundle: 2× 30th Celebration Booster Bundle + 3× Mega Forces Tin (Französisch)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-2-30th-celebration-booster-bundle-3-mega-forces-tin-franzosisch",
+      "cat": "set_other"
+    },
+    "Pikaversum::15998724473206": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Booster Bundle + 2× Mega Moonlit Tin (Französisch)",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-booster-bundle-2-mega-moonlit-tin-franzosisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16064725516671": {
+      "title": "30th Celebration Mew Figure Collection + Ascended Heroes Tech Sticker Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-mew-figure-collection-ascended-heroes-tech-sticker-collection-en",
       "cat": "set_other"
     }
   },
