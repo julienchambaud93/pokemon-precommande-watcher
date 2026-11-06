@@ -5990,7 +5990,10 @@
       "30th celebration elite trainer",
       "30th celebration etb",
       "30th celebration nidorina etb",
-      "30th celebration ultra premium"
+      "30th celebration pikachu night upc",
+      "30th celebration sylveon upc",
+      "30th celebration ultra premium",
+      "30th celebration umbreon upc"
     ],
     "Pokemania::https://www.pokemania.ch/search?q=30th%20celebration": [],
     "MaRo Shop::https://www.maro-shop.ch/search?q=30th%20celebration": [
@@ -6180,7 +6183,7 @@
     "GoodGames Bern::https://www.goodgamesbern.ch": []
   },
   "hb": {
-    "minuit": "2026-11-06",
+    "minuit": "2026-11-07",
     "midi": "2026-10-29"
   },
   "seeded_sites": [
@@ -6312,7 +6315,10 @@
     "Amazing Toys::https://amazingtoys.ch/Pokemon-TCG-ME06-Delta-Reign-Elite-Trainer-Box": "in",
     "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/2948-pokemon-me055-30th-celebration-nidorina-etb-promo-en-5390368994772.html": "in",
     "Detsuki::https://detsuki.ch/products/pokemon-mega-evolution-delta-reign-elite-trainer-box-me06": "in",
-    "PokeFaust::https://pokefaust.com/fr/products/pokemon-me06-delta-reign-elite-trainer-box": "out"
+    "PokeFaust::https://pokefaust.com/fr/products/pokemon-me06-delta-reign-elite-trainer-box": "out",
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7437-pokemon-me055-30th-celebration-umbreon-upc-promo-en-5390368994796.html": "in",
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7438-pokemon-me055-30th-celebration-pikachu-night-upc-promo-en-5390368994802.html": "in",
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7439-pokemon-me055-30th-celebration-sylveon-upc-promo-en-5390368994819.html": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
