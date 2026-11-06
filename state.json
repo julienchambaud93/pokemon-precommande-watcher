@@ -4105,7 +4105,7 @@
     },
     "Detsuki::16075606262104": {
       "title": "Pokémon 30th Celebration Display (30thC)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://detsuki.ch/products/pokemon-30th-celebration-display-30thc",
       "cat": "set_other"
@@ -4385,7 +4385,7 @@
     },
     "MaRo Shop::15066341671288": {
       "title": "Pokémon - Delta Herrschaft - Top-Trainer Box TTB DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-herrschaft-top-trainer-box-ttb-de",
       "cat": "target_etb"
@@ -4399,7 +4399,7 @@
     },
     "MaRo Shop::15066339705208": {
       "title": "Pokémon - Delta Reign - Booster Display EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-booster-display-en",
       "cat": "set_other"
@@ -5915,6 +5915,27 @@
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-mew-figure-collection-ascended-heroes-tech-sticker-collection-en",
       "cat": "set_other"
+    },
+    "Cardmaniac::10368911638703": {
+      "title": "Pokémon TCG – Figuren-Kollektion 30 Jahre: Mewtu",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-figuren-kollektion-30-jahre-mewtu",
+      "cat": "set_other"
+    },
+    "Cardmaniac::10368904659119": {
+      "title": "Pokémon TCG – Figuren-Kollektion 30 Jahre: Mew",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-figuren-kollektion-30-jahre-mew",
+      "cat": "set_other"
+    },
+    "Cardmaniac::10368903741615": {
+      "title": "Pokémon TCG – Premium-Kollektion 30 Jahre: Ditto",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-premium-kollektion-30-jahre-ditto",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -6411,7 +6432,8 @@
     "<51e4bfe654c54610888e9a1c5317b743@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<31bf011ce24845828cf1317cead1a109@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<8ba17be09cae46a38a8ea1caa9c3615b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<4e08f45eb97c44849bffd6f687bada4d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<4e08f45eb97c44849bffd6f687bada4d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<d74d9b860fa448ea9a4ea7d80a07ed41@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
