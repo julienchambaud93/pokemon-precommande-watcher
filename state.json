@@ -3370,7 +3370,7 @@
     },
     "Pokereaves::10738980618587": {
       "title": "Pokémon 30th Celebration Booster Pack - English",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-30th-celebration-booster-pack-english",
       "cat": "set_other"
@@ -4798,7 +4798,7 @@
     },
     "Poke Swiss::16391345766787": {
       "title": "Pokémon - 2026 30th Celebrations - Jirachi ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-jirachi-ex-1",
       "cat": "set_other"
@@ -5064,7 +5064,7 @@
     },
     "Detsuki::16113173889368": {
       "title": "Pokémon Mega Evolution Delta Reign Elite Trainer Box (ME06)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://detsuki.ch/products/pokemon-mega-evolution-delta-reign-elite-trainer-box-me06",
       "cat": "target_etb"
@@ -5964,6 +5964,69 @@
       "lang": "?",
       "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-figure-collection-set-eng",
       "cat": "set_other"
+    },
+    "Zaibatsu::11452214083926": {
+      "title": "Pokémon |  30th Celebration | Elite Trainer Box + Battle Deck Set Bundle - EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://zaibatsu.ch/products/pokemon-30th-celebration-destined-rivals-elite-trainer-box-bundle-en-02-10-2026-kopie",
+      "cat": "target_etb"
+    },
+    "Zaibatsu::11452146712918": {
+      "title": "Pokémon | Mega Evolution: ME06 Delta Reign | Elite Trainer Box Bundle | ENG",
+      "available": true,
+      "lang": "?",
+      "url": "https://zaibatsu.ch/products/pokemon-mega-evolution-me06-delta-reign-elite-trainer-box-eng",
+      "cat": "target_etb"
+    },
+    "Pikaversum::16000934969718": {
+      "title": "Pokémon TCG: 30th Celebration Elite Trainer Box – B-Ware",
+      "available": false,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-b-ware",
+      "cat": "target_etb"
+    },
+    "Cardmaniac::10369988591791": {
+      "title": "Pokémon TCG – 30th Celebration Card Set",
+      "available": true,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-card-set",
+      "cat": "set_other"
+    },
+    "PocketDex::16686367670621": {
+      "title": "30 ans Pokémon - Collection Classeur - FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-collection-classeur-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16686394704221": {
+      "title": "30 ans Pokémon - Coffret Collection Premium - EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-tin-box-coffret-collection-premium-en",
+      "cat": "set_other"
+    },
+    "PocketDex::16686379958621": {
+      "title": "30 ans Pokémon - Tripack - FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-tripack-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16686420033885": {
+      "title": "30 ans Pokémon - Deck de combat Noctali ex - FR",
+      "available": true,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-deck-de-combat-noctali-ex-fr",
+      "cat": "set_other"
+    },
+    "PocketDex::16686422294877": {
+      "title": "30 ans Pokémon - Deck de combat Mentali ex - FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://pocketdex.ch/products/30-ans-pokemon-deck-de-combat-mentali-ex-fr",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -6016,6 +6079,7 @@
     ],
     "Toytans::https://toytans.ch/recherche?controller=search&s=30th%20celebration": [
       "30th celebration elite trainer",
+      "30th celebration espeon upc",
       "30th celebration etb",
       "30th celebration nidorina etb",
       "30th celebration pikachu night upc",
@@ -6346,7 +6410,8 @@
     "PokeFaust::https://pokefaust.com/fr/products/pokemon-me06-delta-reign-elite-trainer-box": "out",
     "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7437-pokemon-me055-30th-celebration-umbreon-upc-promo-en-5390368994796.html": "in",
     "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7438-pokemon-me055-30th-celebration-pikachu-night-upc-promo-en-5390368994802.html": "in",
-    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7439-pokemon-me055-30th-celebration-sylveon-upc-promo-en-5390368994819.html": "in"
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7439-pokemon-me055-30th-celebration-sylveon-upc-promo-en-5390368994819.html": "in",
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7439-pokemon-me055-30th-celebration-espeon-upc-promo-en-5390368994819.html": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
