@@ -2922,7 +2922,7 @@
     },
     "Pikaversum::15867144110454": {
       "title": "Pokémon TCG: 30th Celebration Booster Bundle",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
@@ -4399,7 +4399,7 @@
     },
     "MaRo Shop::15066339705208": {
       "title": "Pokémon - Delta Reign - Booster Display EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-booster-display-en",
       "cat": "set_other"
@@ -6047,6 +6047,20 @@
       "available": false,
       "lang": "EN",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-figure-collection-mew-30th-celebration-en",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16690488475997": {
+      "title": "Pokémon - 30th Celebration First Partner Collection (JPN)",
+      "available": true,
+      "lang": "EN",
+      "url": "https://collecting.cloud/products/pokemon-30th-celebration-first-partner-collection-en",
+      "cat": "set_other"
+    },
+    "Raystorm::11791388934485": {
+      "title": "Tripack 30ème Anniversaire [FR]",
+      "available": true,
+      "lang": "FR",
+      "url": "https://raystorm.ch/products/collection-autocollant-reajustable-30e-anniversaire-fr",
       "cat": "set_other"
     }
   },
