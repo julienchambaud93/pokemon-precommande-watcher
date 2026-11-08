@@ -1886,7 +1886,7 @@
     },
     "PokeFaust::15510924591479": {
       "title": "Pokémon TCG 30th Anniversary 2 Pack Blister",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-anniversary-2-pack-blister",
       "cat": "set_other"
@@ -2922,7 +2922,7 @@
     },
     "Pikaversum::15867144110454": {
       "title": "Pokémon TCG: 30th Celebration Booster Bundle",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
@@ -3370,7 +3370,7 @@
     },
     "Pokereaves::10738980618587": {
       "title": "Pokémon 30th Celebration Booster Pack - English",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-30th-celebration-booster-pack-english",
       "cat": "set_other"
@@ -4028,7 +4028,7 @@
     },
     "Collecting Cloud::16612293214557": {
       "title": "Pokémon - 30th Celebration Mini Tin (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://collecting.cloud/products/pokemon-30th-celebration-mini-tin-en",
       "cat": "set_other"
@@ -5883,14 +5883,14 @@
     },
     "Pikaversum::15999326847350": {
       "title": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
       "cat": "set_other"
     },
     "Pikaversum::15999329894774": {
       "title": "Pokémon TCG Bundle: 30th Celebration Mew Figure Collection + Mewtwo Figure Collection (Englisch)",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mew-figure-collection-mewtwo-figure-collection-englisch",
       "cat": "set_other"
@@ -5974,7 +5974,7 @@
     },
     "Zaibatsu::11452146712918": {
       "title": "Pokémon | Mega Evolution: ME06 Delta Reign | Elite Trainer Box Bundle | ENG",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://zaibatsu.ch/products/pokemon-mega-evolution-me06-delta-reign-elite-trainer-box-eng",
       "cat": "target_etb"
@@ -6026,6 +6026,27 @@
       "available": false,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-deck-de-combat-mentali-ex-fr",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16690282037597": {
+      "title": "Pokémon -  Battle Deck 30th Celebration (EN)",
+      "available": true,
+      "lang": "EN",
+      "url": "https://collecting.cloud/products/pokemon-battle-deck-30th-celebration-en",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16682789929309": {
+      "title": "Pokémon - Mega Evolution - Figure Collection Mewtwo 30th Celebration (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collecting.cloud/products/pokemon-mega-evolution-figure-collection-mewtwo-30th-celebration-en",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16682777018717": {
+      "title": "Pokémon - Mega Evolution - Figure Collection Mew 30th Celebration (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collecting.cloud/products/pokemon-mega-evolution-figure-collection-mew-30th-celebration-en",
       "cat": "set_other"
     }
   },
@@ -6538,7 +6559,8 @@
     "<d74d9b860fa448ea9a4ea7d80a07ed41@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<dfa2ced41a344f4aa2100f97eab70fac@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<082bc93e8af04fdf819ce810b027c780@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<c8a9915f86b24861b92a6055c97811ff@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<c8a9915f86b24861b92a6055c97811ff@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<c48f76e7c9df41c181f95d205be2addd@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
