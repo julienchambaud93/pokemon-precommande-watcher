@@ -3643,7 +3643,7 @@
     },
     "TMS Bricks Shop::16109466222974": {
       "title": "Pokémon: Popplio (021/30th-P) – Einzelkarte",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-popplio-021-30th-p-einzelkarte",
       "cat": "set_other"
@@ -5540,7 +5540,7 @@
     },
     "Pikaversum::15989952282998": {
       "title": "Articuno (German) [30C - 132/128]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/articuno-132-128-me-30th-celebration-716220",
       "cat": "set_other"
@@ -5897,14 +5897,14 @@
     },
     "Pikaversum::15998722113910": {
       "title": "Pokémon TCG Bundle: 2× 30th Celebration Booster Bundle + 3× Mega Forces Tin (Französisch)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-2-30th-celebration-booster-bundle-3-mega-forces-tin-franzosisch",
       "cat": "set_other"
     },
     "Pikaversum::15998724473206": {
       "title": "Pokémon TCG Bundle: 30th Celebration Booster Bundle + 2× Mega Moonlit Tin (Französisch)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-booster-bundle-2-mega-moonlit-tin-franzosisch",
       "cat": "set_other"
@@ -6062,6 +6062,20 @@
       "lang": "FR",
       "url": "https://raystorm.ch/products/collection-autocollant-reajustable-30e-anniversaire-fr",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16181745385854": {
+      "title": "Pokémon: Lapras – 30 Jahre (30C 131) – Einzelkarte",
+      "available": false,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-lapras-30-jahre-30c-131-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16181745222014": {
+      "title": "Pokémon: Froakie – 30th Anniversary Celebration Simplified Chinese (30th-P 018) – Einzelkarte",
+      "available": false,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-froakie-30th-anniversary-celebration-simplified-chinese-30th-p-018-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -6120,6 +6134,7 @@
       "30th celebration espeon upc",
       "30th celebration etb",
       "30th celebration nidorina etb",
+      "30th celebration pikachu day upc",
       "30th celebration pikachu night upc",
       "30th celebration sylveon upc",
       "30th celebration ultra premium",
@@ -6316,7 +6331,7 @@
     "GoodGames Bern::https://www.goodgamesbern.ch": []
   },
   "hb": {
-    "minuit": "2026-11-08",
+    "minuit": "2026-11-09",
     "midi": "2026-10-29"
   },
   "seeded_sites": [
@@ -6452,7 +6467,8 @@
     "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7437-pokemon-me055-30th-celebration-umbreon-upc-promo-en-5390368994796.html": "in",
     "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7438-pokemon-me055-30th-celebration-pikachu-night-upc-promo-en-5390368994802.html": "in",
     "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7439-pokemon-me055-30th-celebration-sylveon-upc-promo-en-5390368994819.html": "in",
-    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7439-pokemon-me055-30th-celebration-espeon-upc-promo-en-5390368994819.html": "in"
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7439-pokemon-me055-30th-celebration-espeon-upc-promo-en-5390368994819.html": "in",
+    "Toytans::https://www.toytans.ch/de/pokemon-einzelkarten/7440-pokemon-me055-30th-celebration-pikachu-day-upc-promo-en-5390368994826.html": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
