@@ -6086,7 +6086,7 @@
     },
     "AmazinGames::15284187824203": {
       "title": "Pokémon Megaevoluzione \"Delta Reign\" Box Display 36 Buste ENG",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://amazingames.ch/products/pokemon-megaevoluzione-dominio-delta-box-display-36-buste-eng",
       "cat": "set_other"
@@ -6601,6 +6601,13 @@
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mew-figure-collection-mewtwo-figure-collection-italienisch",
       "cat": "set_other"
+    },
+    "LaschoCards::11795140608341": {
+      "title": "Pokémon TCG - 30th Celebration complete Pikachu Set",
+      "available": true,
+      "lang": "?",
+      "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-complete-pikachu-set",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -6860,7 +6867,7 @@
   },
   "hb": {
     "minuit": "2026-11-09",
-    "midi": "2026-11-09"
+    "midi": "2026-11-10"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -7127,7 +7134,8 @@
     "<c8a9915f86b24861b92a6055c97811ff@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<c48f76e7c9df41c181f95d205be2addd@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<4bc72847cf4b47439724fd87ea37f41d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<22e6540fdda1478884fb98fff434401d@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<22e6540fdda1478884fb98fff434401d@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<d833d39d266d4dfab14093cd1ddf63a6@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
