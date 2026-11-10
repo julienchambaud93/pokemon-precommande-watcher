@@ -5428,7 +5428,7 @@
     },
     "Poke Swiss::16416438550915": {
       "title": "Pokémon - 2026 30th Celebrations FR -  Mewtwo ex",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-mewtwo-ex-1",
       "cat": "set_other"
@@ -6615,6 +6615,20 @@
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-illustration-rare-set",
       "cat": "set_other"
+    },
+    "Pikaversum::16006986269046": {
+      "title": "Pokémon TCG : Collection Premium Métamorph 30ᵉ Anniversaire (FR) + Collection avec figurine Méga-Lucario-ex (FR) Set",
+      "available": true,
+      "lang": "FR",
+      "url": "https://pikaversum.ch/products/pokemon-bundle-fr-metamorph-mega-lucario-ex-figurine",
+      "cat": "set_other"
+    },
+    "Pikaversum::16006933381494": {
+      "title": "Pokémon TCG : Collection Premium Métamorph 30ᵉ Anniversaire (FR) + Collection Premium Méga-Amphinobi-ex (FR) Set",
+      "available": true,
+      "lang": "FR",
+      "url": "https://pikaversum.ch/products/pokemon-bundle-fr-metamorph-mega-amphinobi-ex-premium-collection",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -7142,7 +7156,8 @@
     "<c48f76e7c9df41c181f95d205be2addd@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<4bc72847cf4b47439724fd87ea37f41d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<22e6540fdda1478884fb98fff434401d@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<d833d39d266d4dfab14093cd1ddf63a6@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<d833d39d266d4dfab14093cd1ddf63a6@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<0a87e0ac7b514b42b2ecc1e0f18c9d4d@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
