@@ -2124,7 +2124,7 @@
     },
     "Zadoys::15813169152383": {
       "title": "Delta Reign Booster Box EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-me06-booster-box-englisch",
       "cat": "set_other"
@@ -2915,7 +2915,7 @@
     },
     "Pikaversum::15867151614326": {
       "title": "Pokémon TCG: 30th Celebration Mini Tin Display (10 Mini Tins)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-mini-tin-display-10-mini-tins",
       "cat": "set_other"
@@ -4546,7 +4546,7 @@
     },
     "Zadoys::16020570669439": {
       "title": "Alolan Exeggutor 30C 129 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/alolan-exeggutor-30th-celebration-129-englisch",
       "cat": "set_other"
@@ -4567,7 +4567,7 @@
     },
     "Zadoys::16020556743039": {
       "title": "Sylveon ex 30C 071 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/sylveon-ex-30th-celebration-071-englisch",
       "cat": "set_other"
@@ -4581,7 +4581,7 @@
     },
     "Zadoys::16020548190591": {
       "title": "Umbreon ex 30C 092 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/umbreon-ex-30th-celebration-092-englisch",
       "cat": "set_other"
@@ -4595,14 +4595,14 @@
     },
     "Zadoys::16020542423423": {
       "title": "Greninja ex 30C 021 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/greninja-ex-30th-celebration-021-englisch",
       "cat": "set_other"
     },
     "Zadoys::16020510310783": {
       "title": "Fuecoco ex 30C 015 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/fuecoco-ex-30th-celebration-015-englisch",
       "cat": "set_other"
@@ -4791,7 +4791,7 @@
     },
     "Zadoys::16021978087807": {
       "title": "Crobat [G] Lv.44 30C PL47 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/crobat-g-lv-44-30th-celebration-pl47-englisch",
       "cat": "set_other"
@@ -6663,6 +6663,13 @@
       "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-me06-delta-reign-booster-display-english-copia",
+      "cat": "set_other"
+    },
+    "Collecting Cloud::16696157536605": {
+      "title": "Pokémon -  Komplettes Set der 27 Promokarten 30th Celebration (JPN)",
+      "available": true,
+      "lang": "?",
+      "url": "https://collecting.cloud/products/pokemon-30th-celebration-first-partner-collection-27-promo-cards-jpn",
       "cat": "set_other"
     }
   },
