@@ -2047,7 +2047,7 @@
     },
     "LaschoCards::11507098878293": {
       "title": "Pokémon TCG - Mega Evolution ME06: Delta Reign Booster Box Display",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-mega-evolution-me06-delta-reign-booster-box-display",
       "cat": "set_other"
@@ -6629,6 +6629,20 @@
       "lang": "FR",
       "url": "https://pikaversum.ch/products/pokemon-bundle-fr-metamorph-mega-amphinobi-ex-premium-collection",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16185450660222": {
+      "title": "Pokémon: Pikachu – 30th Celebration Simplified Chinese (30thC 038) – Einzelkarte",
+      "available": false,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-simplified-chinese-30thc-038-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16185446695294": {
+      "title": "Pokémon: Pikachu – 30th Celebration Simplified Chinese (30thC 035) – Einzelkarte",
+      "available": false,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-simplified-chinese-30thc-035-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -6889,7 +6903,7 @@
   },
   "hb": {
     "minuit": "2026-11-11",
-    "midi": "2026-11-10"
+    "midi": "2026-11-11"
   },
   "seeded_sites": [
     "Pokecard Store",
