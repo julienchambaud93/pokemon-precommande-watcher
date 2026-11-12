@@ -2103,7 +2103,7 @@
     },
     "Zadoys::15813176066431": {
       "title": "Delta Reign Booster EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-me06-booster-englisch",
       "cat": "set_other"
@@ -2124,7 +2124,7 @@
     },
     "Zadoys::15813169152383": {
       "title": "Delta Reign Booster Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-me06-booster-box-englisch",
       "cat": "set_other"
@@ -3503,7 +3503,7 @@
     },
     "Raystorm::11637132362069": {
       "title": "Poster Collection 30ème Anniversaire [EN]",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://raystorm.ch/products/poster-collection-30eme-anniversaire-en",
       "cat": "set_other"
@@ -3923,7 +3923,7 @@
     },
     "Poke Swiss::16364090655107": {
       "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex",
       "cat": "set_other"
@@ -3951,7 +3951,7 @@
     },
     "Poke Swiss::16364067357059": {
       "title": "Pokémon - 2026 30th Celebrations - Gromago",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-gromago",
       "cat": "set_other"
@@ -3965,7 +3965,7 @@
     },
     "Poke Swiss::16364065554819": {
       "title": "Pokémon - 2026 30th Celebrations - Ekaiser",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ekaiser",
       "cat": "set_other"
@@ -3986,21 +3986,21 @@
     },
     "Poke Swiss::16364057461123": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-1",
       "cat": "set_other"
     },
     "Poke Swiss::16364056379779": {
       "title": "Pokémon - 2026 30th Celebrations - Noctali ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-noctali-ex",
       "cat": "set_other"
     },
     "Poke Swiss::16364051661187": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex",
       "cat": "set_other"
@@ -4210,7 +4210,7 @@
     },
     "Poke Swiss::16370703663491": {
       "title": "Pokémon - 2026 30th Celebrations - Salarsen",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-baudrive-copie",
       "cat": "set_other"
@@ -4238,7 +4238,7 @@
     },
     "Poke Swiss::16370679513475": {
       "title": "Pokémon - 2026 30th Celebrations - Tyranocif Obscur",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-tyranocif-obscur",
       "cat": "set_other"
@@ -4280,7 +4280,7 @@
     },
     "Poke Swiss::16370654904707": {
       "title": "Pokémon - 2026 30th Celebrations - Morpeko",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-drattak-ex-copie",
       "cat": "set_other"
@@ -4308,7 +4308,7 @@
     },
     "Poke Swiss::16370616893827": {
       "title": "Pokémon - 2026 30th Celebrations - Sulfura",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-sulfura",
       "cat": "set_other"
@@ -4686,7 +4686,7 @@
     },
     "Poke Swiss::16391320306051": {
       "title": "Pokémon - 2026 30th Celebrations - Lokhlass",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-artikodin-1",
       "cat": "set_other"
@@ -4735,7 +4735,7 @@
     },
     "Poke Swiss::16391334953347": {
       "title": "Pokémon - 2026 30th Celebrations - Lougaroc",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lougaroc",
       "cat": "set_other"
@@ -5428,7 +5428,7 @@
     },
     "Poke Swiss::16416438550915": {
       "title": "Pokémon - 2026 30th Celebrations FR -  Mewtwo ex",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-mewtwo-ex-1",
       "cat": "set_other"
@@ -5449,7 +5449,7 @@
     },
     "Poke Swiss::16416416989571": {
       "title": "Pokémon - 2026 30th Celebrations FR - Amphinobi ex",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-amphinobi-ex",
       "cat": "set_other"
@@ -5624,7 +5624,7 @@
     },
     "Zadoys::16059047903615": {
       "title": "Groudon DLR 111 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/groudon-delta-reign-111-englisch",
       "cat": "set_other"
@@ -5652,7 +5652,7 @@
     },
     "Zadoys::16059037778303": {
       "title": "Mega Rayquaza ex DLR 084 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/mega-rayquaza-ex-delta-reign-084-englisch",
       "cat": "set_other"
@@ -5666,7 +5666,7 @@
     },
     "Zadoys::16059030831487": {
       "title": "Raikou ex DLR 033 EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/raikou-ex-delta-reign-033-englisch",
       "cat": "set_other"
@@ -6128,7 +6128,7 @@
     },
     "Pikaversum::16004711154038": {
       "title": "Arcanine (German) [DLR - 019/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/arcanine-dlr-019-103",
       "cat": "set_other"
@@ -6170,7 +6170,7 @@
     },
     "Pikaversum::16004708794742": {
       "title": "Onix (German) [DLR - 051/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/onix-dlr-051-103",
       "cat": "set_other"
@@ -6478,7 +6478,7 @@
     },
     "Pikaversum::16004702142838": {
       "title": "Eevee [DLR - 078/103]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/eevee-dlr-078-103",
       "cat": "set_other"
@@ -6513,7 +6513,7 @@
     },
     "Pikaversum::16004701782390": {
       "title": "Magmar [DLR - 020/103]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/magmar-dlr-020-103",
       "cat": "set_other"
@@ -6646,14 +6646,14 @@
     },
     "Raystorm::11800444305749": {
       "title": "Coffret Premium Métamorph 30ème Anniversaire [FR]",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://raystorm.ch/products/collection-premium-metamorph-30e-anniversaire-fr",
       "cat": "set_other"
     },
     "Raystorm::11800574296405": {
       "title": "Coffret collection Mew 30ème Anniversaire [FR]",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://raystorm.ch/products/collection-avec-figurine-mew-30eme-anniversaire-fr",
       "cat": "set_other"
@@ -6684,6 +6684,41 @@
       "available": false,
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-nidorina-30th-celebration-th-ma6-143-einzelkarte",
+      "cat": "set_other"
+    },
+    "Pikaversum::16013111951734": {
+      "title": "Protecc - Acryl Case Pokémon 30th Celebration Ultra Premium Collection",
+      "available": true,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/protecc-acryl-case-pokemon-30th-celebration-ultra-premium-collection",
+      "cat": "target_upc"
+    },
+    "Zadoys::16078632550783": {
+      "title": "Masquerain DLR 104 EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/masquerain-delta-reign-104-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16078625931647": {
+      "title": "Wishiwashi ex DLR 120 EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/wishiwashi-ex-delta-reign-120-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16078607122815": {
+      "title": "Mega Malamar ex DLR 069 EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/mega-malamar-ex-delta-reign-069-englisch",
+      "cat": "set_other"
+    },
+    "Zadoys::16078595129727": {
+      "title": "Mega Golisopod ex DLR 011 EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://zadoys.ch/products/mega-golisopod-ex-delta-reign-011-englisch",
       "cat": "set_other"
     }
   },
