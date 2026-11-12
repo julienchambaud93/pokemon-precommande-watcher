@@ -5533,7 +5533,7 @@
     },
     "Pikaversum::15990015656310": {
       "title": "Nidorina (30th Celebration) [MEP - 101]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/nidorina-101-30th-celebration-me-mega-evolution-promo-713260",
       "cat": "set_other"
@@ -6247,7 +6247,7 @@
     },
     "Pikaversum::16004704469366": {
       "title": "Koraidon [30C - 086/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/koraidon-30c-086-128",
       "cat": "set_other"
@@ -6261,7 +6261,7 @@
     },
     "Pikaversum::16004704371062": {
       "title": "Lunala [30C - 080/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/lunala-30c-080-128",
       "cat": "set_other"
@@ -6352,7 +6352,7 @@
     },
     "Pikaversum::16004703191414": {
       "title": "Pikachu [30C - 045/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pikachu-045-128-30c-045-128",
       "cat": "set_other"
@@ -6429,7 +6429,7 @@
     },
     "Pikaversum::16004702568822": {
       "title": "Pikachu [30C - 052/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pikachu-052-128-30c-052-128",
       "cat": "set_other"
@@ -6443,7 +6443,7 @@
     },
     "Pikaversum::16004702470518": {
       "title": "Pikachu [30C - 038/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pikachu-038-128-30c-038-128",
       "cat": "set_other"
@@ -6457,7 +6457,7 @@
     },
     "Pikaversum::16004702372214": {
       "title": "Pikachu [30C - 032/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pikachu-032-128-30c-032-128",
       "cat": "set_other"
@@ -6471,7 +6471,7 @@
     },
     "Pikaversum::16004702306678": {
       "title": "Pikachu [30C - 030/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pikachu-030-128-30c-030-128",
       "cat": "set_other"
@@ -6527,14 +6527,14 @@
     },
     "Pikaversum::16004675142006": {
       "title": "Pikachu ex [30C - 053/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pikachu-ex-053-128-30c-053-128",
       "cat": "set_other"
     },
     "Pikaversum::16004674978166": {
       "title": "Kommo-o [30C - 143/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/kommo-o-143-128-30c-143-128",
       "cat": "set_other"
