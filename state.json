@@ -1921,7 +1921,7 @@
     },
     "MaRo Shop::15047247921528": {
       "title": "Pokémon - 30th Celebration - EX Tin Box EN (1 Stk. zufällige Auswahl) (Kopie)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ex-tin-box-en-1-stk-zufallige-auswahl-kopie",
       "cat": "set_other"
@@ -1942,7 +1942,7 @@
     },
     "MaRo Shop::15047248019832": {
       "title": "Pokémon - 30th Celebration - Ditto Premium Collection -EN-",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ditto-premium-collection-en",
       "cat": "set_other"
@@ -2158,7 +2158,7 @@
       "cat": "set_other"
     },
     "Pokereaves::10612849082715": {
-      "title": "Pre-order Pokemon Mega Evolution Delta Reign Black ME06 Elite Trainer Box (ETB) - ENGLISH",
+      "title": "Pokemon Mega Evolution Delta Reign Black ME06 Elite Trainer Box (ETB) - ENGLISH",
       "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-reign-black-me06-elite-trainer-box-etb-english",
@@ -4378,7 +4378,7 @@
     },
     "MaRo Shop::15066342883704": {
       "title": "Pokémon - Delta Reign - Elite Trainer Box ETB EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-elite-trainer-box-etb-en",
       "cat": "target_etb"
@@ -4399,7 +4399,7 @@
     },
     "MaRo Shop::15066339705208": {
       "title": "Pokémon - Delta Reign - Booster Display EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-booster-display-en",
       "cat": "set_other"
@@ -6720,6 +6720,41 @@
       "lang": "EN",
       "url": "https://zadoys.ch/products/mega-golisopod-ex-delta-reign-011-englisch",
       "cat": "set_other"
+    },
+    "Pikaversum::16013682704758": {
+      "title": "Pokémon TCG – 30th Celebration Card Set: Alle 27 Starter-Promos (JPN)",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-30th-celebration-card-set-27-starter-promos-jpn",
+      "cat": "set_other"
+    },
+    "Pokereaves::10886462144859": {
+      "title": "Pre-order 1x Pokemon Mega 30th anniversary Ultra Premium Collection - French",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mega-30th-anniversary-ultra-or-special-premium-collection-english-copy",
+      "cat": "target_upc"
+    },
+    "Pokereaves::10886375932251": {
+      "title": "Pokemon Mega Evolution DELTA HERRSCHAFT Black ME06 Top trainer box (ETB) - German",
+      "available": false,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-delta-herrschaft-black-me06-top-trainer-box-etb-german",
+      "cat": "target_etb"
+    },
+    "Pokereaves::10886336119131": {
+      "title": "Pokémon ME06 DELTA HERRSCHAFT Booster Display - German",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pokemon-me06-delta-herrschaft-booster-display-german",
+      "cat": "set_other"
+    },
+    "Pokereaves::10886328844635": {
+      "title": "Pokemon Mega 30th anniversary Top Trainer Box (ETB) - German",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pokemon-mega-30th-anniversary-elite-trainer-box-etb-german",
+      "cat": "target_etb"
     }
   },
   "html": {
