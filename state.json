@@ -3986,7 +3986,7 @@
     },
     "Poke Swiss::16364057461123": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex-1",
       "cat": "set_other"
@@ -4735,7 +4735,7 @@
     },
     "Poke Swiss::16391334953347": {
       "title": "Pokémon - 2026 30th Celebrations - Lougaroc",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-lougaroc",
       "cat": "set_other"
@@ -5449,7 +5449,7 @@
     },
     "Poke Swiss::16416416989571": {
       "title": "Pokémon - 2026 30th Celebrations FR - Amphinobi ex",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-amphinobi-ex",
       "cat": "set_other"
