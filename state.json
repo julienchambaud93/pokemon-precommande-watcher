@@ -3965,7 +3965,7 @@
     },
     "Poke Swiss::16364065554819": {
       "title": "Pokémon - 2026 30th Celebrations - Ekaiser",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-ekaiser",
       "cat": "set_other"
@@ -4280,7 +4280,7 @@
     },
     "Poke Swiss::16370654904707": {
       "title": "Pokémon - 2026 30th Celebrations - Morpeko",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-drattak-ex-copie",
       "cat": "set_other"
@@ -6779,7 +6779,7 @@
     },
     "Poke Swiss::16437923709315": {
       "title": "Pokémon - 2026 30th Celebrations FR -  M Gardevoir EX",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-fr-m-gardevoir-ex",
       "cat": "set_other"
@@ -7342,7 +7342,8 @@
     "<bf9ecb5b3a5e4d54bb042f0f6cae918d@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<e3e40a1581324c1ea990ef705d2face0@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<f39d98e669564299bc10be34fec72339@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<6d1917d057a142b0a72c960ab51ed48e@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<6d1917d057a142b0a72c960ab51ed48e@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<e178b9a4c45947e3995dbfee0eda32f4@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
