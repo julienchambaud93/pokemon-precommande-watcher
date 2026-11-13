@@ -668,7 +668,7 @@
     },
     "Outpost Brussels::15904440222030": {
       "title": "Pokémon · 30e Anniversaire - Coffret Amphinobi-ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-amphinobi-ex-fr-s",
       "cat": "set_other"
@@ -696,7 +696,7 @@
     },
     "Outpost Brussels::15904440549710": {
       "title": "Pokémon · 30e Anniversaire - Collection Classeur - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-collection-classeur-fr-s",
       "cat": "set_other"
@@ -794,7 +794,7 @@
     },
     "Outpost Brussels::15904444121422": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mewtwo - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mewtwo-fr-s",
       "cat": "set_other"
@@ -808,7 +808,7 @@
     },
     "Outpost Brussels::15904443924814": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mew - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mew-fr-s",
       "cat": "set_other"
@@ -850,7 +850,7 @@
     },
     "Outpost Brussels::15904438911310": {
       "title": "Pokémon · 30e Anniversaire - Pack 2 Boosters Évoli - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-2-boosters-evoli-fr-s",
       "cat": "set_other"
@@ -878,21 +878,21 @@
     },
     "Outpost Brussels::15904439796046": {
       "title": "Pokémon · 30e Anniversaire - Coffret Nymphali-ex - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-nymphali-ex-fr-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904439566670": {
       "title": "Pokémon · 30th Celebration - Poster Collection - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-poster-collection-en-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904439370062": {
       "title": "Pokémon · 30e Anniversaire - Coffret Poster - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-poster-fr-s",
       "cat": "set_other"
@@ -1424,7 +1424,7 @@
     },
     "Pokereaves::10617207947611": {
       "title": "Pre-order 1x Pokemon Mewtwo and Mew collection COLLECTION BOX 30th anniversary - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mewtwo-and-mew-collection-collection-box-30th-anniversary-english",
       "cat": "set_other"
@@ -6755,6 +6755,27 @@
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-mega-30th-anniversary-elite-trainer-box-etb-german",
       "cat": "target_etb"
+    },
+    "Pikaversum::16014494564726": {
+      "title": "Pokémon TCG Bundle: Enigmaras Wampitz-ex Premium-Kollektion + 30th Celebration Booster Bundle (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-enigmaras-wampitz-ex-premium-kollektion-30th-celebration-booster-bundle-deutsch",
+      "cat": "set_other"
+    },
+    "Pikaversum::16014494531958": {
+      "title": "Pokémon TCG Bundle: Cynthias Knakrack-ex Premium-Kollektion + 30th Celebration Booster Bundle (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-cynthias-knakrack-ex-premium-kollektion-30th-celebration-booster-bundle-deutsch",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16189379936638": {
+      "title": "Pokémon: Pikachu ex – 30° Anniversario (30C 150) – Einzelkarte",
+      "available": false,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-ex-30-anniversario-30c-150-einzelkarte-it",
+      "cat": "set_other"
     }
   },
   "html": {
