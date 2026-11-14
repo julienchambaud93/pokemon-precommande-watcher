@@ -801,7 +801,7 @@
     },
     "Outpost Brussels::15904444023118": {
       "title": "Pokémon · 30th Celebration - Mew Figure Collection - EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mew-figure-collection-en-s",
       "cat": "set_other"
@@ -2005,14 +2005,14 @@
     },
     "Pikaversum::15840203538806": {
       "title": "Pokémon TCG: 30th Celebration Sylveon ex Box & Greninja ex Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box",
       "cat": "set_other"
     },
     "Pikaversum::15840202391926": {
       "title": "Pokémon TCG: 30th Celebration Poster Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-poster-collection",
       "cat": "set_other"
@@ -2026,7 +2026,7 @@
     },
     "Pikaversum::15839832637814": {
       "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box",
       "cat": "target_etb"
@@ -2145,7 +2145,7 @@
     },
     "Zadoys::15813139759487": {
       "title": "Delta Reign Elite Trainer Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-me06-elite-trainer-box-englisch",
       "cat": "target_etb"
@@ -3293,7 +3293,7 @@
     },
     "Zadoys::15894474326399": {
       "title": "30th Celebration Poster Collection + Perfect Order 3-Pack Blister EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-poster-collection-perfect-order-3-pack-blister-englisch",
       "cat": "set_other"
@@ -3615,7 +3615,7 @@
     },
     "Pikaversum::15904829702518": {
       "title": "Pokémon TCG: 30th Celebration Battle Deck 2er-Set – Espeon ex & Umbreon ex",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-battle-deck-2er-set-espeon-ex-umbreon-ex",
       "cat": "set_other"
@@ -4791,7 +4791,7 @@
     },
     "Zadoys::16021978087807": {
       "title": "Crobat [G] Lv.44 30C PL47 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/crobat-g-lv-44-30th-celebration-pl47-englisch",
       "cat": "set_other"
@@ -5869,14 +5869,14 @@
     },
     "Zadoys::16064710345087": {
       "title": "30th Celebration Ditto Premium Collection + Chaos Rising Elite Trainer Box EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-ditto-premium-collection-chaos-rising-elite-trainer-box-en",
       "cat": "target_etb"
     },
     "Zadoys::16064739770751": {
       "title": "30th Celebration Mewtwo Figure Collection + Ascended Heroes Tech Sticker Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-mewtwo-figure-collection-ascended-heroes-tech-sticker-collection-en",
       "cat": "set_other"
@@ -5890,7 +5890,7 @@
     },
     "Pikaversum::15999329894774": {
       "title": "Pokémon TCG Bundle: 30th Celebration Mew Figure Collection + Mewtwo Figure Collection (Englisch)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mew-figure-collection-mewtwo-figure-collection-englisch",
       "cat": "set_other"
@@ -5911,7 +5911,7 @@
     },
     "Zadoys::16064725516671": {
       "title": "30th Celebration Mew Figure Collection + Ascended Heroes Tech Sticker Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-mew-figure-collection-ascended-heroes-tech-sticker-collection-en",
       "cat": "set_other"
@@ -6839,6 +6839,13 @@
       "lang": "?",
       "url": "https://tmsbricksshop.ch/products/pokemon-nidorina-30th-celebration-30c-114-ar-chinesisch-einzelkarte",
       "cat": "set_other"
+    },
+    "Pikaversum::16017354654070": {
+      "title": "Pokémon TCG Bundle: 30th Celebration Mini Tin Display + Lumiose City Mini Tin Display (Englisch)",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-bundle-30th-celebration-mini-tin-display-lumiose-city-mini-tin-display-englisch",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -7390,7 +7397,8 @@
     "<e3e40a1581324c1ea990ef705d2face0@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<f39d98e669564299bc10be34fec72339@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<6d1917d057a142b0a72c960ab51ed48e@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
-    "<e178b9a4c45947e3995dbfee0eda32f4@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<e178b9a4c45947e3995dbfee0eda32f4@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<e6bd4450afbd43868129e729aad7f1b9@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
