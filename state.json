@@ -2124,7 +2124,7 @@
     },
     "Zadoys::15813169152383": {
       "title": "Delta Reign Booster Box EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-me06-booster-box-englisch",
       "cat": "set_other"
@@ -7145,7 +7145,7 @@
     "GoodGames Bern::https://www.goodgamesbern.ch": []
   },
   "hb": {
-    "minuit": "2026-11-14",
+    "minuit": "2026-11-16",
     "midi": "2026-11-11"
   },
   "seeded_sites": [
