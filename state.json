@@ -2026,7 +2026,7 @@
     },
     "Pikaversum::15839832637814": {
       "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box",
       "cat": "target_etb"
@@ -6093,21 +6093,21 @@
     },
     "Pikaversum::16004712563062": {
       "title": "Cacnea (German) [DLR - 004/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/cacnea-dlr-004-103",
       "cat": "set_other"
     },
     "Pikaversum::16004712300918": {
       "title": "Inkay (German) [DLR - 068/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/inkay-068-103-dlr-068-103",
       "cat": "set_other"
     },
     "Pikaversum::16004712071542": {
       "title": "Rotom (German) [DLR - 034/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/rotom-dlr-034-103",
       "cat": "set_other"
@@ -6135,7 +6135,7 @@
     },
     "Pikaversum::16004710793590": {
       "title": "Azurill (German) [DLR - 080/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/azurill-dlr-080-103",
       "cat": "set_other"
@@ -6576,14 +6576,14 @@
     },
     "Pikaversum::16004658692470": {
       "title": "Altaria (German) [DLR - 116/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/altaria-116-103-dlr-116-103",
       "cat": "set_other"
     },
     "Pikaversum::16004658299254": {
       "title": "Heat Rotom ex (German) [DLR - 023/103]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/heat-rotom-ex-023-103-dlr-023-103",
       "cat": "set_other"
