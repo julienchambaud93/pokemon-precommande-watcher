@@ -1816,7 +1816,7 @@
     },
     "PokeFaust::15528528347511": {
       "title": "Pokémon TCG 30th Celebration Greninja ex Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-celebration-greninja-ex-box",
       "cat": "set_other"
@@ -2243,7 +2243,7 @@
     },
     "Pokereaves::10656768590171": {
       "title": "Pre-order 1x Pokémon 30th Celebration Sylveon ex Box - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-30th-celebration-sylveon-ex-box-english",
       "cat": "set_other"
@@ -3923,7 +3923,7 @@
     },
     "Poke Swiss::16364090655107": {
       "title": "Pokémon - 2026 30th Celebrations -  Mew ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-mew-ex",
       "cat": "set_other"
@@ -5547,14 +5547,14 @@
     },
     "Pikaversum::15989947367798": {
       "title": "Pikachu (German) [30C - 024/128]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/pikachu-024-128-me-30th-celebration-716309",
       "cat": "set_other"
     },
     "Pikaversum::15989945696630": {
       "title": "Pikachu (German) [30C - 029/128]",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://pikaversum.ch/products/pikachu-029-128-me-30th-celebration-716311",
       "cat": "set_other"
@@ -6485,7 +6485,7 @@
     },
     "Pikaversum::16004702110070": {
       "title": "Maushold [30C - 125/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/maushold-125-128-30c-125-128",
       "cat": "set_other"
@@ -6910,7 +6910,8 @@
     "Draft Arena::https://www.draftarena.ch/sitemap.xml": [
       "30th celebration etb",
       "30th celebration ultra premium",
-      "30th celebration ultra premium collection upc"
+      "30th celebration ultra premium collection upc",
+      "delta reign etb"
     ],
     "Softridge::https://www.softridge.ch/en/tcg/pokemon": [],
     "Amazing Toys::https://amazingtoys.ch/search?search=30th%20celebration": [
@@ -7291,7 +7292,8 @@
     "The Uncommon Shop::https://theuncommonshop.ch/product/protecc-pokemon-30th-celebration-ultra-premium-collection-upc-acryl-case/": "out",
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-en-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out",
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-me05-5-30e-anniversaire": "out",
-    "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out"
+    "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out",
+    "Draft Arena::https://www.draftarena.ch/shop/pokemon-me06-delta-reign-etb-anglais-3378": "in"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
