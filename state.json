@@ -339,7 +339,7 @@
     },
     "Pokécado::11065160040790": {
       "title": "Pokémon 30th Celebration Figure Collection – Mewtwo (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-figure-collection-mewtwo-de",
       "cat": "set_other"
@@ -353,7 +353,7 @@
     },
     "Pokécado::11065159483734": {
       "title": "Pokémon 30th Celebration Figure Collection – Mew (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-figure-collection-mew-de",
       "cat": "set_other"
@@ -892,7 +892,7 @@
     },
     "Outpost Brussels::15904439370062": {
       "title": "Pokémon · 30e Anniversaire - Coffret Poster - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-poster-fr-s",
       "cat": "set_other"
@@ -2516,7 +2516,7 @@
     },
     "LaschoCards::11543920116053": {
       "title": "Pokémon TCG - 30th Celebration Booster Bundle",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
@@ -2887,7 +2887,7 @@
     },
     "Collecting Cloud::16503326638429": {
       "title": "Pokémon - Mega Evolution - 30th Celebration 2-Pack Blister (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-2-pack-blister-en",
       "cat": "set_other"
@@ -4238,7 +4238,7 @@
     },
     "Poke Swiss::16370679513475": {
       "title": "Pokémon - 2026 30th Celebrations - Tyranocif Obscur",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-tyranocif-obscur",
       "cat": "set_other"
@@ -5302,7 +5302,7 @@
     },
     "Pokecard Store::15585909113207": {
       "title": "Pokémon 30th Celebration Charizard Figure (CN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-charizard-figure-cn",
       "cat": "set_other"
@@ -6873,6 +6873,13 @@
       "available": false,
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-kecleon-delta-reign-dlr-117-einzelkarte",
+      "cat": "set_other"
+    },
+    "Pikaversum::16023523688822": {
+      "title": "Pokémon TCG: 30th Celebration – Tech Sticker Collection Display (12 Stück) / EN",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection-display-en",
       "cat": "set_other"
     }
   },
