@@ -458,14 +458,14 @@
     },
     "Pokécado::10939229307222": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (DE)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-de",
       "cat": "set_other"
     },
     "Pokécado::10939227799894": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-en",
       "cat": "set_other"
@@ -2005,7 +2005,7 @@
     },
     "Pikaversum::15840203538806": {
       "title": "Pokémon TCG: 30th Celebration Sylveon ex Box & Greninja ex Box",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-sylveon-ex-box-greninja-ex-box",
       "cat": "set_other"
@@ -5337,7 +5337,7 @@
     },
     "Cardmaniac::10359876452527": {
       "title": "Pokémon TCG – Kampfdeck 30 Jahre: Nachtara‑ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-kampfdeck-30-jahre-nachtara-ex",
       "cat": "set_other"
@@ -7161,7 +7161,7 @@
   },
   "hb": {
     "minuit": "2026-11-16",
-    "midi": "2026-11-16"
+    "midi": "2026-11-18"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -7445,7 +7445,9 @@
     "<e6bd4450afbd43868129e729aad7f1b9@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<a30214aed81046778008821aac347559@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<168ffbf2091240cf8df0da80e5a5801f@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<5785bd12e6934a7680cc589cf6b5d9cd@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<5785bd12e6934a7680cc589cf6b5d9cd@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<52896976c99148fb94a4d9719b8aa1c7@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<33e9cce436b64b77a37f4f0eacb488a4@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
