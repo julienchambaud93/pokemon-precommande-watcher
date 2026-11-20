@@ -1109,77 +1109,77 @@
     },
     "Zadoys::15813132812671": {
       "title": "30th Celebration Mewtwo Collection avec Figurine FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtwo-collection-avec-figurine-franzosisch",
       "cat": "set_other"
     },
     "Zadoys::15813126816127": {
       "title": "30th Celebration Mewtwo Figure Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtwo-figure-collection-englisch",
       "cat": "set_other"
     },
     "Zadoys::15813128683903": {
       "title": "30th Celebration Mewtu Figuren Kollektion DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtu-figuren-kollektion-deutsch",
       "cat": "set_other"
     },
     "Zadoys::15813123735935": {
       "title": "30th Celebration Mew Figure Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mew-figure-collection-englisch",
       "cat": "set_other"
     },
     "Zadoys::15813106762111": {
       "title": "30th Celebration Métamorph Premium Collection FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-metamorph-premium-collection-franzoesisch",
       "cat": "set_other"
     },
     "Zadoys::15813100306815": {
       "title": "30th Celebration Ditto Premium Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ditto-premium-collection-englisch",
       "cat": "set_other"
     },
     "Zadoys::15813091557759": {
       "title": "30th Celebtration Ditto Premium Kollektion DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebtration-ditto-premium-kollektion-deutsch",
       "cat": "set_other"
     },
     "Zadoys::15802853654911": {
       "title": "30th Celebration Ultra Premium Collection Soirée FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch",
       "cat": "target_upc"
     },
     "Zadoys::15802848838015": {
       "title": "30th Celebration Ultra Premium Collection Journée FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
       "cat": "target_upc"
     },
     "Zadoys::15802844610943": {
       "title": "30th Celebration Ultra Premium Collection Night EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch",
       "cat": "target_upc"
     },
     "Zadoys::15802683228543": {
       "title": "30th Celebration Ultra Premium Collection Day EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-day-englisch",
       "cat": "target_upc"
@@ -1214,7 +1214,7 @@
     },
     "Zadoys::15777808286079": {
       "title": "30th Celebration 2-Pack Blister EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-2-pack-blister-englisch",
       "cat": "set_other"
@@ -1270,7 +1270,7 @@
     },
     "Zadoys::15775041356159": {
       "title": "30th Celebration Ordner Kollektion DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ordner-kollektion-deutsch",
       "cat": "set_other"
@@ -1284,14 +1284,14 @@
     },
     "Zadoys::15773658579327": {
       "title": "30th Celebration Sylveon ex Tin EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-sylveon-ex-tin-englsich",
       "cat": "set_other"
     },
     "Zadoys::15773649863039": {
       "title": "30th Celebration Greninja ex Tin EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-greninja-ex-tin-englisch",
       "cat": "set_other"
@@ -1361,7 +1361,7 @@
     },
     "Zadoys::15773597139327": {
       "title": "30th Celebration Poster Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-poster-collection-englisch",
       "cat": "set_other"
@@ -1403,7 +1403,7 @@
     },
     "Zadoys::15773516988799": {
       "title": "30th Celebration Mini Tin EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mini-tin-englisch",
       "cat": "set_other"
@@ -2131,7 +2131,7 @@
     },
     "Zadoys::15813160272255": {
       "title": "Règne Delta Coffret Dresseur d'Elite FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-me06-coffret-dresseur-delite-franzoesisch",
       "cat": "target_etb"
@@ -4049,7 +4049,7 @@
     },
     "Zadoys::15909018239359": {
       "title": "Delta Reign Premium Checklane Blister EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-premium-checklane-blister-englisch",
       "cat": "set_other"
@@ -5995,7 +5995,7 @@
     },
     "PocketDex::16686367670621": {
       "title": "30 ans Pokémon - Collection Classeur - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://pocketdex.ch/products/30-ans-pokemon-collection-classeur-fr",
       "cat": "set_other"
@@ -7731,7 +7731,7 @@
     },
     "Zadoys::16097361002879": {
       "title": "30th Celebration Mew Figuren Kollektion DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mew-figuren-kollektion-deutsch",
       "cat": "set_other"
