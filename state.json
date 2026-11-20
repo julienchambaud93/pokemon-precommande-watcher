@@ -7909,7 +7909,9 @@
     ],
     "Maîtres des Arènes::https://www.maitresdesarenes.com": [],
     "Softridge::https://www.softridge.ch": [],
-    "The Mana Shop::https://themanashop.ch": [],
+    "The Mana Shop::https://themanashop.ch": [
+      "30 anniversaire collection ultra premium"
+    ],
     "World of Games::https://www.wog.ch": [],
     "Pikaversum::https://pikaversum.ch": [
       "30th celebration elite trainer"
@@ -8119,7 +8121,9 @@
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-en-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out",
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-me05-5-30e-anniversaire": "out",
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out",
-    "Draft Arena::https://www.draftarena.ch/shop/pokemon-me06-delta-reign-etb-anglais-3378": "in"
+    "Draft Arena::https://www.draftarena.ch/shop/pokemon-me06-delta-reign-etb-anglais-3378": "in",
+    "The Mana Shop::https://themanashop.ch/fr/pokemon/46468-pokemon-me055-30-anniversaire-collection-ultra-premium-journee.html": "out",
+    "The Mana Shop::https://themanashop.ch/fr/pokemon/46469-pokemon-me055-30-anniversaire-collection-ultra-premium-soiree.html": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
