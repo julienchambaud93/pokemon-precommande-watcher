@@ -710,14 +710,14 @@
     },
     "Outpost Brussels::15904441663822": {
       "title": "Pokémon · 30e Anniversaire - Deck de Combat Mentali-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-deck-de-combat-mentali-ex-fr-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904441467214": {
       "title": "Pokémon · 30th Celebration - Mini Tin - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mini-tin-en-s",
       "cat": "set_other"
@@ -752,7 +752,7 @@
     },
     "Outpost Brussels::15904442089806": {
       "title": "Pokémon · 30e Anniversaire - Deck de Combat Noctali-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-deck-de-combat-noctali-ex-fr-s",
       "cat": "set_other"
@@ -794,14 +794,14 @@
     },
     "Outpost Brussels::15904444121422": {
       "title": "Pokémon · 30e Anniversaire - Coffret Figurine Mewtwo - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-figurine-mewtwo-fr-s",
       "cat": "set_other"
     },
     "Outpost Brussels::15904444023118": {
       "title": "Pokémon · 30th Celebration - Mew Figure Collection - EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-mew-figure-collection-en-s",
       "cat": "set_other"
@@ -850,7 +850,7 @@
     },
     "Outpost Brussels::15904438911310": {
       "title": "Pokémon · 30e Anniversaire - Pack 2 Boosters Évoli - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-2-boosters-evoli-fr-s",
       "cat": "set_other"
@@ -892,7 +892,7 @@
     },
     "Outpost Brussels::15904439370062": {
       "title": "Pokémon · 30e Anniversaire - Coffret Poster - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-poster-fr-s",
       "cat": "set_other"
@@ -1235,7 +1235,7 @@
     },
     "Zadoys::15775145132415": {
       "title": "30th Celebration Elite Trainer Box EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-elite-trainer-box-englisch",
       "cat": "target_etb"
@@ -1466,14 +1466,14 @@
     },
     "Outpost Brussels::15979924947278": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Amphinobi-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-amphinobi-ex-fr",
       "cat": "set_other"
     },
     "Outpost Brussels::15979924914510": {
       "title": "Pokémon - 30th Celebration - Pokémon ex Tin - Nymphali-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30th-celebration-pokemon-ex-tin-nymphali-ex-fr",
       "cat": "set_other"
@@ -2922,7 +2922,7 @@
     },
     "Pikaversum::15867144110454": {
       "title": "Pokémon TCG: 30th Celebration Booster Bundle",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-booster-bundle",
       "cat": "set_other"
@@ -3300,7 +3300,7 @@
     },
     "Zadoys::15894508437887": {
       "title": "30th Celebration Elite Trainer Box EN + Chaos Rising Elite Trainer Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/30th-celebration-binder-collection-mega-zygarde-ex-premium-collection-en",
       "cat": "set_other"
@@ -7699,6 +7699,34 @@
       "available": false,
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-mewtu-ex-30-jahre-30c-157-nm-zustand-einzelkarte",
+      "cat": "set_other"
+    },
+    "MaRo Shop::15080070021496": {
+      "title": "Pokémon - Règne Delta - Elite Trainer Box ETB FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-regne-delta-elite-trainer-box-etb-fr",
+      "cat": "target_etb"
+    },
+    "MaRo Shop::15080068940152": {
+      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Noctali -FR-",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-fr",
+      "cat": "target_upc"
+    },
+    "MaRo Shop::15080068874616": {
+      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Mentali-FR-",
+      "available": false,
+      "lang": "FR",
+      "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-fr",
+      "cat": "target_upc"
+    },
+    "MaRo Shop::15080067694968": {
+      "title": "Pokémon - 30 Jahre - Ordner Kollektion DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-binder-collection-de",
       "cat": "set_other"
     }
   },
