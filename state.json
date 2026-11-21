@@ -1109,7 +1109,7 @@
     },
     "Zadoys::15813132812671": {
       "title": "30th Celebration Mewtwo Collection avec Figurine FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtwo-collection-avec-figurine-franzosisch",
       "cat": "set_other"
@@ -1158,21 +1158,21 @@
     },
     "Zadoys::15802853654911": {
       "title": "30th Celebration Ultra Premium Collection Soirée FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch",
       "cat": "target_upc"
     },
     "Zadoys::15802848838015": {
       "title": "30th Celebration Ultra Premium Collection Journée FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
       "cat": "target_upc"
     },
     "Zadoys::15802844610943": {
       "title": "30th Celebration Ultra Premium Collection Night EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch",
       "cat": "target_upc"
@@ -2124,7 +2124,7 @@
     },
     "Zadoys::15813169152383": {
       "title": "Delta Reign Booster Box EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-delta-reign-me06-booster-box-englisch",
       "cat": "set_other"
@@ -8017,7 +8017,7 @@
   },
   "hb": {
     "minuit": "2026-11-21",
-    "midi": "2026-11-18"
+    "midi": "2026-11-21"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -8310,7 +8310,8 @@
     "<5e20f841694147119f525e48ea7988b2@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
     "<b4e3e04a332441cabfb59125e6cf6f45@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<c7f9017f9230488da453f0975086e87f@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<d1b7b7806e18473da03f098b791b8364@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<d1b7b7806e18473da03f098b791b8364@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<2cb1530e50244f4b8ebac5ef338cce1e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
