@@ -1165,7 +1165,7 @@
     },
     "Zadoys::15802848838015": {
       "title": "30th Celebration Ultra Premium Collection Journée FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
       "cat": "target_upc"
@@ -1928,14 +1928,14 @@
     },
     "MaRo Shop::15047247954296": {
       "title": "Pokémon - 30 Jahre - Figuren-Kollektion (Mew & Mewtu) -DE- (zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-figuren-kollektion-mew-mewtu-de-zufallige-auswahl",
       "cat": "set_other"
     },
     "MaRo Shop::15047247987064": {
       "title": "Pokémon - 30 Jahre - Ditto Premium-Kollektion -DE-",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ditto-premium-kollektion-de",
       "cat": "set_other"
@@ -7709,14 +7709,14 @@
       "cat": "target_etb"
     },
     "MaRo Shop::15080068940152": {
-      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Noctali -FR-",
+      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Noctali FR",
       "available": false,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-fr",
       "cat": "target_upc"
     },
     "MaRo Shop::15080068874616": {
-      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Mentali-FR-",
+      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Mentali FR",
       "available": false,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-fr",
@@ -7724,7 +7724,7 @@
     },
     "MaRo Shop::15080067694968": {
       "title": "Pokémon - 30 Jahre - Ordner Kollektion DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-binder-collection-de",
       "cat": "set_other"
