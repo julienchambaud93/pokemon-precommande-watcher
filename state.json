@@ -850,7 +850,7 @@
     },
     "Outpost Brussels::15904438911310": {
       "title": "Pokémon · 30e Anniversaire - Pack 2 Boosters Évoli - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-2-boosters-evoli-fr-s",
       "cat": "set_other"
@@ -892,7 +892,7 @@
     },
     "Outpost Brussels::15904439370062": {
       "title": "Pokémon · 30e Anniversaire - Coffret Poster - FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-poster-fr-s",
       "cat": "set_other"
@@ -1158,7 +1158,7 @@
     },
     "Zadoys::15802853654911": {
       "title": "30th Celebration Ultra Premium Collection Soirée FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch",
       "cat": "target_upc"
@@ -1886,7 +1886,7 @@
     },
     "PokeFaust::15510924591479": {
       "title": "Pokémon TCG 30th Anniversary 2 Pack Blister",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokefaust.com/products/pokemon-tcg-30th-anniversary-2-pack-blister",
       "cat": "set_other"
@@ -3272,7 +3272,7 @@
     },
     "LaschoCards::11618649571669": {
       "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ultra-premium-collection",
       "cat": "target_upc"
@@ -5925,7 +5925,7 @@
     },
     "Cardmaniac::10368904659119": {
       "title": "Pokémon TCG – Figuren-Kollektion 30 Jahre: Mew",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-figuren-kollektion-30-jahre-mew",
       "cat": "set_other"
@@ -7819,6 +7819,20 @@
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-jcc-bundle-collection-avec-figurine-30e-anniversaire-mew-mewtwo-franzosisch",
       "cat": "set_other"
+    },
+    "TMS Bricks Shop::16204351111550": {
+      "title": "Pokémon: Zinnia's Trust – Delta Reign (DLR 140) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-zinnia-s-trust-delta-reign-dlr-140-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16204350947710": {
+      "title": "Pokémon: Kommo-o – Delta Reign (MEP 114) Prerelease – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-kommo-o-delta-reign-dlr-075-prerelease-englisch-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -8093,7 +8107,7 @@
     "GoodGames Bern::https://www.goodgamesbern.ch": []
   },
   "hb": {
-    "minuit": "2026-11-22",
+    "minuit": "2026-11-23",
     "midi": "2026-11-22"
   },
   "seeded_sites": [
