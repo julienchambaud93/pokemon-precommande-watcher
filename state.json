@@ -5645,7 +5645,7 @@
     },
     "Zadoys::16059039383935": {
       "title": "Talonflame ex DLR 088 EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/talonflame-ex-delta-reign-088-englisch",
       "cat": "set_other"
@@ -5785,7 +5785,7 @@
     },
     "Pikaversum::15997410574710": {
       "title": "Pokémon TCG: Mega Evolution-Delta Reign Booster",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-mega-evolution-delta-reign-booster",
       "cat": "set_other"
@@ -6954,7 +6954,7 @@
     },
     "Zadoys::16091733852543": {
       "title": "Pikachu ex 30C 054 DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pikachu-ex-30-jahre-054-deutsch",
       "cat": "set_other"
@@ -7798,6 +7798,27 @@
       "lang": "EN",
       "url": "https://tmsbricksshop.ch/products/pokemon-lycanroc-30th-celebration-30c-138-englisch-einzelkarte",
       "cat": "set_other"
+    },
+    "Pikaversum::16033523106166": {
+      "title": "Pokémon-Sammelkartenspiel: Premium-Kollektion 30 Jahre: Ditto (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-sammelkartenspiel-premium-kollektion-30-jahre-ditto-deutsch",
+      "cat": "set_other"
+    },
+    "Pikaversum::16033499840886": {
+      "title": "Pokémon-Sammelkartenspiel Bundle: Figuren-Kollektion 30 Jahre Mew + Figuren-Kollektion 30 Jahre Mewtu (Deutsch)",
+      "available": true,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-sammelkartenspiel-bundle-figuren-kollektion-30-jahre-mew-mewtu-deutsch",
+      "cat": "set_other"
+    },
+    "Pikaversum::16033491124598": {
+      "title": "Pokémon JCC Bundle: Collection avec figurine 30e Anniversaire Mew + Collection avec figurine 30e Anniversaire Mewtwo (Französisch)",
+      "available": false,
+      "lang": "?",
+      "url": "https://pikaversum.ch/products/pokemon-jcc-bundle-collection-avec-figurine-30e-anniversaire-mew-mewtwo-franzosisch",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -8073,7 +8094,7 @@
   },
   "hb": {
     "minuit": "2026-11-22",
-    "midi": "2026-11-21"
+    "midi": "2026-11-22"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -8368,7 +8389,13 @@
     "<c7f9017f9230488da453f0975086e87f@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<d1b7b7806e18473da03f098b791b8364@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<2cb1530e50244f4b8ebac5ef338cce1e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<591c3de1bd2c492bb7a4aede83d3fe57@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<591c3de1bd2c492bb7a4aede83d3fe57@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<3314c1e086104d2594c664b29f6fb90b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<818e65df29364aa98d9ea8290678c90b@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<5cefc35ad96a4d7f8289f48dfa30755c@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<ee47bbd4da08474b94ffc9421c67c135@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<ce4624fafd4b42e58991ef62bcc5dc19@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<412f266ee0024ba6b53b57aad8950034@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
