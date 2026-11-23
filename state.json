@@ -1165,7 +1165,7 @@
     },
     "Zadoys::15802848838015": {
       "title": "30th Celebration Ultra Premium Collection Journée FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
       "cat": "target_upc"
@@ -3272,7 +3272,7 @@
     },
     "LaschoCards::11618649571669": {
       "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ultra-premium-collection",
       "cat": "target_upc"
@@ -5099,7 +5099,7 @@
     },
     "LaschoCards::11725187416405": {
       "title": "Pokémon TCG - Mega: 30th Celebration Card Set JPN",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-mega-30th-celebration-card-set-jpn",
       "cat": "set_other"
@@ -5463,7 +5463,7 @@
     },
     "Zadoys::16049360241023": {
       "title": "30th Celebration Booster Box Simplified Chinese",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-booster-box-simplified-chinese",
       "cat": "set_other"
@@ -8410,7 +8410,9 @@
     "<ee47bbd4da08474b94ffc9421c67c135@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<ce4624fafd4b42e58991ef62bcc5dc19@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<412f266ee0024ba6b53b57aad8950034@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<69f25f433f784bb49c31f83e05871192@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<69f25f433f784bb49c31f83e05871192@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<b650342c53524290b1609f6ca715e6cd@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<378eadc2dfde4c4d86ed28b80e4804f3@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
