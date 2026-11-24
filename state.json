@@ -1165,7 +1165,7 @@
     },
     "Zadoys::15802848838015": {
       "title": "30th Celebration Ultra Premium Collection Journée FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
       "cat": "target_upc"
@@ -1179,7 +1179,7 @@
     },
     "Zadoys::15802683228543": {
       "title": "30th Celebration Ultra Premium Collection Day EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-day-englisch",
       "cat": "target_upc"
@@ -1998,7 +1998,7 @@
     },
     "Pikaversum::15840211698038": {
       "title": "Pokémon TCG: 30th Celebration Pokémon ex Tin",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-pokemon-ex-tin",
       "cat": "set_other"
@@ -2026,7 +2026,7 @@
     },
     "Pikaversum::15839832637814": {
       "title": "Pokémon TCG: 30th Celebration Elite Trainer Box",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box",
       "cat": "target_etb"
@@ -4000,7 +4000,7 @@
     },
     "Poke Swiss::16364051661187": {
       "title": "Pokémon - 2026 30th Celebrations - Pikachu ex",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-pikachu-ex",
       "cat": "set_other"
@@ -5883,7 +5883,7 @@
     },
     "Pikaversum::15999326847350": {
       "title": "Pokémon TCG: 30th Celebration Ditto Premium Collection",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-ditto-premium-collection",
       "cat": "set_other"
@@ -5981,7 +5981,7 @@
     },
     "Pikaversum::16000934969718": {
       "title": "Pokémon TCG: 30th Celebration Elite Trainer Box – B-Ware",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-b-ware",
       "cat": "target_etb"
@@ -7952,6 +7952,69 @@
       "lang": "DE",
       "url": "https://tmsbricksshop.ch/products/pokemon-evoli-30-jahre-30c-116-deutsch-einzelkarte",
       "cat": "set_other"
+    },
+    "Collectors Deal::15689833382212": {
+      "title": "Pokémon 30th Celebration Mewtwo Figure Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-mewtwo-figure-collection-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689833251140": {
+      "title": "Pokémon 30th Celebration Mew Figure Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-mew-figure-collection-en",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689833218372": {
+      "title": "Pokémon 30th Celebration Mew Figure Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-mew-figure-collection-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689833152836": {
+      "title": "Pokémon 30th Celebration Mewtwo Figure Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-mewtwo-figure-collection-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689833021764": {
+      "title": "Pokémon 30th Celebration Mewtwo Figure Collection DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-mewtwo-figure-collection-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689832563012": {
+      "title": "Pokémon 30th Celebration Mew Figure Collection DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-mew-figure-collection-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689831874884": {
+      "title": "Pokémon 30th Celebration Ditto Premium Collection DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ditto-premium-collection-de",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689831547204": {
+      "title": "Pokémon 30th Celebration Ditto Premium Collection FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ditto-premium-collection-fr",
+      "cat": "set_other"
+    },
+    "Collectors Deal::15689830859076": {
+      "title": "Pokémon 30th Celebration Ditto Premium Collection EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ditto-premium-collection-en",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -7962,7 +8025,8 @@
       "30th celebration elite trainer",
       "delta reign – elite trainer",
       "elite trainer box en \" data name=\"pokemon – me06 delta reign",
-      "elite trainer box en\" data name=\"pokemon – me06 delta reign"
+      "elite trainer box en\" data name=\"pokemon – me06 delta reign",
+      "ultra premium 30e"
     ],
     "The Mana Shop::https://themanashop.ch/search?q=30th+celebration": [],
     "Miixy's Cards::https://miixyscards.ch/recherche?controller=search&s=30th%20celebration": [],
@@ -8375,7 +8439,9 @@
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out",
     "Draft Arena::https://www.draftarena.ch/shop/pokemon-me06-delta-reign-etb-anglais-3378": "out",
     "The Mana Shop::https://themanashop.ch/fr/pokemon/46468-pokemon-me055-30-anniversaire-collection-ultra-premium-journee.html": "out",
-    "The Mana Shop::https://themanashop.ch/fr/pokemon/46469-pokemon-me055-30-anniversaire-collection-ultra-premium-soiree.html": "out"
+    "The Mana Shop::https://themanashop.ch/fr/pokemon/46469-pokemon-me055-30-anniversaire-collection-ultra-premium-soiree.html": "out",
+    "Coffre à Dom::https://www.coffreadom.ch/produit/protection-acrylique-boitier-acrylique-ultra-premium-30e-anniversaire-noctali-et/": "in",
+    "The Uncommon Shop::https://theuncommonshop.ch/product/livestream-pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
