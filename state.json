@@ -8227,7 +8227,7 @@
   },
   "hb": {
     "minuit": "2026-11-23",
-    "midi": "2026-11-22"
+    "midi": "2026-11-24"
   },
   "seeded_sites": [
     "Pokecard Store",
@@ -8373,7 +8373,7 @@
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-en-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out",
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-me05-5-30e-anniversaire": "out",
     "PikaStore::https://www.pikastore.ch/products/preco-pokemon-fr-collections-ultra-premium-journee-soiree-me05-5-30e-anniversaire": "out",
-    "Draft Arena::https://www.draftarena.ch/shop/pokemon-me06-delta-reign-etb-anglais-3378": "in",
+    "Draft Arena::https://www.draftarena.ch/shop/pokemon-me06-delta-reign-etb-anglais-3378": "out",
     "The Mana Shop::https://themanashop.ch/fr/pokemon/46468-pokemon-me055-30-anniversaire-collection-ultra-premium-journee.html": "out",
     "The Mana Shop::https://themanashop.ch/fr/pokemon/46469-pokemon-me055-30-anniversaire-collection-ultra-premium-soiree.html": "out"
   },
