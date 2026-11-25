@@ -1935,7 +1935,7 @@
     },
     "MaRo Shop::15047247987064": {
       "title": "Pokémon - 30 Jahre - Ditto Premium-Kollektion -DE-",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ditto-premium-kollektion-de",
       "cat": "set_other"
@@ -2152,7 +2152,7 @@
     },
     "Pokereaves::10612852293979": {
       "title": "Pre-order Pokémon ME06 Delta Reign Booster Display - ENGLISH",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-me06-delta-reign-booster-display-english",
       "cat": "set_other"
@@ -3524,7 +3524,7 @@
     },
     "Pokecard Store::15561293463927": {
       "title": "Pokémon 30th Celebration Collection Display Box (CN)",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-collection-display-box-cn",
       "cat": "set_other"
@@ -4378,7 +4378,7 @@
     },
     "MaRo Shop::15066342883704": {
       "title": "Pokémon - Delta Reign - Elite Trainer Box ETB EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-delta-reign-elite-trainer-box-etb-en",
       "cat": "target_etb"
@@ -8015,6 +8015,13 @@
       "lang": "EN",
       "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ditto-premium-collection-en",
       "cat": "set_other"
+    },
+    "Pokereaves::10915855303003": {
+      "title": "Pokemon Mega Evolution Règne Delta ME06 Elite Trainer Box (ETB) - Français",
+      "available": true,
+      "lang": "EN",
+      "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-regne-delta-me06-elite-trainer-box-etb-francais",
+      "cat": "target_etb"
     }
   },
   "html": {
@@ -8200,6 +8207,7 @@
     "Interdiscount::https://www.interdiscount.ch/fr/search?q=30th%20celebration": [],
     "Philibert::https://www.philibertnet.com": [],
     "Kabooom::https://shop.kabooom.ch": [
+      "30 jahre ultra premium",
       "30th celebration etb"
     ],
     "Carab::https://carab.ch": [],
@@ -8290,7 +8298,7 @@
     "GoodGames Bern::https://www.goodgamesbern.ch": []
   },
   "hb": {
-    "minuit": "2026-11-23",
+    "minuit": "2026-11-26",
     "midi": "2026-11-24"
   },
   "seeded_sites": [
@@ -8441,7 +8449,9 @@
     "The Mana Shop::https://themanashop.ch/fr/pokemon/46468-pokemon-me055-30-anniversaire-collection-ultra-premium-journee.html": "out",
     "The Mana Shop::https://themanashop.ch/fr/pokemon/46469-pokemon-me055-30-anniversaire-collection-ultra-premium-soiree.html": "out",
     "Coffre à Dom::https://www.coffreadom.ch/produit/protection-acrylique-boitier-acrylique-ultra-premium-30e-anniversaire-noctali-et/": "in",
-    "The Uncommon Shop::https://theuncommonshop.ch/product/livestream-pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out"
+    "The Uncommon Shop::https://theuncommonshop.ch/product/livestream-pokemon-mega-evolution-30th-celebration-me5-5-elite-trainer-box/": "out",
+    "Kabooom::https://shop.kabooom.ch/trading-card-games-pokemon-pokmon-30-jahre-ultra-premium-kollektion-nacht-nachtara-de-pok1010448116/": "out",
+    "Kabooom::https://shop.kabooom.ch/trading-card-games-pokemon-pokmon-30-jahre-ultra-premium-kollektion-tag-psyana-de-pok1010448110/": "out"
   },
   "mails_seen": [
     "<AM0PR10MB31395858FE206FE802B1F5EBE5A52@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
@@ -8600,7 +8610,10 @@
     "<378eadc2dfde4c4d86ed28b80e4804f3@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<dd68a4ff985a4ba98da26ca595dad014@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<bc114241614d455791f0f60b0431da21@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<cfa1b5eb64194cadbd2f0bd9e8a0e759@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<cfa1b5eb64194cadbd2f0bd9e8a0e759@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<9bff9fc7bb8e49048fa32cbfbaa33d62@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<b61b6122423944a6a038913ed310fe39@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<8b9213582ddf43af86a909caeb34245e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
