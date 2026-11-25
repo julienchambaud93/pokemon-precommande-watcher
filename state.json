@@ -5288,7 +5288,7 @@
     },
     "AmazinGames::15266527150155": {
       "title": "Pokémon TCG - 30th Anniversary Booster pack JAP",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://amazingames.ch/products/pokemon-tcg-30th-anniversary-booster-pack-jap",
       "cat": "set_other"
@@ -5981,7 +5981,7 @@
     },
     "Pikaversum::16000934969718": {
       "title": "Pokémon TCG: 30th Celebration Elite Trainer Box – B-Ware",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-elite-trainer-box-b-ware",
       "cat": "target_etb"
