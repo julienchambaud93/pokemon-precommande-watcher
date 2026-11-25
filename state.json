@@ -458,14 +458,14 @@
     },
     "Pokécado::10939229307222": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (DE)",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-de",
       "cat": "set_other"
     },
     "Pokécado::10939227799894": {
       "title": "Pokémon 30th Celebration Tech Sticker Collection (EN)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.pokecado.ch/products/pokemon-30th-anniversary-tech-sticker-collection-en",
       "cat": "set_other"
@@ -969,7 +969,7 @@
     },
     "MaRo Shop::15038249140600": {
       "title": "Pokémon - 30th Celebration - Tech Sticker Collection EN (1 St. zufällige Auswahl)",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-tech-sticker-collection-en-1-st-zufallige-auswahl",
       "cat": "set_other"
@@ -1158,14 +1158,14 @@
     },
     "Zadoys::15802853654911": {
       "title": "30th Celebration Ultra Premium Collection Soirée FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch",
       "cat": "target_upc"
     },
     "Zadoys::15802848838015": {
       "title": "30th Celebration Ultra Premium Collection Journée FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
       "cat": "target_upc"
@@ -1955,14 +1955,14 @@
       "cat": "target_upc"
     },
     "MaRo Shop::15047248183672": {
-      "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Nacht -DE-",
+      "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Nacht DE",
       "available": false,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ultra-premium-kollektion-nacht-de",
       "cat": "target_upc"
     },
     "MaRo Shop::15047248249208": {
-      "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Tag -DE-",
+      "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Tag DE",
       "available": false,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ultra-premium-kollektion-tag-de",
@@ -5365,7 +5365,7 @@
     },
     "Poke Swiss::16415779225987": {
       "title": "Pokémon - 2026 30th Celebrations EN - Alolan Exeggutor",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://poke-swiss.ch/products/pokemon-2026-30th-celebrations-en-alolan-exeggutor",
       "cat": "set_other"
@@ -5463,7 +5463,7 @@
     },
     "Zadoys::16049360241023": {
       "title": "30th Celebration Booster Box Simplified Chinese",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://zadoys.ch/products/pokemon-30th-celebration-booster-box-simplified-chinese",
       "cat": "set_other"
@@ -6667,7 +6667,7 @@
     },
     "Collecting Cloud::16696157536605": {
       "title": "Pokémon -  Komplettes Set der 27 Promokarten 30th Celebration (JPN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://collecting.cloud/products/pokemon-30th-celebration-first-partner-collection-27-promo-cards-jpn",
       "cat": "set_other"
@@ -7709,15 +7709,15 @@
       "cat": "target_etb"
     },
     "MaRo Shop::15080068940152": {
-      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Noctali FR",
+      "title": "Pokémon - 30ème Anniversaire - Collection Ultra Premium Noctali FR",
       "available": false,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-fr",
       "cat": "target_upc"
     },
     "MaRo Shop::15080068874616": {
-      "title": "Pokémon - 30ème Anniversaire -Collection Ultra Premium Mentali FR",
-      "available": false,
+      "title": "Pokémon - 30ème Anniversaire - Collection Ultra Premium Mentali FR",
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-fr",
       "cat": "target_upc"
