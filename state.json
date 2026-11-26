@@ -1158,7 +1158,7 @@
     },
     "Zadoys::15802853654911": {
       "title": "30th Celebration Ultra Premium Collection Soirée FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch",
       "cat": "target_upc"
@@ -1172,7 +1172,7 @@
     },
     "Zadoys::15802844610943": {
       "title": "30th Celebration Ultra Premium Collection Night EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-night-englisch",
       "cat": "target_upc"
@@ -5273,7 +5273,7 @@
       "cat": "set_other"
     },
     "Pokereaves::10616665538907": {
-      "title": "Pre-order 1x Pokemon Mega 30th anniversary Ultra or Special Premium Collection - ENGLISH",
+      "title": "Pokemon Mega 30th anniversary Ultra or Special Premium Collection - ENGLISH",
       "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mega-30th-anniversary-ultra-or-special-premium-collection-english-umbreon",
@@ -6331,7 +6331,7 @@
     },
     "Pikaversum::16004703519094": {
       "title": "Galarian Meowth [30C - 101/128]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/galarian-meowth-101-128-30c-101-128",
       "cat": "set_other"
@@ -6548,7 +6548,7 @@
     },
     "Pikaversum::16004674355574": {
       "title": "Darkrai & Cresselia Legend (Bottom) [30C - 100/102]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/darkrai-cresselia-legend-bottom-30c-100-102",
       "cat": "set_other"
@@ -6729,7 +6729,7 @@
       "cat": "set_other"
     },
     "Pokereaves::10886462144859": {
-      "title": "Pre-order 1x Pokemon Mega 30th anniversary Ultra Premium Collection - French",
+      "title": "Pokemon Mega 30th anniversary Ultra Premium Collection - French",
       "available": true,
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pre-order-1x-pokemon-mega-30th-anniversary-ultra-or-special-premium-collection-english-copy",
@@ -6926,7 +6926,7 @@
     },
     "Zadoys::16091798700415": {
       "title": "Lapras 30C 131 DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/lapras-30-jahre-131-deutsch",
       "cat": "set_other"
@@ -8022,6 +8022,104 @@
       "lang": "EN",
       "url": "https://www.pokereaves.ch/products/pokemon-mega-evolution-regne-delta-me06-elite-trainer-box-etb-francais",
       "cat": "target_etb"
+    },
+    "Pikaversum::16042162454902": {
+      "title": "Pokémon-Sammelkartenspiel: Ultra-Premium-Kollektion 30 Jahre: Nacht (Deutsch)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-sammelkartenspiel-ultra-premium-kollektion-30-jahre-nacht-deutsch",
+      "cat": "target_upc"
+    },
+    "Pikaversum::16042162422134": {
+      "title": "Pokémon-Sammelkartenspiel: Ultra-Premium-Kollektion 30 Jahre: Tag (Deutsch)",
+      "available": false,
+      "lang": "DE",
+      "url": "https://pikaversum.ch/products/pokemon-sammelkartenspiel-ultra-premium-kollektion-30-jahre-tag-deutsch",
+      "cat": "target_upc"
+    },
+    "Collectors Deal::15689818014020": {
+      "title": "Pokémon 30th Celebration Ultra Premium Collection Night FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-fr",
+      "cat": "target_upc"
+    },
+    "Collectors Deal::15689817719108": {
+      "title": "Pokémon 30th Celebration Ultra Premium Collection Day FR",
+      "available": false,
+      "lang": "FR",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-fr",
+      "cat": "target_upc"
+    },
+    "Collectors Deal::15689817686340": {
+      "title": "Pokémon 30th Celebration Ultra Premium Collection Day DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-de",
+      "cat": "target_upc"
+    },
+    "Collectors Deal::15689817260356": {
+      "title": "Pokémon 30th Celebration Ultra Premium Collection Night DE",
+      "available": false,
+      "lang": "DE",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-de",
+      "cat": "target_upc"
+    },
+    "Collectors Deal::15689816998212": {
+      "title": "Pokémon 30th Celebration Ultra Premium Collection Night EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-en",
+      "cat": "target_upc"
+    },
+    "Collectors Deal::15689815949636": {
+      "title": "Pokémon 30th Celebration Ultra Premium Collection Day EN",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collectorsdeal.ch/products/pokemon-30th-celebration-ultra-premium-collection-day-en",
+      "cat": "target_upc"
+    },
+    "TMS Bricks Shop::16211846332798": {
+      "title": "Pokémon: Fuecoco ex – 30th Celebration (30C 015) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-fuecoco-ex-30th-celebration-30c-015-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16211846201726": {
+      "title": "Pokémon: Umbreon ex – 30th Celebration (30C 092) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-umbreon-ex-30th-celebration-30c-092-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16211846136190": {
+      "title": "Pokémon: Espeon ex – 30th Celebration (30C 070) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-espeon-ex-30th-celebration-30c-070-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16211846005118": {
+      "title": "Pokémon: Pikachu ex – 30th Celebration (30C 054) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-ex-30th-celebration-30c-054-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16211845906814": {
+      "title": "Pokémon: Mewtwo ex – 30th Celebration (30C 064) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-mewtwo-ex-30th-celebration-30c-064-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16211838730622": {
+      "title": "Pokémon: Pikachu – 30th Celebration (m6a 018) Reverse Holo – Einzelkarte",
+      "available": false,
+      "lang": "?",
+      "url": "https://tmsbricksshop.ch/products/pokemon-pikachu-30th-celebration-m6a-018-reverse-holo-chinesisch-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -8613,7 +8711,9 @@
     "<cfa1b5eb64194cadbd2f0bd9e8a0e759@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<9bff9fc7bb8e49048fa32cbfbaa33d62@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<b61b6122423944a6a038913ed310fe39@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<8b9213582ddf43af86a909caeb34245e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<8b9213582ddf43af86a909caeb34245e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<9608c8e8eb7341b38abc7ee7380ede72@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<8edd0de27a984503b8c6920f61afad64@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
