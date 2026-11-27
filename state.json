@@ -710,7 +710,7 @@
     },
     "Outpost Brussels::15904441663822": {
       "title": "Pokémon · 30e Anniversaire - Deck de Combat Mentali-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-deck-de-combat-mentali-ex-fr-s",
       "cat": "set_other"
@@ -752,7 +752,7 @@
     },
     "Outpost Brussels::15904442089806": {
       "title": "Pokémon · 30e Anniversaire - Deck de Combat Noctali-ex - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-deck-de-combat-noctali-ex-fr-s",
       "cat": "set_other"
@@ -850,7 +850,7 @@
     },
     "Outpost Brussels::15904438911310": {
       "title": "Pokémon · 30e Anniversaire - Pack 2 Boosters Évoli - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-pack-2-boosters-evoli-fr-s",
       "cat": "set_other"
@@ -892,7 +892,7 @@
     },
     "Outpost Brussels::15904439370062": {
       "title": "Pokémon · 30e Anniversaire - Coffret Poster - FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://outpostbrussels.be/products/pokemon-30e-anniversaire-coffret-poster-fr-s",
       "cat": "set_other"
@@ -1123,7 +1123,7 @@
     },
     "Zadoys::15813128683903": {
       "title": "30th Celebration Mewtu Figuren Kollektion DE",
-      "available": true,
+      "available": false,
       "lang": "DE",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mewtu-figuren-kollektion-deutsch",
       "cat": "set_other"
@@ -3272,7 +3272,7 @@
     },
     "LaschoCards::11618649571669": {
       "title": "Pokémon TCG - 30th Celebration Ultra Premium Collection",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://laschocards.ch/products/pokemon-tcg-30th-celebration-ultra-premium-collection",
       "cat": "target_upc"
@@ -6569,7 +6569,7 @@
     },
     "Pikaversum::16004673831286": {
       "title": "Meowscarada ex [DLR - 014/103]",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://pikaversum.ch/products/meowscarada-ex-dlr-014-103",
       "cat": "set_other"
@@ -8148,6 +8148,83 @@
       "lang": "?",
       "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-pack",
       "cat": "set_other"
+    },
+    "Collecting Cloud::16729260917085": {
+      "title": "Pokémon - Mega Evolution - 30th Celebration Ditto Premium Collection (EN)",
+      "available": false,
+      "lang": "EN",
+      "url": "https://collecting.cloud/products/pokemon-mega-evolution-30th-celebration-ditto-premium-collection-en",
+      "cat": "set_other"
+    },
+    "Pikaversum::16045433028982": {
+      "title": "Scraggy [30C - 140/128]",
+      "available": false,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/scraggy-140-128-30c-140-128",
+      "cat": "set_other"
+    },
+    "Pikaversum::16045432963446": {
+      "title": "Raikou ex [DLR - 033/103]",
+      "available": true,
+      "lang": "EN",
+      "url": "https://pikaversum.ch/products/raikou-ex-033-103-dlr-033-103",
+      "cat": "set_other"
+    },
+    "Zadoys::16117214249343": {
+      "title": "30th Celebration Nacht + Mega Glurak X Ultra Premium Kollektion DE",
+      "available": true,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-nacht-mega-glurak-x-ultra-premium-kollektion-deutsch",
+      "cat": "target_upc"
+    },
+    "Zadoys::16117210382719": {
+      "title": "30th Celebration Tag + Mega Glurak X Ultra Premium Kollektion DE",
+      "available": true,
+      "lang": "DE",
+      "url": "https://zadoys.ch/products/pokemon-30th-celebration-tag-mega-glurak-x-ultra-premium-kollektion-deutsch",
+      "cat": "target_upc"
+    },
+    "TMS Bricks Shop::16214173974910": {
+      "title": "Pokémon: Quajutsu-ex – 30 Jahre (30C 021) – Einzelkarte",
+      "available": false,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-quajutsu-ex-30-jahre-30c-021-deutsch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16214173876606": {
+      "title": "Pokémon: Psiana-ex – 30 Jahre (30C 070) – Einzelkarte",
+      "available": false,
+      "lang": "DE",
+      "url": "https://tmsbricksshop.ch/products/pokemon-psiana-ex-30-jahre-30c-070-deutsch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16214170763646": {
+      "title": "Pokémon: Gengar ex – 30th Celebration (30C 090) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-gengar-ex-30th-celebration-30c-090-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16214170730878": {
+      "title": "Pokémon: Mew ex – 30th Celebration (30C 066) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-mew-ex-30th-celebration-30c-066-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16214170665342": {
+      "title": "Pokémon: Sylveon ex – 30th Celebration (30C 071) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-sylveon-ex-30th-celebration-30c-071-englisch-einzelkarte",
+      "cat": "set_other"
+    },
+    "TMS Bricks Shop::16214170141054": {
+      "title": "Pokémon: Greninja ex – 30th Celebration (30C 021) – Einzelkarte",
+      "available": false,
+      "lang": "EN",
+      "url": "https://tmsbricksshop.ch/products/pokemon-greninja-ex-30th-celebration-30c-021-englisch-einzelkarte",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -8421,7 +8498,8 @@
     "GoodGames Bern::https://www.goodgamesbern.ch/?s=30th+celebration": [],
     "TMS Bricks Shop::https://tmsbricksshop.ch": [],
     "Geek Place::https://geekplace.shop": [],
-    "GoodGames Bern::https://www.goodgamesbern.ch": []
+    "GoodGames Bern::https://www.goodgamesbern.ch": [],
+    "Coop::https://www.coop.ch/fr/search/?text=30th%20celebration": []
   },
   "hb": {
     "minuit": "2026-11-26",
@@ -8744,7 +8822,11 @@
     "<8edd0de27a984503b8c6920f61afad64@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<949e4d4e9a5b44e285cb22ca405c25ae@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<12bbd9d2da834f399f958b0e3cb01e9f@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<d513cf3bc20745a6b6f2b4827db6eaa5@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
+    "<d513cf3bc20745a6b6f2b4827db6eaa5@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<389dbcb9c69d4e2883e9f24768f21255@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<b2d998a5e6714253b0f00876ad5eeda1@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<400d13f925c34d928f3a1f6d4052eda2@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>",
+    "<f015ac5ed35d46818c941f002fb7c89f@DB8PR10MB3148.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
