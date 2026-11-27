@@ -1158,14 +1158,14 @@
     },
     "Zadoys::15802853654911": {
       "title": "30th Celebration Ultra Premium Collection Soirée FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-soiree-franzoesisch",
       "cat": "target_upc"
     },
     "Zadoys::15802848838015": {
       "title": "30th Celebration Ultra Premium Collection Journée FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-journee-franzoesisch",
       "cat": "target_upc"
@@ -1179,7 +1179,7 @@
     },
     "Zadoys::15802683228543": {
       "title": "30th Celebration Ultra Premium Collection Day EN",
-      "available": true,
+      "available": false,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-ultra-premium-collection-day-englisch",
       "cat": "target_upc"
@@ -1220,7 +1220,7 @@
       "cat": "set_other"
     },
     "Zadoys::15775156371839": {
-      "title": "30th Celebration Coffret Dresseur d'Elite + 1 Produkt nach Wahl FR",
+      "title": "30th Celebration Coffret Dresseur d'Elite FR",
       "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-coffret-dresseur-delite-franzoesisch",
@@ -1256,7 +1256,7 @@
     },
     "Zadoys::15775082774911": {
       "title": "30th Celebration Tech Sticker Collection EN",
-      "available": false,
+      "available": true,
       "lang": "EN",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-tech-sticker-collection-englisch",
       "cat": "set_other"
@@ -2012,7 +2012,7 @@
     },
     "Pikaversum::15840202391926": {
       "title": "Pokémon TCG: 30th Celebration Poster Collection",
-      "available": true,
+      "available": false,
       "lang": "?",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-poster-collection",
       "cat": "set_other"
@@ -3524,7 +3524,7 @@
     },
     "Pokecard Store::15561293463927": {
       "title": "Pokémon 30th Celebration Collection Display Box (CN)",
-      "available": false,
+      "available": true,
       "lang": "?",
       "url": "https://pokecard.store/products/pokemon-30th-celebration-collection-display-box-cn",
       "cat": "set_other"
@@ -8127,6 +8127,27 @@
       "lang": "EN",
       "url": "https://pikaversum.ch/products/pokemon-tcg-30th-celebration-tech-sticker-collection-englisch",
       "cat": "set_other"
+    },
+    "Tamori Cards::16409244926277": {
+      "title": "Coffret Ultra Premium | 30TH Nuit",
+      "available": false,
+      "lang": "FR",
+      "url": "https://tamoricards.ch/products/coffret-ultra-premium-30th-nuit",
+      "cat": "target_upc"
+    },
+    "Tamori Cards::16409244860741": {
+      "title": "Coffret Ultra Premium | 30TH Jour",
+      "available": false,
+      "lang": "FR",
+      "url": "https://tamoricards.ch/products/coffret-ultra-premium-30th-jour",
+      "cat": "target_upc"
+    },
+    "Cardmaniac::8704682229935": {
+      "title": "Pokémon TCG – 30th Celebration Booster Pack",
+      "available": false,
+      "lang": "?",
+      "url": "https://cardmaniac.ch/products/pokemon-tcg-30th-celebration-booster-pack",
+      "cat": "set_other"
     }
   },
   "html": {
@@ -8720,7 +8741,9 @@
     "<b61b6122423944a6a038913ed310fe39@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<8b9213582ddf43af86a909caeb34245e@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
     "<9608c8e8eb7341b38abc7ee7380ede72@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
-    "<8edd0de27a984503b8c6920f61afad64@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
+    "<8edd0de27a984503b8c6920f61afad64@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<949e4d4e9a5b44e285cb22ca405c25ae@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>",
+    "<12bbd9d2da834f399f958b0e3cb01e9f@AM0PR10MB3139.EURPRD10.PROD.OUTLOOK.COM>"
   ],
   "mail_initialized": true
 }
