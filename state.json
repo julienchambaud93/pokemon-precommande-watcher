@@ -1389,7 +1389,7 @@
     },
     "Zadoys::15773565387135": {
       "title": "30th Celebration Mini Tin FR",
-      "available": true,
+      "available": false,
       "lang": "FR",
       "url": "https://zadoys.ch/products/pokemon-mega-series-30th-celebration-mini-tin-franzoesisch",
       "cat": "set_other"
@@ -1956,14 +1956,14 @@
     },
     "MaRo Shop::15047248183672": {
       "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Nacht DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ultra-premium-kollektion-nacht-de",
       "cat": "target_upc"
     },
     "MaRo Shop::15047248249208": {
       "title": "Pokémon - 30 Jahre - Ultra-Premium-Kollektion Tag DE",
-      "available": false,
+      "available": true,
       "lang": "DE",
       "url": "https://www.maro-shop.ch/products/pokemon-30-jahre-ultra-premium-kollektion-tag-de",
       "cat": "target_upc"
@@ -7710,7 +7710,7 @@
     },
     "MaRo Shop::15080068940152": {
       "title": "Pokémon - 30ème Anniversaire - Collection Ultra Premium Noctali FR",
-      "available": false,
+      "available": true,
       "lang": "FR",
       "url": "https://www.maro-shop.ch/products/pokemon-30th-celebration-ultra-premium-collection-night-fr",
       "cat": "target_upc"
